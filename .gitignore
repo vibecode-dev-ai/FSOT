@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*~
+
+# Claude Code machine-local settings (permissions are per-machine)
+.claude/settings.local.json
+
+# Logs and scratch
+*.log

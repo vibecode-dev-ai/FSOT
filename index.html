@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>FSOT Study App</title>
+<link rel="stylesheet" href="css/styles.css">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎓</text></svg>">
+</head>
+<body>
+
+<header class="topbar">
+  <a class="brand" href="#/home">
+    <span class="brand-mark">FSOT</span>
+    <span class="brand-sub">Study App</span>
+  </a>
+  <nav class="topnav">
+    <a href="#/home" data-nav="home">Home</a>
+    <a href="#/progress" data-nav="progress">Progress</a>
+    <a href="#/settings" data-nav="settings">Settings</a>
+  </nav>
+</header>
+
+<main id="view" class="view" aria-live="polite"></main>
+
+<div id="modal-root"></div>
+
+<script type="module" src="js/app.js"></script>
+</body>
+</html>
