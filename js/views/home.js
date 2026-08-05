@@ -27,11 +27,27 @@ export async function renderHome(navigate) {
       <td><strong>${esc(s.name)}</strong><div class="tiny dim">${esc(s.blurb)}</div></td>
       <td class="num nowrap">${s.questionCount} q</td>
       <td class="num nowrap">${s.timeLimitMinutes} min</td>
-      <td class="num nowrap ${thin ? 'dim' : ''}">${c.total} in bank</td>
+      <td class="num nowrap ${thin ? '' : 'dim'}">${c.total} in bank</td>
     </tr>`;
   }).join('');
 
   const shortSections = SECTION_ORDER.filter((id) => counts[id].total < counts[id].needed);
+
+  // Each section button states the session length first, since that is what the
+  // user is choosing — the bank total is secondary context.
+  const perSection = settings.practiceSectionCount;
+  const sectionChoices = SECTION_ORDER.map((id) => {
+    const available = counts[id].total;
+    const willAsk = Math.min(perSection, available);
+    return `<button class="section-choice" data-section="${id}">
+      <span class="section-choice-name">${esc(SECTIONS[id].name)}</span>
+      <span class="section-choice-meta">
+        ${willAsk} questions this session${
+          available > willAsk ? ` · drawn from ${available} in the bank` : ''
+        }
+      </span>
+    </button>`;
+  }).join('');
 
   setView(`
     <h1>Foreign Service Officer Test</h1>
@@ -63,30 +79,29 @@ export async function renderHome(navigate) {
         <div class="meta">${settings.practiceAllCount} questions · untimed · instant feedback</div>
       </button>
 
-      <button class="mode-card" data-mode="practice_section">
-        <h3>Practice — Single Section</h3>
-        <p>Same instant feedback, focused on one section at a time.</p>
-        <div class="meta">${settings.practiceSectionCount} questions · untimed · instant feedback</div>
-      </button>
+      <div class="mode-group">
+        <button class="mode-card" data-mode="practice_section"
+                aria-expanded="false" aria-controls="section-picker">
+          <h3>Practice — Single Section</h3>
+          <p>Same instant feedback, focused on one section at a time. Select this to choose which section you want.</p>
+          <div class="meta">
+            <span class="disclosure-caret" aria-hidden="true">▸</span>
+            ${perSection} questions · untimed · instant feedback
+          </div>
+        </button>
+
+        <div id="section-picker" class="section-picker" hidden>
+          <div class="section-picker-head">Which section do you want to practice?</div>
+          <div class="section-choices">${sectionChoices}</div>
+        </div>
+      </div>
 
       ${weak.length ? `
-      <button class="mode-card" data-mode="drill">
+      <button class="mode-card mode-card-drill" data-mode="drill">
         <h3>Drill My Weak Areas</h3>
         <p>Questions pulled from your lowest-accuracy subtopics and anything you have missed before.</p>
         <div class="meta">${settings.drillCount} questions · untimed · instant feedback</div>
       </button>` : ''}
-    </div>
-
-    <div id="section-picker" hidden class="card mt">
-      <h3>Which section?</h3>
-      <div class="stack" style="gap:.5rem">
-        ${SECTION_ORDER.map((id) => `
-          <button class="btn" data-section="${id}" style="justify-content:flex-start">
-            ${esc(SECTIONS[id].name)}
-            <span class="dim tiny">&nbsp;· ${counts[id].total} questions available</span>
-          </button>`).join('')}
-      </div>
-      <button class="btn btn-ghost btn-sm mt" data-cancel-section>Cancel</button>
     </div>
 
     <hr class="divider">
@@ -113,12 +128,21 @@ export async function renderHome(navigate) {
 
   const view = document.getElementById('view');
   const picker = view.querySelector('#section-picker');
+  const sectionCard = view.querySelector('[data-mode="practice_section"]');
+
+  function setPickerOpen(open) {
+    picker.hidden = !open;
+    sectionCard.classList.toggle('expanded', open);
+    sectionCard.setAttribute('aria-expanded', String(open));
+  }
 
   on(view, '[data-mode]', 'click', (e, btn) => {
     const mode = btn.dataset.mode;
     if (mode === 'practice_section') {
-      picker.hidden = false;
-      picker.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+      // Selecting the card toggles its own chooser, which sits attached below it.
+      const open = picker.hidden;
+      setPickerOpen(open);
+      if (open) picker.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
       return;
     }
     navigate(`#/exam/${mode}`);
@@ -126,9 +150,5 @@ export async function renderHome(navigate) {
 
   on(view, '[data-section]', 'click', (e, btn) => {
     navigate(`#/exam/practice_section/${btn.dataset.section}`);
-  });
-
-  on(view, '[data-cancel-section]', 'click', () => {
-    picker.hidden = true;
   });
 }

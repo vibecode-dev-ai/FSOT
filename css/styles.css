@@ -172,6 +172,69 @@ body.exam-mode .topnav { display: none; }
 .mode-card p  { margin: 0; color: var(--text-2); font-size: .9rem; }
 .mode-card .meta { margin-top: .55rem; font-size: .8rem; color: var(--text-3); }
 
+/* Weak-area drill is a different kind of session — mark it with its own accent. */
+.mode-card-drill { border-left-color: var(--warn); }
+.mode-card-drill:focus-visible { outline-color: var(--warn); }
+
+/* ---------- single-section chooser ---------- */
+
+/* Card + chooser are one flex item so the stack gap does not separate them. */
+.mode-group { display: flex; flex-direction: column; }
+
+/* When open, the card sheds its bottom edge so the panel below reads as
+   part of it rather than as a separate card further down the page. */
+.mode-group .mode-card.expanded {
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-color: transparent;
+  box-shadow: none;
+  transform: none;
+}
+.mode-group .mode-card.expanded:hover { transform: none; box-shadow: none; }
+
+.disclosure-caret {
+  display: inline-block;
+  margin-right: .3rem;
+  transition: transform .15s ease;
+}
+.mode-card.expanded .disclosure-caret { transform: rotate(90deg); }
+
+.section-picker {
+  background: var(--surface-2);
+  border: 1px solid var(--border);
+  border-top: 0;
+  border-left: 4px solid var(--accent);
+  border-bottom-left-radius: var(--radius);
+  border-bottom-right-radius: var(--radius);
+  padding: .9rem 1.25rem 1.1rem;
+  box-shadow: var(--shadow);
+}
+
+.section-picker-head {
+  font-size: .82rem;
+  color: var(--text-2);
+  margin-bottom: .6rem;
+}
+
+.section-choices { display: flex; flex-direction: column; gap: .4rem; }
+
+.section-choice {
+  display: flex; flex-direction: column; gap: .12rem;
+  width: 100%; text-align: left;
+  padding: .6rem .85rem;
+  border: 1px solid var(--border-strong);
+  border-radius: var(--radius-s);
+  background: var(--surface);
+  color: inherit; font: inherit;
+  cursor: pointer;
+  transition: border-color .12s ease, background .12s ease;
+}
+.section-choice:hover { border-color: var(--accent); background: var(--accent-soft); }
+.section-choice:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; }
+
+.section-choice-name { font-weight: 550; font-size: .93rem; }
+.section-choice-meta { font-size: .78rem; color: var(--text-3); }
+
 /* ---------- buttons ---------- */
 
 .btn {
