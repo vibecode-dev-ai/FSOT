@@ -1839,6 +1839,555 @@
       "choices": ["1.0", "0.25", "0.5", "0.75"],
       "answer": 1,
       "explanation": "For independent events, the joint probability is the product: 0.5 × 0.5 = 0.25. The 0.75 distractor is the probability that at least one occurs, and 1.0 comes from adding the probabilities — a valid operation only for mutually exclusive events."
+    },
+
+    {
+      "id": "jk-usg-057",
+      "subtopic": "us_government_history_society",
+      "difficulty": 2,
+      "stem": "The Louisiana Purchase (1803) raised a constitutional question because:",
+      "choices": [
+        "The Constitution did not expressly authorize the acquisition of foreign territory",
+        "The Senate refused to consent to the treaty with France",
+        "The purchase required a constitutional amendment that was never ratified",
+        "France lacked clear title to the territory"
+      ],
+      "answer": 0,
+      "explanation": "Jefferson, a strict constructionist, doubted his authority to acquire territory since no enumerated power covered it, and he proceeded anyway on treaty-power grounds. The Senate did consent, which makes the second option factually wrong — the difficulty was philosophical rather than procedural."
+    },
+    {
+      "id": "jk-usg-058",
+      "subtopic": "us_government_history_society",
+      "difficulty": 2,
+      "stem": "The Missouri Compromise of 1820 did which of the following?",
+      "choices": [
+        "Admitted Missouri as a free state and Maine as a slave state",
+        "Admitted Missouri as a slave state and Maine as a free state, barring slavery north of 36°30′ in the Louisiana Territory",
+        "Prohibited slavery in all territories acquired after 1820",
+        "Established popular sovereignty as the rule for all new territories"
+      ],
+      "answer": 1,
+      "explanation": "The Compromise preserved the Senate balance by pairing admissions and drew a line at 36°30′ across the remaining Louisiana Purchase lands. The first option reverses the two states, and popular sovereignty was the Kansas-Nebraska Act's approach three decades later — the very measure that repealed this line."
+    },
+    {
+      "id": "jk-usg-059",
+      "subtopic": "us_government_history_society",
+      "difficulty": 3,
+      "stem": "The Pendleton Civil Service Reform Act of 1883 established:",
+      "choices": [
+        "Collective bargaining rights for federal employees",
+        "Competitive examinations and merit-based hiring for a portion of federal positions",
+        "The Senior Executive Service",
+        "A prohibition on federal employees joining political parties"
+      ],
+      "answer": 1,
+      "explanation": "Passed after Garfield's assassination by a disappointed office seeker, the Act began the replacement of the spoils system with merit hiring. The fourth option overstates the restriction: the Hatch Act (1939) later limited partisan *activity* by federal employees, but never party membership."
+    },
+    {
+      "id": "jk-usg-060",
+      "subtopic": "us_government_history_society",
+      "difficulty": 2,
+      "stem": "The Sherman Antitrust Act of 1890 was designed to:",
+      "choices": [
+        "Regulate railroad shipping rates",
+        "Prohibit combinations in restraint of trade and attempts to monopolize",
+        "Establish the Federal Trade Commission",
+        "Break up commercial banks holding securities affiliates"
+      ],
+      "answer": 1,
+      "explanation": "Sherman targeted trusts and monopolization. The FTC came from a separate 1914 statute, railroad rates fell to the Interstate Commerce Act of 1887, and bank-securities separation is Glass-Steagall (1933) — a cluster of regulatory statutes easily confused by era."
+    },
+    {
+      "id": "jk-usg-061",
+      "subtopic": "us_government_history_society",
+      "difficulty": 1,
+      "stem": "The Nineteenth Amendment, ratified in 1920, guaranteed:",
+      "choices": [
+        "The right to vote regardless of race",
+        "The right to vote regardless of sex",
+        "The direct election of senators",
+        "The right to vote at age eighteen"
+      ],
+      "answer": 1,
+      "explanation": "The Nineteenth Amendment prohibited denial of the franchise on account of sex. Race is the Fifteenth Amendment (1870), direct election of senators the Seventeenth (1913), and the voting age the Twenty-Sixth (1971)."
+    },
+    {
+      "id": "jk-usg-062",
+      "subtopic": "us_government_history_society",
+      "difficulty": 3,
+      "stem": "Korematsu v. United States (1944) is significant chiefly because the Court:",
+      "choices": [
+        "Struck down the wartime exclusion of Japanese Americans as unconstitutional",
+        "Upheld the exclusion order while articulating strict scrutiny for racial classifications",
+        "Held that the President lacked authority to act without congressional authorization",
+        "Established the internment program's compensation scheme"
+      ],
+      "answer": 1,
+      "explanation": "The Court upheld the exclusion order but stated that racial classifications are 'immediately suspect' and subject to the most rigid scrutiny — a standard later used to strike down the very kind of discrimination Korematsu permitted. The decision was repudiated by the Court in 2018; compensation came from the Civil Liberties Act of 1988."
+    },
+    {
+      "id": "jk-usg-063",
+      "subtopic": "us_government_history_society",
+      "difficulty": 2,
+      "stem": "The Truman Doctrine (1947) committed the United States to:",
+      "choices": [
+        "Rebuilding the economies of Western Europe",
+        "Supporting free peoples resisting subjugation, beginning with aid to Greece and Turkey",
+        "Establishing a permanent military alliance in the North Atlantic",
+        "Recognizing spheres of influence in postwar Europe"
+      ],
+      "answer": 1,
+      "explanation": "Truman's March 1947 address framed aid to Greece and Turkey as a general commitment to resist communist expansion. Economic reconstruction is the Marshall Plan and the alliance is NATO — three initiatives from the same three-year span that together defined containment."
+    },
+    {
+      "id": "jk-usg-064",
+      "subtopic": "us_government_history_society",
+      "difficulty": 3,
+      "stem": "George Kennan's 'Long Telegram' and the subsequent 'X' article argued that Soviet expansionism should be met with:",
+      "choices": [
+        "Immediate military rollback of Soviet gains in Eastern Europe",
+        "Patient but firm containment at a series of shifting geographical points",
+        "Accommodation through negotiated spheres of influence",
+        "Reliance on the United Nations to arbitrate disputes"
+      ],
+      "answer": 1,
+      "explanation": "Kennan called for 'long-term, patient but firm and vigilant containment.' Rollback was the more aggressive alternative urged by others in the period, and Kennan himself later objected that containment had been read too militarily — a nuance that makes the first option the sharpest distractor."
+    },
+    {
+      "id": "jk-usg-065",
+      "subtopic": "us_government_history_society",
+      "difficulty": 3,
+      "stem": "United States v. Nixon (1974) held that:",
+      "choices": [
+        "Executive privilege is absolute in matters touching national security",
+        "A qualified executive privilege exists but yields to a demonstrated need for evidence in a criminal trial",
+        "The President may not be subpoenaed under any circumstances",
+        "Impeachment is the sole remedy for presidential misconduct"
+      ],
+      "answer": 1,
+      "explanation": "The Court recognized executive privilege as constitutionally grounded but held it not absolute, requiring the tapes be produced. The decision is a landmark precisely because it did both things at once — acknowledging the privilege while subordinating it, which the absolutist first option misses."
+    },
+    {
+      "id": "jk-usg-066",
+      "subtopic": "us_government_history_society",
+      "difficulty": 3,
+      "stem": "Baker v. Carr (1962) and its successors established the principle of:",
+      "choices": [
+        "One person, one vote in legislative apportionment",
+        "Federal supremacy over state election administration",
+        "Strict scrutiny for racial gerrymandering",
+        "The right to counsel in state criminal proceedings"
+      ],
+      "answer": 0,
+      "explanation": "Baker held legislative apportionment justiciable, opening the way to the one-person-one-vote rule of Reynolds v. Sims. The fourth option is Gideon v. Wainwright, decided the following year — the two are often conflated as Warren Court landmarks of the early 1960s."
+    },
+    {
+      "id": "jk-usg-067",
+      "subtopic": "us_government_history_society",
+      "difficulty": 2,
+      "stem": "Gideon v. Wainwright (1963) held that:",
+      "choices": [
+        "Suspects must be informed of their right to remain silent",
+        "States must provide counsel to indigent defendants in felony cases",
+        "Evidence obtained unlawfully is inadmissible in state courts",
+        "Defendants have a right to a speedy trial"
+      ],
+      "answer": 1,
+      "explanation": "Gideon incorporated the Sixth Amendment right to counsel against the states. The first option is Miranda (1966) and the third is Mapp v. Ohio (1961) — a trio of criminal-procedure incorporation cases decided within five years of one another."
+    },
+    {
+      "id": "jk-usg-068",
+      "subtopic": "us_government_history_society",
+      "difficulty": 3,
+      "stem": "Budget reconciliation is significant in the Senate primarily because reconciliation bills:",
+      "choices": [
+        "Require a two-thirds vote but cannot be vetoed",
+        "Cannot be filibustered and therefore pass with a simple majority",
+        "Bypass committee consideration entirely",
+        "Take effect without presidential signature"
+      ],
+      "answer": 1,
+      "explanation": "Reconciliation limits debate, so a filibuster is unavailable and a simple majority suffices — which is why major fiscal legislation is routinely routed through it. The Byrd rule constrains what may be included, but the procedural advantage is the reason the process matters."
+    },
+    {
+      "id": "jk-usg-069",
+      "subtopic": "us_government_history_society",
+      "difficulty": 3,
+      "stem": "The recess appointment power allows the President to:",
+      "choices": [
+        "Remove Senate-confirmed officials without cause",
+        "Fill vacancies temporarily when the Senate is in recess, with commissions expiring at the end of the next session",
+        "Appoint federal judges for life without Senate involvement",
+        "Designate acting officials for an indefinite period"
+      ],
+      "answer": 1,
+      "explanation": "Article II, Section 2 permits temporary appointments during Senate recesses, and such commissions expire at the end of the Senate's next session. The Court narrowed the power in NLRB v. Noel Canning (2014) by holding that the Senate is in session when it says it is — the origin of pro forma sessions held to block recess appointments."
+    },
+    {
+      "id": "jk-usg-070",
+      "subtopic": "us_government_history_society",
+      "difficulty": 2,
+      "stem": "The Americans with Disabilities Act of 1990 principally requires:",
+      "choices": [
+        "Federal funding for disability-related medical care",
+        "Reasonable accommodation and prohibition of discrimination in employment and public accommodations",
+        "Quotas for hiring people with disabilities",
+        "Accessibility standards for federal buildings only"
+      ],
+      "answer": 1,
+      "explanation": "The ADA bars discrimination and requires reasonable accommodation absent undue hardship. The fourth option describes the narrower Architectural Barriers Act of 1968, and the ADA deliberately imposes no quotas — an accommodation requirement is not a numerical one."
+    },
+    {
+      "id": "jk-usg-071",
+      "subtopic": "us_government_history_society",
+      "difficulty": 3,
+      "stem": "The Nullification Crisis of 1832-33 arose from South Carolina's claim that:",
+      "choices": [
+        "A state could secede from the Union at will",
+        "A state could declare a federal tariff void within its borders",
+        "Federal courts could not review state criminal convictions",
+        "Congress could not regulate slavery in the territories"
+      ],
+      "answer": 1,
+      "explanation": "South Carolina asserted the power to nullify the tariffs of 1828 and 1832. Jackson rejected the claim and secured a Force Bill authorizing military enforcement, while a compromise tariff defused the crisis — the episode is a rehearsal of the sovereignty arguments that resurfaced in 1861."
+    },
+    {
+      "id": "jk-usg-072",
+      "subtopic": "us_government_history_society",
+      "difficulty": 2,
+      "stem": "The Great Compromise at the Constitutional Convention resolved the dispute over representation by:",
+      "choices": [
+        "Counting enslaved persons as three-fifths of a person for apportionment",
+        "Creating a bicameral legislature with population-based and equal-state representation",
+        "Establishing an electoral college to select the President",
+        "Giving each state one vote in a unicameral congress"
+      ],
+      "answer": 1,
+      "explanation": "The Connecticut Compromise paired a population-based House with a Senate of equal state representation. The three-fifths clause is a separate compromise addressing how enslaved persons would count toward House apportionment, and the fourth option describes the Articles of Confederation the Convention was replacing."
+    },
+
+    {
+      "id": "jk-whg-036",
+      "subtopic": "world_history_geography",
+      "difficulty": 2,
+      "stem": "The Balfour Declaration (1917) expressed British support for:",
+      "choices": [
+        "Arab independence from Ottoman rule",
+        "A national home for the Jewish people in Palestine",
+        "The partition of Palestine into two states",
+        "An international mandate over Jerusalem"
+      ],
+      "answer": 1,
+      "explanation": "The declaration favored 'a national home for the Jewish people' in Palestine while stipulating that nothing should prejudice the rights of existing non-Jewish communities. Partition was a later proposal (Peel Commission 1937, UN 1947) — Balfour itself left the arrangement deliberately undefined."
+    },
+    {
+      "id": "jk-whg-037",
+      "subtopic": "world_history_geography",
+      "difficulty": 2,
+      "stem": "The Yalta Conference of February 1945 brought together:",
+      "choices": [
+        "Roosevelt, Churchill, and Stalin",
+        "Truman, Attlee, and Stalin",
+        "Wilson, Lloyd George, and Clemenceau",
+        "Roosevelt, Churchill, and Chiang Kai-shek"
+      ],
+      "answer": 0,
+      "explanation": "Yalta was the last of the wartime Big Three meetings with Roosevelt, who died two months later. The second option describes Potsdam in July 1945, after Roosevelt's death and Churchill's electoral defeat — the substitution of leaders mid-conference is what makes the two easy to confuse."
+    },
+    {
+      "id": "jk-whg-038",
+      "subtopic": "world_history_geography",
+      "difficulty": 3,
+      "stem": "The Montreux Convention (1936) governs:",
+      "choices": [
+        "Navigation on the Danube",
+        "Passage through the Turkish Straits, giving Turkey control subject to guaranteed transit rights",
+        "The demilitarization of the Åland Islands",
+        "Fishing rights in the Barents Sea"
+      ],
+      "answer": 1,
+      "explanation": "Montreux restored Turkish sovereignty over the Bosporus and Dardanelles while guaranteeing merchant passage and limiting warship transit by non-littoral states. It remains legally operative and is regularly invoked in Black Sea security disputes."
+    },
+    {
+      "id": "jk-whg-039",
+      "subtopic": "world_history_geography",
+      "difficulty": 2,
+      "stem": "The Korean War ended in 1953 with:",
+      "choices": [
+        "A peace treaty reunifying the peninsula",
+        "An armistice agreement, with no formal peace treaty concluded",
+        "A United Nations trusteeship over both Koreas",
+        "The withdrawal of all foreign forces from the peninsula"
+      ],
+      "answer": 1,
+      "explanation": "The Korean Armistice Agreement suspended hostilities without ending the war formally, which is why the two Koreas remain technically at war and the Demilitarized Zone persists. Treating the armistice as a peace treaty is a common error with real analytical consequences."
+    },
+    {
+      "id": "jk-whg-040",
+      "subtopic": "world_history_geography",
+      "difficulty": 2,
+      "stem": "The Camp David Accords (1978) were negotiated between:",
+      "choices": [
+        "Israel and Jordan, mediated by Britain",
+        "Egypt and Israel, mediated by the United States",
+        "Israel and the Palestine Liberation Organization, mediated by Norway",
+        "Syria and Israel, mediated by the United Nations"
+      ],
+      "answer": 1,
+      "explanation": "Carter mediated between Sadat and Begin, producing a framework that led to the 1979 Egypt-Israel peace treaty. The third option describes the Oslo Accords of 1993, and Israel-Jordan peace came in 1994 — three separate tracks spread across sixteen years."
+    },
+    {
+      "id": "jk-whg-041",
+      "subtopic": "world_history_geography",
+      "difficulty": 3,
+      "stem": "At its height in the thirteenth century, the Mongol Empire was notable for:",
+      "choices": [
+        "Being the largest contiguous land empire in history",
+        "Its naval dominance of the Indian Ocean",
+        "Its refusal to permit trade across its territories",
+        "Its rapid conversion of subject peoples to a single state religion"
+      ],
+      "answer": 0,
+      "explanation": "The Mongol Empire stretched from Korea to Hungary as the largest contiguous land empire ever assembled. The third option inverts a defining feature: Mongol control secured the overland trade routes, and the resulting Pax Mongolica intensified Eurasian exchange."
+    },
+    {
+      "id": "jk-whg-042",
+      "subtopic": "world_history_geography",
+      "difficulty": 2,
+      "stem": "ASEAN is a regional organization comprising states of:",
+      "choices": [
+        "South Asia",
+        "Southeast Asia",
+        "Central Asia",
+        "Northeast Asia"
+      ],
+      "answer": 1,
+      "explanation": "The Association of Southeast Asian Nations, founded in 1967, includes Indonesia, Thailand, Vietnam, the Philippines, and others. SAARC is the South Asian body — the near-identical naming pattern makes the first option the standard trap."
+    },
+    {
+      "id": "jk-whg-043",
+      "subtopic": "world_history_geography",
+      "difficulty": 3,
+      "stem": "The transatlantic slave trade transported the largest number of enslaved Africans to:",
+      "choices": [
+        "British North America and the United States",
+        "Brazil and the Caribbean",
+        "The Iberian Peninsula",
+        "The Indian Ocean colonies"
+      ],
+      "answer": 1,
+      "explanation": "Roughly 95 percent of enslaved Africans carried across the Atlantic were taken to Brazil and the Caribbean sugar colonies; fewer than five percent went to mainland North America. The disparity surprises many precisely because the North American case is the most familiar."
+    },
+    {
+      "id": "jk-whg-044",
+      "subtopic": "world_history_geography",
+      "difficulty": 2,
+      "stem": "The Danube River flows through more countries than any other river in the world and empties into:",
+      "choices": ["The Baltic Sea", "The Black Sea", "The Adriatic Sea", "The North Sea"],
+      "answer": 1,
+      "explanation": "The Danube runs from Germany's Black Forest through ten countries to a delta on the Black Sea. The Rhine is the river that flows to the North Sea — the two are the classic pairing of major European waterways running in opposite directions."
+    },
+    {
+      "id": "jk-whg-045",
+      "subtopic": "world_history_geography",
+      "difficulty": 3,
+      "stem": "The Good Friday Agreement (1998) addressed the conflict in:",
+      "choices": [
+        "The Basque Country",
+        "Northern Ireland",
+        "Cyprus",
+        "Kosovo"
+      ],
+      "answer": 1,
+      "explanation": "The Agreement established power-sharing institutions in Northern Ireland and reframed the constitutional question through consent. It is frequently cited as a model for other divided societies, which is why the other long-running European disputes appear here as distractors."
+    },
+
+    {
+      "id": "jk-eco-029",
+      "subtopic": "economics",
+      "difficulty": 2,
+      "stem": "The opportunity cost of a decision is:",
+      "choices": [
+        "The total money spent on the chosen option",
+        "The value of the next-best alternative forgone",
+        "The sum of all alternatives not chosen",
+        "The difference between projected and actual cost"
+      ],
+      "answer": 1,
+      "explanation": "Opportunity cost is the single best forgone alternative, not the sum of all of them — the third option is the most common overstatement. Note also that it need not involve money at all: time spent is the classic example."
+    },
+    {
+      "id": "jk-eco-030",
+      "subtopic": "economics",
+      "difficulty": 3,
+      "stem": "A public good is best defined as one that is:",
+      "choices": [
+        "Provided by the government rather than private firms",
+        "Non-rival in consumption and non-excludable",
+        "Available to all citizens at subsidized prices",
+        "Essential to basic human welfare"
+      ],
+      "answer": 1,
+      "explanation": "The definition is technical: one person's use does not diminish another's, and non-payers cannot be excluded — national defense being the standard example. The first option confuses the definition with the provider, which is why many public goods are government-supplied without government provision being what makes them public goods."
+    },
+    {
+      "id": "jk-eco-031",
+      "subtopic": "economics",
+      "difficulty": 2,
+      "stem": "A negative externality occurs when:",
+      "choices": [
+        "A firm's costs exceed its revenues",
+        "A transaction imposes costs on third parties not reflected in the price",
+        "A government imposes a tax on production",
+        "Consumers lack information about product quality"
+      ],
+      "answer": 1,
+      "explanation": "Pollution is the canonical case: the price of the good omits the cost borne by others, so the market overproduces it. The fourth option describes information asymmetry, a separate category of market failure with different remedies."
+    },
+    {
+      "id": "jk-eco-032",
+      "subtopic": "economics",
+      "difficulty": 2,
+      "stem": "The Consumer Price Index measures:",
+      "choices": [
+        "The total output of an economy",
+        "The change in prices of a fixed basket of goods and services purchased by households",
+        "The average wage across all sectors",
+        "The difference between imports and exports"
+      ],
+      "answer": 1,
+      "explanation": "The CPI tracks price changes for a representative consumption basket and is the standard headline inflation measure. Because the basket is fixed between revisions, the CPI is known to overstate inflation somewhat when consumers substitute away from goods whose prices rise."
+    },
+    {
+      "id": "jk-eco-033",
+      "subtopic": "economics",
+      "difficulty": 3,
+      "stem": "The balance of trade differs from the balance of payments in that the balance of trade:",
+      "choices": [
+        "Includes only goods and services, while the balance of payments covers all international transactions",
+        "Is measured annually, while the balance of payments is measured quarterly",
+        "Applies only to developing economies",
+        "Excludes government transactions"
+      ],
+      "answer": 0,
+      "explanation": "The trade balance is a component of the current account, which is itself one part of the balance of payments alongside the capital and financial accounts. Treating a trade deficit as equivalent to a balance-of-payments deficit is a persistent confusion in public commentary."
+    },
+    {
+      "id": "jk-eco-034",
+      "subtopic": "economics",
+      "difficulty": 3,
+      "stem": "Import substitution industrialization differs from export-led growth in that the former:",
+      "choices": [
+        "Prioritizes producing domestically what would otherwise be imported, typically behind tariff protection",
+        "Requires membership in a customs union",
+        "Depends on foreign direct investment in manufacturing",
+        "Has been more successful in East Asia than in Latin America"
+      ],
+      "answer": 0,
+      "explanation": "ISI builds domestic industry behind trade barriers; export-led growth orients production toward world markets. The fourth option inverts the historical record — East Asia is the export-led exemplar, and Latin America the region most associated with ISI's disappointing results."
+    },
+    {
+      "id": "jk-eco-035",
+      "subtopic": "economics",
+      "difficulty": 3,
+      "stem": "The U.S. dollar's status as the principal global reserve currency gives the United States:",
+      "choices": [
+        "A permanent trade surplus",
+        "The ability to borrow more cheaply and settle international obligations in its own currency",
+        "Exemption from balance-of-payments constraints entirely",
+        "Direct control over other countries' monetary policy"
+      ],
+      "answer": 1,
+      "explanation": "Reserve status generates persistent foreign demand for dollar assets, lowering U.S. borrowing costs — the 'exorbitant privilege.' The first option is nearly the opposite: supplying the world's reserve asset tends to accompany trade deficits, a tension known as the Triffin dilemma."
+    },
+    {
+      "id": "jk-eco-036",
+      "subtopic": "economics",
+      "difficulty": 3,
+      "stem": "Moral hazard arises when:",
+      "choices": [
+        "Buyers know less about a product's quality than sellers",
+        "A party takes greater risks because it does not bear the full consequences",
+        "Firms collude to raise prices above competitive levels",
+        "Government spending crowds out private investment"
+      ],
+      "answer": 1,
+      "explanation": "Moral hazard is about altered incentives after protection is in place — the argument against bank bailouts rests on it. The first option describes adverse selection, which concerns hidden information *before* a transaction; the two are companion concepts and routinely swapped."
+    },
+
+    {
+      "id": "jk-mat-022",
+      "subtopic": "math_statistics",
+      "difficulty": 3,
+      "stem": "A post processes 300 cases at an average of 4 days each and 100 cases at an average of 12 days each. What is the overall average processing time?",
+      "choices": ["6 days", "8 days", "7 days", "5 days"],
+      "answer": 0,
+      "explanation": "Total days are (300 × 4) + (100 × 12) = 2,400 over 400 cases, giving 6 days. The 8-day answer comes from averaging 4 and 12 without weighting by volume — the single most common error with averages of averages."
+    },
+    {
+      "id": "jk-mat-023",
+      "subtopic": "math_statistics",
+      "difficulty": 2,
+      "stem": "Country A has a GDP of $600 billion and 40 million people; Country B has a GDP of $300 billion and 15 million people. Which statement is accurate?",
+      "choices": [
+        "Country A has higher GDP per capita because its total GDP is larger",
+        "Country B has higher GDP per capita, at $20,000 versus $15,000",
+        "The two countries have equal GDP per capita",
+        "GDP per capita cannot be compared without exchange rates"
+      ],
+      "answer": 1,
+      "explanation": "Country A is $600B/40M = $15,000; Country B is $300B/15M = $20,000. The first option is the trap: larger total output says nothing about output per person, which is why population must always be checked before drawing welfare comparisons."
+    },
+    {
+      "id": "jk-mat-024",
+      "subtopic": "math_statistics",
+      "difficulty": 3,
+      "stem": "An economy grows 5% per year for three consecutive years. Total growth over the period is approximately:",
+      "choices": ["15%", "15.8%", "16.5%", "14.2%"],
+      "answer": 1,
+      "explanation": "Compounding gives 1.05³ = 1.1576, or about 15.8%. Simply adding the rates yields 15% and understates the result because each year's growth applies to a larger base — the gap widens sharply over longer horizons."
+    },
+    {
+      "id": "jk-mat-025",
+      "subtopic": "math_statistics",
+      "difficulty": 3,
+      "stem": "Of 200 applicants, 120 are first-time applicants and 80 are renewals. Sixty first-time applicants and 60 renewal applicants were approved. Which statement is accurate?",
+      "choices": [
+        "First-time applicants had a higher approval rate",
+        "Renewal applicants had a higher approval rate, 75% versus 50%",
+        "Approval rates were identical across the two groups",
+        "Equal numbers approved means equal approval rates"
+      ],
+      "answer": 1,
+      "explanation": "Renewals: 60/80 = 75%. First-time: 60/120 = 50%. The fourth option states the error the question is built around — equal numerators mean nothing when the denominators differ."
+    },
+    {
+      "id": "jk-mat-026",
+      "subtopic": "math_statistics",
+      "difficulty": 3,
+      "stem": "A screening test flags 90% of fraudulent applications and falsely flags 10% of legitimate ones. If only 1% of applications are fraudulent, a flagged application is:",
+      "choices": [
+        "About 90% likely to be fraudulent",
+        "Much more likely to be legitimate than fraudulent",
+        "Certainly fraudulent",
+        "Equally likely to be either"
+      ],
+      "answer": 1,
+      "explanation": "Out of 1,000 applications, 10 are fraudulent and about 9 get flagged, while 990 are legitimate and about 99 get flagged — so roughly 9 of every 108 flags are genuine. Ignoring how rare the condition is, and reading the 90% detection rate as the probability of fraud, is the base rate fallacy."
+    },
+    {
+      "id": "jk-mat-027",
+      "subtopic": "math_statistics",
+      "difficulty": 2,
+      "stem": "A salary rises from $60,000 to $63,000 while inflation over the same period is 4%. In real terms, the salary has:",
+      "choices": [
+        "Risen by 5%",
+        "Risen by roughly 1%",
+        "Fallen by roughly 1%",
+        "Remained unchanged"
+      ],
+      "answer": 1,
+      "explanation": "The nominal increase is 5%; subtracting 4% inflation leaves about 1% real growth. Reporting the nominal figure alone is the standard way wage changes are made to look better or worse than they are."
     }
   ]
 }

@@ -45,7 +45,47 @@
     "lr-042": "A commentator argues that because the sanctions regime has not yet produced the desired policy change after eighteen months, it should be abandoned.",
     "lr-043": "The ministry asserts that public support for the trade agreement is strong, citing a poll in which 62 percent of respondents said they favored 'expanding economic cooperation with our neighbors.'",
     "lr-044": "An analyst notes that the two states have never fought a war despite sixty years of territorial dispute, and concludes that the dispute is not a serious risk to regional stability.",
-    "lr-045": "A researcher argues that peacekeeping missions are ineffective, noting that countries hosting peacekeeping missions experience higher rates of political violence than countries that do not."
+    "lr-045": "A researcher argues that peacekeeping missions are ineffective, noting that countries hosting peacekeeping missions experience higher rates of political violence than countries that do not.",
+    "lr-046": "All members of the trade bloc have eliminated tariffs on agricultural goods. Country M has eliminated tariffs on agricultural goods but is not a member of the trade bloc.",
+    "lr-047": "The ministry will fund a project only if it has been independently evaluated. The literacy project has been independently evaluated.",
+    "lr-048": "No country that has ratified the protocol has been permitted to increase its emissions allocation. Country R has been permitted to increase its emissions allocation.",
+    "lr-049": "A senior official argues that the department should require all officers to serve at least one tour in a hardship post, since officers who have served in hardship posts consistently report greater satisfaction with their careers.",
+    "lr-050": "Whenever the ministry has published its inspection findings, compliance among regulated firms has improved within a year. The ministry published its inspection findings last month.",
+    "lr-051": "An economist notes that after the government removed fuel subsidies, urban air quality improved measurably. She argues the subsidy removal caused the improvement.",
+    "lr-052": "The director of a training institute argues that its curriculum is effective because graduates outperform non-graduates on the certification examination. Admission to the institute is competitive and based on prior examination scores.",
+    "lr-053": "A commentator argues that because the ceasefire has held for six months, the underlying political dispute has been resolved.",
+    "lr-054": "The health ministry reports that the vaccination campaign reached 85 percent of the target population. A field auditor notes that coverage was calculated using population figures from a census conducted twelve years ago, before substantial urban migration.",
+    "lr-055": "An analyst argues that the country's new anticorruption agency is ineffective, since prosecutions have declined in each of the two years since it was established.",
+    "lr-056": "A diplomat argues that the summit was a success because all parties signed the final communiqué. A colleague observes that the communiqué contains no commitments that any party had not already made publicly.",
+    "lr-057": "Studies show that students who study abroad earn higher salaries a decade after graduation than students who do not. A university administrator concludes that expanding study-abroad opportunities would raise graduates' future earnings.",
+    "lr-058": "A ministry official argues that the department should stop funding small grants and concentrate on large ones, because administrative cost per dollar disbursed is lower for large grants.",
+    "lr-059": "The security service maintains that its surveillance program is justified because it has disrupted four plots. A civil liberties group responds that the service has not shown that conventional investigative methods would have failed to disrupt those plots.",
+    "lr-060": "A regional specialist observes that the two states began formal negotiations only after a change of government in one of them, and concludes that the previous government had been the obstacle.",
+    "lr-061": "A donor evaluates two health clinics. Clinic A treats 400 patients per month with a 92 percent recovery rate. Clinic B treats 90 patients per month with a 97 percent recovery rate. The donor recommends redirecting funds from Clinic A to Clinic B.",
+    "lr-062": "A policy paper argues that because every successful democratic transition in the region was preceded by economic growth, economic growth is a precondition for democratic transition.",
+    "lr-063": "An officer argues that a new reporting template has improved cable quality, noting that Washington's ratings of cables from her post rose after the template was introduced. The template was introduced at the same time as a new front office.",
+    "lr-064": "The ministry claims its road-safety campaign succeeded because traffic fatalities fell 18 percent in the year after the campaign. Vehicle registrations fell 22 percent over the same period following a fuel price increase.",
+    "lr-065": "A negotiator argues that the other side will accept the current offer, since it is better than the offer they accepted in the previous round of talks three years ago.",
+    "lr-066": "An analyst notes that countries that sign investment treaties subsequently receive more foreign investment than countries that do not, and recommends that developing countries sign such treaties to attract capital.",
+    "lr-067": "The inspector general found that the office had no written procedure for handling classified material. The office director responded that no security incident had occurred in the office's eleven-year history.",
+    "lr-068": "A commentator argues that the aid program should be judged a failure because independent evaluators could not detect a statistically significant effect on household income.",
+    "lr-069": "An adviser argues that the department should recruit more candidates with private-sector experience, since the three most effective ambassadors of the past decade came from business backgrounds.",
+    "lr-070": "The finance ministry projects that the tax reform will raise revenue by 6 percent. The projection assumes that taxpayer behavior will not change in response to the new rates.",
+    "lr-071": "A researcher finds that in countries with a free press, government corruption is reported more frequently than in countries without one. She concludes that press freedom increases corruption.",
+    "lr-072": "The embassy's economic section argues that the host country's growth figures are unreliable, noting that reported growth has been between 6.9 and 7.1 percent in each of the past nine years, a stability no comparable economy has achieved.",
+    "lr-073": "An official argues that since the department has never lost a case at the arbitration panel, its legal positions are sound.",
+    "lr-074": "A study of consular decisions found that officers who had worked at a post for more than three years refused applications at a rate 6 points lower than newer officers. The study attributes the gap to local knowledge.",
+    "lr-075": "A commentator argues that the trade agreement must be beneficial, since both governments negotiated it voluntarily and each is presumed to act in its own interest.",
+    "lr-076": "A ministry proposes to measure diplomatic effectiveness by counting the number of bilateral agreements each embassy concludes annually.",
+    "lr-077": "The evaluation found that participating villages had better sanitation outcomes than non-participating villages. Participation required villages to contribute 20 percent of project costs from local funds.",
+    "lr-078": "A political analyst argues that the opposition party will win the election, since it leads in every poll conducted among voters who used the party's own website to register their preferences.",
+    "lr-079": "An official argues that the department's language training is sufficient, since 94 percent of officers in language-designated positions hold the required certification.",
+    "lr-080": "A researcher notes that the countries most vocal in international forums about climate policy are also those least exposed to climate risk, and concludes that their advocacy is not motivated by self-interest.",
+    "lr-081": "A donor requires that all grantees submit audited financial statements. An evaluator observes that the smallest and most locally rooted organizations are least able to afford audits.",
+    "lr-082": "A commentator argues that because the sanctions caused significant economic damage to the target country, they achieved their purpose.",
+    "lr-083": "An officer argues that a colleague's assessment of the political situation should be discounted, since the colleague has family connections in the country concerned.",
+    "lr-084": "The ministry's report notes that public trust in the institution rose 9 points after a transparency initiative. The survey following the initiative was conducted by telephone; the earlier one was conducted in person.",
+    "lr-085": "A specialist argues that the regional organization has been effective, citing that member states have not fought a war with one another since its founding. The organization was founded after a decisive war that settled the principal territorial questions among its members."
   },
   "questions": [
     {
@@ -977,6 +1017,727 @@
       ],
       "answer": 0,
       "explanation": "The argument treats costly non-compliance as proof of ineffectiveness, which holds only under a standard that equates effectiveness with compelling unwilling behavior. The third option is a background assumption of the field rather than a principle that connects the evidence to the conclusion."
+    },
+
+    {
+      "id": "lr-inf-063",
+      "subtopic": "inference",
+      "difficulty": 2,
+      "passageId": "lr-046",
+      "stem": "Which of the following must be true?",
+      "choices": [
+        "Country M will eventually join the trade bloc",
+        "Eliminating agricultural tariffs is not sufficient for membership in the trade bloc",
+        "Country M meets all requirements for membership",
+        "Some bloc members retain agricultural tariffs"
+      ],
+      "answer": 1,
+      "explanation": "M has done what all members have done yet is not a member, so the action cannot by itself confer membership. The fourth option directly contradicts the premise that all members have eliminated those tariffs."
+    },
+    {
+      "id": "lr-inf-064",
+      "subtopic": "inference",
+      "difficulty": 3,
+      "passageId": "lr-047",
+      "stem": "Which of the following can be properly concluded?",
+      "choices": [
+        "The ministry will fund the literacy project",
+        "The literacy project has satisfied a necessary condition for funding",
+        "The literacy project is more likely to be funded than unevaluated projects",
+        "The ministry funds all evaluated projects"
+      ],
+      "answer": 1,
+      "explanation": "'Only if' marks evaluation as necessary, not sufficient, so meeting it establishes eligibility and nothing more. The first option affirms the consequent; the third makes a probabilistic claim that a statement of logical necessity does not support."
+    },
+    {
+      "id": "lr-inf-065",
+      "subtopic": "inference",
+      "difficulty": 3,
+      "passageId": "lr-048",
+      "stem": "Which of the following must be true?",
+      "choices": [
+        "Country R has not ratified the protocol",
+        "Country R will be sanctioned",
+        "Country R intends to ratify the protocol later",
+        "Ratifying the protocol prevents emissions from rising"
+      ],
+      "answer": 0,
+      "explanation": "No ratifier has been permitted to increase its allocation, and R has been permitted, so R cannot be a ratifier — a valid contrapositive. The fourth option confuses a restriction on allocations with a claim about actual emissions."
+    },
+    {
+      "id": "lr-inf-066",
+      "subtopic": "identify_flaw",
+      "difficulty": 3,
+      "passageId": "lr-049",
+      "stem": "The official's argument is most vulnerable to the criticism that:",
+      "choices": [
+        "Officers who volunteer for hardship posts may differ from those who would be compelled to serve",
+        "Hardship posts are more expensive to staff",
+        "Career satisfaction is difficult to measure",
+        "Some officers have medical restrictions"
+      ],
+      "answer": 0,
+      "explanation": "The evidence comes from officers who chose hardship service, and the proposal would apply to everyone. Whatever disposition led volunteers to go may be the same thing producing their satisfaction, in which case compelling the unwilling would not reproduce it."
+    },
+    {
+      "id": "lr-inf-067",
+      "subtopic": "inference",
+      "difficulty": 2,
+      "passageId": "lr-050",
+      "stem": "Which conclusion is best supported?",
+      "choices": [
+        "Compliance will certainly improve within a year",
+        "Based on the past pattern, compliance can reasonably be expected to improve",
+        "Publishing findings is the only way to improve compliance",
+        "Compliance would not have improved without publication"
+      ],
+      "answer": 1,
+      "explanation": "An unbroken past record supports an expectation, not a guarantee — the stimulus reports what has happened rather than stating a rule. The third and fourth options treat a sufficient condition as though it were necessary."
+    },
+    {
+      "id": "lr-inf-068",
+      "subtopic": "strengthen_weaken",
+      "difficulty": 3,
+      "passageId": "lr-051",
+      "stem": "Which of the following, if true, most weakens the economist's argument?",
+      "choices": [
+        "Fuel subsidies had been in place for over a decade",
+        "A large coal-fired plant on the city's edge closed permanently in the same month",
+        "Subsidy removal was unpopular with urban residents",
+        "Air quality is measured at three monitoring stations"
+      ],
+      "answer": 1,
+      "explanation": "A separate major emissions source disappearing at the same time supplies an alternative cause sufficient to explain the improvement on its own. Popularity and the age of the subsidy bear on the politics, not on the causal question."
+    },
+    {
+      "id": "lr-inf-069",
+      "subtopic": "identify_flaw",
+      "difficulty": 2,
+      "passageId": "lr-052",
+      "stem": "The director's reasoning is most vulnerable because:",
+      "choices": [
+        "Competitive admission means graduates already outperformed others before enrolling",
+        "The certification examination may be poorly designed",
+        "Some graduates do not take the examination",
+        "Non-graduates may have studied independently"
+      ],
+      "answer": 0,
+      "explanation": "Selecting entrants on prior examination scores guarantees the graduate pool is stronger at the outset, so the later gap may reflect admissions rather than instruction. The final sentence of the stimulus is placed there as the signal."
+    },
+    {
+      "id": "lr-inf-070",
+      "subtopic": "identify_flaw",
+      "difficulty": 2,
+      "passageId": "lr-053",
+      "stem": "The commentator's argument is flawed because it:",
+      "choices": [
+        "Treats the absence of fighting as evidence that the cause of the fighting has ended",
+        "Relies on an arbitrarily chosen six-month period",
+        "Assumes ceasefires are always formally negotiated",
+        "Ignores the role of external mediators"
+      ],
+      "answer": 0,
+      "explanation": "A ceasefire suspends hostilities; it is entirely compatible with an unresolved dispute held in check by exhaustion or deterrence. The second option identifies a lesser weakness — the inference would fail at any duration, because cessation and resolution are different things."
+    },
+    {
+      "id": "lr-inf-071",
+      "subtopic": "identify_flaw",
+      "difficulty": 3,
+      "passageId": "lr-054",
+      "stem": "If the auditor's observation is accurate, the reported coverage figure is unreliable because:",
+      "choices": [
+        "The denominator understates the current target population",
+        "Vaccination records may be incomplete",
+        "Migration makes the campaign harder to administer",
+        "Census data are collected for other purposes"
+      ],
+      "answer": 0,
+      "explanation": "Coverage is doses divided by population; a twelve-year-old count taken before substantial migration is too small a denominator, which inflates the percentage. The error is arithmetic, not administrative."
+    },
+    {
+      "id": "lr-inf-072",
+      "subtopic": "identify_assumption",
+      "difficulty": 3,
+      "passageId": "lr-055",
+      "stem": "The analyst's argument assumes that:",
+      "choices": [
+        "Prosecution volume is a valid indicator of the agency's effectiveness",
+        "The agency has adequate funding",
+        "Corruption is more prevalent than official figures suggest",
+        "The agency's staff are competent"
+      ],
+      "answer": 0,
+      "explanation": "The inference works only if fewer prosecutions means worse performance — yet a successful deterrent would reduce the offenses available to prosecute, producing the same decline. Without that assumption the evidence is equally consistent with the opposite conclusion."
+    },
+    {
+      "id": "lr-inf-073",
+      "subtopic": "identify_flaw",
+      "difficulty": 2,
+      "passageId": "lr-056",
+      "stem": "The colleague's observation undermines the diplomat's claim by suggesting that:",
+      "choices": [
+        "The communiqué produced no change in any party's position",
+        "The parties negotiated in bad faith",
+        "The summit was too short to accomplish anything",
+        "Communiqués are not legally binding"
+      ],
+      "answer": 0,
+      "explanation": "If the text restates commitments already made publicly, signing it added nothing, so unanimity is not evidence of accomplishment. The observation speaks to the substance of the outcome rather than to the parties' sincerity."
+    },
+    {
+      "id": "lr-inf-074",
+      "subtopic": "identify_flaw",
+      "difficulty": 3,
+      "passageId": "lr-057",
+      "stem": "The administrator's conclusion is most vulnerable to the objection that:",
+      "choices": [
+        "Students who study abroad may differ in family resources and prior attainment",
+        "Salaries vary widely by field of study",
+        "A decade is too short a period to assess earnings",
+        "Some study-abroad programs are more rigorous than others"
+      ],
+      "answer": 0,
+      "explanation": "Study abroad is not randomly distributed; it correlates with wealth and academic standing, both of which independently predict later earnings. Expanding access to students unlike the current participants would not necessarily reproduce the earnings gap."
+    },
+    {
+      "id": "lr-inf-075",
+      "subtopic": "identify_assumption",
+      "difficulty": 3,
+      "passageId": "lr-058",
+      "stem": "The official's proposal assumes that:",
+      "choices": [
+        "Administrative efficiency is the appropriate basis for choosing grant size",
+        "Small grants have never achieved their objectives",
+        "Large grantees are more experienced",
+        "Administrative costs will continue to rise"
+      ],
+      "answer": 0,
+      "explanation": "The argument moves from a cost ratio straight to a funding decision, which requires that cost-per-dollar be the deciding criterion. Small grants may reach recipients large grants cannot, and the argument never addresses what the money accomplishes."
+    },
+    {
+      "id": "lr-inf-076",
+      "subtopic": "justify_conclusion",
+      "difficulty": 3,
+      "passageId": "lr-059",
+      "stem": "Which principle, if accepted, most supports the civil liberties group's position?",
+      "choices": [
+        "Security programs should be discontinued whenever they are controversial",
+        "A program that restricts liberty is justified only if less restrictive means would not have achieved the same result",
+        "Intelligence methods should be disclosed to the public",
+        "Disrupting plots is the primary measure of a security program's value"
+      ],
+      "answer": 1,
+      "explanation": "The group's objection is precisely that the necessity of the intrusive method has not been demonstrated, which this least-restrictive-means principle makes decisive. The fourth option supports the security service instead, and the first is a much weaker principle the group never invoked."
+    },
+    {
+      "id": "lr-inf-077",
+      "subtopic": "identify_flaw",
+      "difficulty": 3,
+      "passageId": "lr-060",
+      "stem": "The specialist's reasoning is most vulnerable because:",
+      "choices": [
+        "The change of government may have coincided with other shifts that made negotiation possible",
+        "Formal negotiations are often preceded by informal contacts",
+        "Governments change for many reasons",
+        "The specialist has not identified which government changed"
+      ],
+      "answer": 0,
+      "explanation": "Sequence is not cause: altered economic conditions, external pressure, or a shift in the other state's position could have made talks possible at that moment regardless of the personnel change. The second option is true and mildly relevant but does not identify the inferential error."
+    },
+    {
+      "id": "lr-inf-078",
+      "subtopic": "identify_flaw",
+      "difficulty": 3,
+      "passageId": "lr-061",
+      "stem": "The donor's recommendation is most vulnerable to the objection that:",
+      "choices": [
+        "Clinic B may achieve its rate by treating less severe cases",
+        "Clinic A employs more staff",
+        "Recovery rates fluctuate month to month",
+        "Clinic B is smaller and may lack capacity to expand"
+      ],
+      "answer": 0,
+      "explanation": "Case mix is the standard confound in outcome comparisons: a clinic handling milder presentations will post a higher recovery rate without performing better. The fourth option is a real practical concern but concedes the comparison; the first challenges whether it means anything."
+    },
+    {
+      "id": "lr-inf-079",
+      "subtopic": "identify_flaw",
+      "difficulty": 3,
+      "passageId": "lr-062",
+      "stem": "The policy paper's reasoning is flawed because it:",
+      "choices": [
+        "Treats a feature common to past successes as a requirement for future ones",
+        "Relies on too few cases",
+        "Does not define democratic transition",
+        "Ignores transitions outside the region"
+      ],
+      "answer": 0,
+      "explanation": "That every success shared a feature does not establish the feature is necessary — growth may have been incidental, or the successful cases may simply be a biased sample of the conditions under which transitions are attempted. The second option is a lesser version of the same complaint."
+    },
+    {
+      "id": "lr-inf-080",
+      "subtopic": "strengthen_weaken",
+      "difficulty": 2,
+      "passageId": "lr-063",
+      "stem": "Which of the following, if true, most weakens the officer's conclusion?",
+      "choices": [
+        "The new front office substantially revised cables before transmission",
+        "The template was adopted at several other posts",
+        "Washington's rating scale was unchanged",
+        "The officer helped design the template"
+      ],
+      "answer": 0,
+      "explanation": "If a second change introduced at the same moment directly altered the product being rated, the improvement is attributable to it rather than to the template. The fourth option raises bias but leaves the evidence itself untouched."
+    },
+    {
+      "id": "lr-inf-081",
+      "subtopic": "identify_flaw",
+      "difficulty": 3,
+      "passageId": "lr-064",
+      "stem": "The information about vehicle registrations undermines the ministry's claim by suggesting that:",
+      "choices": [
+        "Fatalities may have fallen because there were fewer vehicles on the road",
+        "The fuel price increase was more unpopular than the campaign",
+        "Traffic fatalities are poorly recorded",
+        "The campaign was too short to have an effect"
+      ],
+      "answer": 0,
+      "explanation": "Registrations fell by more than fatalities did, so exposure to risk dropped at least as fast as the outcome — the fatality rate per vehicle may not have improved at all. The comparison of the two percentages is what carries the objection."
+    },
+    {
+      "id": "lr-inf-082",
+      "subtopic": "identify_assumption",
+      "difficulty": 2,
+      "passageId": "lr-065",
+      "stem": "The negotiator's argument assumes that:",
+      "choices": [
+        "The other side's circumstances and alternatives have not materially changed since the earlier talks",
+        "The other side negotiates in good faith",
+        "The earlier agreement was fully implemented",
+        "Both sides value the agreement equally"
+      ],
+      "answer": 0,
+      "explanation": "Comparing offers across three years is informative only if what the other side can obtain elsewhere has held steady; a party with better alternatives now will reject terms it once accepted. The comparison is to a moving baseline unless that assumption holds."
+    },
+    {
+      "id": "lr-inf-083",
+      "subtopic": "identify_flaw",
+      "difficulty": 3,
+      "passageId": "lr-066",
+      "stem": "The analyst's recommendation is most vulnerable to the objection that:",
+      "choices": [
+        "Countries that sign such treaties may already be those investors find attractive",
+        "Investment treaties constrain domestic regulatory authority",
+        "Not all foreign investment benefits recipients",
+        "Treaty texts vary considerably"
+      ],
+      "answer": 0,
+      "explanation": "Governments that pursue investment treaties are typically those already reforming to court capital, so the treaty may be a marker of investor-friendly policy rather than its cause. The second and third options raise reasons the policy might be undesirable, which is a separate question from whether the evidence supports it."
+    },
+    {
+      "id": "lr-inf-084",
+      "subtopic": "identify_flaw",
+      "difficulty": 2,
+      "passageId": "lr-067",
+      "stem": "The director's response is weak because:",
+      "choices": [
+        "An absence of detected incidents does not establish that procedures are adequate",
+        "Eleven years is a short period",
+        "Written procedures are required by regulation",
+        "The inspector general has broader authority than the director"
+      ],
+      "answer": 0,
+      "explanation": "Without a procedure, there may also be no reliable means of detecting or recording an incident — so the clean record may reflect the same gap it is offered to excuse. Appeals to authority and to regulation, as in the third and fourth options, sidestep the reasoning rather than addressing it."
+    },
+    {
+      "id": "lr-inf-085",
+      "subtopic": "identify_flaw",
+      "difficulty": 3,
+      "passageId": "lr-068",
+      "stem": "The commentator's argument is most vulnerable to the criticism that it:",
+      "choices": [
+        "Treats a failure to detect an effect as a demonstration that no effect exists",
+        "Relies on evaluators who may be biased",
+        "Ignores the program's administrative costs",
+        "Assumes household income is the only relevant outcome"
+      ],
+      "answer": 0,
+      "explanation": "A study lacking the sample size or duration to detect a modest effect returns a null result whether or not the effect is real. The fourth option is also a genuine gap, but the inferential error — reading absence of evidence as evidence of absence — is the primary one."
+    },
+    {
+      "id": "lr-inf-086",
+      "subtopic": "identify_flaw",
+      "difficulty": 2,
+      "passageId": "lr-069",
+      "stem": "The adviser's argument is weakest in that it:",
+      "choices": [
+        "Generalizes from three cases without considering how many private-sector appointees were ineffective",
+        "Assumes ambassadorial effectiveness can be ranked",
+        "Ignores the role of career officers",
+        "Does not define private-sector experience"
+      ],
+      "answer": 0,
+      "explanation": "Looking only at the successes tells you nothing about the base rate: if a hundred business appointees served and three excelled, the record argues against the proposal. Selecting on the outcome and reasoning backward is the structural error."
+    },
+    {
+      "id": "lr-inf-087",
+      "subtopic": "identify_assumption",
+      "difficulty": 2,
+      "passageId": "lr-070",
+      "stem": "The projection's stated assumption is questionable primarily because:",
+      "choices": [
+        "Taxpayers commonly adjust reported income and timing in response to rate changes",
+        "Revenue projections are inherently uncertain",
+        "The reform may not be enacted",
+        "Six percent is a small increase"
+      ],
+      "answer": 0,
+      "explanation": "Behavioral response is the central difficulty in revenue estimation — static scoring assumes it away by construction. The second option is true of all forecasts and identifies nothing specific to this one."
+    },
+    {
+      "id": "lr-inf-088",
+      "subtopic": "identify_flaw",
+      "difficulty": 2,
+      "passageId": "lr-071",
+      "stem": "The researcher's conclusion confuses:",
+      "choices": [
+        "The incidence of corruption with the reporting of corruption",
+        "Correlation with sample size",
+        "Press freedom with press quality",
+        "Government corruption with private corruption"
+      ],
+      "answer": 0,
+      "explanation": "A free press detects and publicizes corruption that an unfree press conceals, so more reports may indicate better observation rather than more wrongdoing. Measurement intensity varying with the very condition under study is a recurring trap in cross-country comparison."
+    },
+    {
+      "id": "lr-inf-089",
+      "subtopic": "inference",
+      "difficulty": 3,
+      "passageId": "lr-072",
+      "stem": "Which of the following is best supported by the economic section's observation?",
+      "choices": [
+        "The host country's economy is not actually growing",
+        "The reported figures are implausibly stable for an economy of this kind",
+        "The host government is deliberately falsifying data",
+        "Growth is lower than 7 percent"
+      ],
+      "answer": 1,
+      "explanation": "The evidence is about the improbable smoothness of the series, which supports doubting the figures without establishing what the true numbers are or why they differ. The first, third, and fourth options each specify a conclusion the observation cannot reach."
+    },
+    {
+      "id": "lr-inf-090",
+      "subtopic": "identify_flaw",
+      "difficulty": 3,
+      "passageId": "lr-073",
+      "stem": "The official's argument overlooks the possibility that:",
+      "choices": [
+        "The department may decline to bring cases it expects to lose",
+        "The arbitration panel may be biased",
+        "Some cases settle before hearing",
+        "The department has brought few cases"
+      ],
+      "answer": 0,
+      "explanation": "Selective case selection produces a perfect record regardless of the quality of the underlying positions — the unbrought cases are exactly the weak ones. The third and fourth options gesture at the same territory but do not name the mechanism that makes the record uninformative."
+    },
+    {
+      "id": "lr-inf-091",
+      "subtopic": "strengthen_weaken",
+      "difficulty": 3,
+      "passageId": "lr-074",
+      "stem": "Which of the following, if true, most weakens the study's attribution?",
+      "choices": [
+        "Officers who remain past three years are disproportionately assigned to lower-risk applicant pools",
+        "Refusal rates vary across posts",
+        "Local knowledge is difficult to quantify",
+        "Some officers extend their tours voluntarily"
+      ],
+      "answer": 0,
+      "explanation": "If longer-serving officers see systematically different applicants, the refusal gap reflects caseload rather than judgment. The other options raise measurement and selection issues without supplying a competing explanation of the specific difference observed."
+    },
+    {
+      "id": "lr-inf-092",
+      "subtopic": "identify_flaw",
+      "difficulty": 3,
+      "passageId": "lr-075",
+      "stem": "The commentator's argument is most vulnerable to the criticism that it:",
+      "choices": [
+        "Assumes that what governments judge to be in their interest is in fact beneficial",
+        "Ignores the role of domestic legislatures in ratification",
+        "Assumes both governments had equal bargaining power",
+        "Overlooks the interests of third countries"
+      ],
+      "answer": 0,
+      "explanation": "The inference slides from 'each government believed it was benefiting' to 'the agreement is beneficial' — governments can misjudge, and the interests they pursue may not be those of their populations. The third and fourth options are real considerations but neither closes the gap the argument depends on."
+    },
+    {
+      "id": "lr-inf-093",
+      "subtopic": "identify_assumption",
+      "difficulty": 3,
+      "passageId": "lr-076",
+      "stem": "The proposed measure assumes that:",
+      "choices": [
+        "The number of agreements concluded reflects the value of an embassy's work",
+        "All embassies have equal opportunity to conclude agreements",
+        "Agreements are always implemented",
+        "Both A and B"
+      ],
+      "answer": 3,
+      "explanation": "A count-based metric requires both that agreements track value and that posts are comparable on the dimension being counted — an embassy in a small state with few bilateral questions will score poorly however well it performs. Either assumption alone leaves the measure open to the other objection."
+    },
+    {
+      "id": "lr-inf-094",
+      "subtopic": "identify_flaw",
+      "difficulty": 3,
+      "passageId": "lr-077",
+      "stem": "The evaluation's comparison is unreliable because:",
+      "choices": [
+        "Villages able to contribute 20 percent of costs likely differ in wealth and organization",
+        "Sanitation outcomes were self-reported",
+        "The project period was too short",
+        "Non-participating villages may have received other assistance"
+      ],
+      "answer": 0,
+      "explanation": "The cost-share requirement screens for exactly the characteristics that independently predict better sanitation, so the two groups were never comparable. The fourth option would weaken the finding but is speculative; the selection mechanism is stated in the stimulus."
+    },
+    {
+      "id": "lr-inf-095",
+      "subtopic": "identify_flaw",
+      "difficulty": 2,
+      "passageId": "lr-078",
+      "stem": "The analyst's argument is flawed because the polls:",
+      "choices": [
+        "Sample a population selected in a way that guarantees a favorable result",
+        "Were conducted too far before the election",
+        "Do not report a margin of error",
+        "May have been conducted by inexperienced staff"
+      ],
+      "answer": 0,
+      "explanation": "Voters who visit a party's own website to register a preference are overwhelmingly its supporters, so the sample cannot represent the electorate. This is self-selection at its most extreme, and no methodological refinement of the other kinds would repair it."
+    },
+    {
+      "id": "lr-inf-096",
+      "subtopic": "identify_assumption",
+      "difficulty": 2,
+      "passageId": "lr-079",
+      "stem": "The official's argument assumes that:",
+      "choices": [
+        "Holding the required certification indicates sufficient practical language ability",
+        "All officers wish to serve in language-designated positions",
+        "The certification examination is administered annually",
+        "Language training is the department's largest training expense"
+      ],
+      "answer": 0,
+      "explanation": "The argument treats a credential as evidence of capability, which holds only if the credential measures what the job requires. If the examination is easier than the work, full certification and inadequate ability are entirely compatible."
+    },
+    {
+      "id": "lr-inf-097",
+      "subtopic": "identify_flaw",
+      "difficulty": 3,
+      "passageId": "lr-080",
+      "stem": "The researcher's conclusion is questionable because:",
+      "choices": [
+        "States may pursue interests other than direct physical exposure, such as commercial or reputational advantage",
+        "Climate risk is difficult to measure",
+        "Vocal advocacy is not the same as effective advocacy",
+        "Some exposed countries are also vocal"
+      ],
+      "answer": 0,
+      "explanation": "The argument equates self-interest with exposure to physical harm, but a state may gain economically from a policy transition or seek standing as a norm entrepreneur. Ruling out one form of interest does not rule out interest as such."
+    },
+    {
+      "id": "lr-inf-098",
+      "subtopic": "justify_conclusion",
+      "difficulty": 3,
+      "passageId": "lr-081",
+      "stem": "Which conclusion is best supported by the evaluator's observation?",
+      "choices": [
+        "Audits should never be required of grantees",
+        "The audit requirement screens on organizational size rather than on merit",
+        "Small organizations are less accountable than large ones",
+        "The donor should fund only large organizations"
+      ],
+      "answer": 1,
+      "explanation": "A requirement that the smallest organizations cannot afford filters by capacity to comply, not by quality of work. The first and fourth options leap to policy recommendations the observation alone does not justify, and the third reverses the point."
+    },
+    {
+      "id": "lr-inf-099",
+      "subtopic": "identify_flaw",
+      "difficulty": 2,
+      "passageId": "lr-082",
+      "stem": "The commentator's argument confuses:",
+      "choices": [
+        "The imposition of costs with the achievement of the policy objective",
+        "Economic damage with humanitarian harm",
+        "Multilateral with unilateral sanctions",
+        "Short-term with long-term effects"
+      ],
+      "answer": 0,
+      "explanation": "Sanctions aim to change behavior; damage is the instrument, not the goal. A target that absorbs severe costs without conceding has defeated the policy, however much harm was inflicted — which is why the inference fails."
+    },
+    {
+      "id": "lr-inf-100",
+      "subtopic": "identify_flaw",
+      "difficulty": 2,
+      "passageId": "lr-083",
+      "stem": "The officer's argument is flawed because it:",
+      "choices": [
+        "Attacks the source of the assessment rather than its substance",
+        "Assumes family connections are always disclosed",
+        "Overlooks the colleague's professional record",
+        "Relies on an unverified claim about the connections"
+      ],
+      "answer": 0,
+      "explanation": "This is an ad hominem: the colleague's ties might warrant scrutiny of the analysis, but they establish nothing about whether it is correct. Family connections could as easily be a source of insight as of bias, which is why they cannot substitute for engaging the argument."
+    },
+    {
+      "id": "lr-inf-101",
+      "subtopic": "identify_flaw",
+      "difficulty": 3,
+      "passageId": "lr-084",
+      "stem": "The change in survey method matters because:",
+      "choices": [
+        "Differences in mode can shift responses independently of any change in actual trust",
+        "Telephone surveys are always less accurate",
+        "The sample size may have changed",
+        "Respondents may have forgotten the initiative"
+      ],
+      "answer": 0,
+      "explanation": "Respondents answer sensitive questions differently by telephone than face to face, so any part of the 9-point movement may be an artifact of measurement. The second option overstates it — the problem is that the two waves are not comparable, not that one method is inferior."
+    },
+    {
+      "id": "lr-inf-102",
+      "subtopic": "identify_flaw",
+      "difficulty": 3,
+      "passageId": "lr-085",
+      "stem": "The specialist's argument is most vulnerable to the objection that:",
+      "choices": [
+        "The war preceding the organization's founding may explain the subsequent peace",
+        "The organization has other functions besides preventing war",
+        "Member states have had disputes short of war",
+        "The organization's membership has changed over time"
+      ],
+      "answer": 0,
+      "explanation": "A decisive war that settled the territorial questions removes the principal cause of fighting, so peace may be the legacy of the settlement rather than the achievement of the organization. The final sentence of the stimulus supplies this alternative explanation directly."
+    },
+    {
+      "id": "lr-inf-103",
+      "subtopic": "justify_conclusion",
+      "difficulty": 3,
+      "passageId": "lr-058",
+      "stem": "Which principle, if accepted, would most undermine the official's proposal?",
+      "choices": [
+        "Programs should be evaluated by what they accomplish rather than by what they cost to administer",
+        "Administrative costs should be minimized wherever possible",
+        "Grant decisions should be made by technical experts",
+        "Donors should support a diverse portfolio of grantees"
+      ],
+      "answer": 0,
+      "explanation": "The proposal rests entirely on an administrative cost ratio, so a principle subordinating cost to accomplishment removes its only support. The fourth option also cuts against the proposal but on narrower grounds — it would permit concentration if diversity were otherwise satisfied."
+    },
+    {
+      "id": "lr-inf-104",
+      "subtopic": "justify_conclusion",
+      "difficulty": 3,
+      "passageId": "lr-068",
+      "stem": "Which principle, if accepted, would most support the commentator's conclusion?",
+      "choices": [
+        "A program should be judged a failure unless rigorous evaluation demonstrates a measurable benefit",
+        "Programs should be continued until proven harmful",
+        "Evaluation methods should be chosen by independent experts",
+        "Household income is the best measure of development impact"
+      ],
+      "answer": 0,
+      "explanation": "The commentator treats the absence of demonstrated effect as sufficient for a verdict of failure, which only a principle placing the burden of proof on the program can license. The second option states the opposite presumption, and the fourth supports the choice of outcome without addressing the burden."
+    },
+    {
+      "id": "lr-inf-105",
+      "subtopic": "justify_conclusion",
+      "difficulty": 3,
+      "passageId": "lr-049",
+      "stem": "Which principle, if accepted, would most support the official's proposal?",
+      "choices": [
+        "Personnel policies should maximize aggregate career satisfaction even where individual preferences differ",
+        "Officers should be consulted before assignment policies change",
+        "Hardship posts should receive additional resources",
+        "Career satisfaction should be measured annually"
+      ],
+      "answer": 0,
+      "explanation": "The proposal would compel service that officers might not choose, so it needs a principle permitting aggregate benefit to override individual preference. The second option would obstruct the proposal, and the third and fourth are administrative measures that leave the mandate unjustified."
+    },
+    {
+      "id": "lr-inf-106",
+      "subtopic": "strengthen_weaken",
+      "difficulty": 3,
+      "passageId": "lr-052",
+      "stem": "Which of the following, if true, most strengthens the director's conclusion?",
+      "choices": [
+        "Among applicants with identical admission scores, those admitted outperform those turned away",
+        "The institute has operated for twenty years",
+        "Graduates report high satisfaction with the curriculum",
+        "The certification examination is nationally standardized"
+      ],
+      "answer": 0,
+      "explanation": "Comparing candidates matched on the selection variable removes the admissions advantage, so a remaining gap is attributable to the institute. Satisfaction and program longevity say nothing about whether the instruction caused the performance difference."
+    },
+    {
+      "id": "lr-inf-107",
+      "subtopic": "inference",
+      "difficulty": 2,
+      "passageId": "lr-059",
+      "stem": "Which of the following is best supported by the exchange described?",
+      "choices": [
+        "The surveillance program disrupted no plots",
+        "The necessity of the program has not been established by the evidence cited",
+        "Conventional methods are always sufficient",
+        "The security service acted unlawfully"
+      ],
+      "answer": 1,
+      "explanation": "The civil liberties group disputes what the four disruptions prove, not that they occurred, so what remains open is necessity. The first, third, and fourth options each assert something neither party has established."
+    },
+    {
+      "id": "lr-inf-108",
+      "subtopic": "identify_assumption",
+      "difficulty": 3,
+      "passageId": "lr-072",
+      "stem": "The economic section's argument depends on the assumption that:",
+      "choices": [
+        "Genuine growth in an economy of this kind would show more year-to-year variation",
+        "The host government has a motive to misreport",
+        "Other economies in the region report lower growth",
+        "International organizations have questioned the figures"
+      ],
+      "answer": 0,
+      "explanation": "The inference runs entirely from implausible smoothness, which requires that real economies of this type fluctuate. Motive and third-party doubts would make the suspicion more compelling but are not what the stated reasoning rests on."
+    },
+    {
+      "id": "lr-inf-109",
+      "subtopic": "inference",
+      "difficulty": 3,
+      "passageId": "lr-081",
+      "stem": "Which of the following must be true if the evaluator's observation is accurate?",
+      "choices": [
+        "Some organizations capable of performing well are excluded from funding by the audit requirement",
+        "Audited organizations perform better than unaudited ones",
+        "The donor is indifferent to local rootedness",
+        "Audit costs exceed the value of small grants"
+      ],
+      "answer": 0,
+      "explanation": "If the requirement is binding on the smallest and most locally rooted organizations, at least some competent applicants are screened out — this follows directly. The other options add claims about performance, motive, and cost that the observation does not establish."
+    },
+    {
+      "id": "lr-inf-110",
+      "subtopic": "inference",
+      "difficulty": 2,
+      "passageId": "lr-064",
+      "stem": "If both the ministry's figure and the registration figure are accurate, which is best supported?",
+      "choices": [
+        "The campaign had no effect whatsoever",
+        "Fatalities per registered vehicle did not fall and may have risen",
+        "The fuel price increase was intended as a safety measure",
+        "Traffic fatalities will rise again next year"
+      ],
+      "answer": 1,
+      "explanation": "Registrations fell 22 percent while fatalities fell 18 percent, so the ratio moved unfavorably. The first option overstates the case — a modest campaign effect could still be hidden inside these aggregates, which is exactly why the raw decline proves nothing."
     }
   ]
 }
