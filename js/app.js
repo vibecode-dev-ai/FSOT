@@ -7,9 +7,14 @@ import { renderResults } from './views/results.js';
 import { renderProgress } from './views/progress.js';
 import { renderSettings } from './views/settings.js';
 import { getSession, endSession } from './engine.js';
-import { esc, setView } from './ui.js';
+import { confirmModal, esc, setView } from './ui.js';
 
 migrate();
+
+/** The hash currently rendered, so a cancelled navigation can be undone. */
+let currentHash = location.hash;
+/** Set while we bounce the hash back, so the restore doesn't re-prompt. */
+let restoringHash = false;
 
 function navigate(hash) {
   if (location.hash === hash) route();
@@ -23,14 +28,47 @@ function markNav(name) {
 }
 
 async function route() {
-  const parts = (location.hash.replace(/^#\/?/, '') || 'home').split('/').filter(Boolean);
+  // This hashchange is our own undo of a cancelled navigation — the exam view
+  // was never torn down, so there is nothing to re-render.
+  if (restoringHash) {
+    restoringHash = false;
+    return;
+  }
+
+  const requestedHash = location.hash;
+  const parts = (requestedHash.replace(/^#\/?/, '') || 'home').split('/').filter(Boolean);
   const [screen, ...args] = parts;
 
-  // Leaving an in-progress exam by any route other than results discards it.
-  if (screen !== 'exam' && getSession()) {
+  const session = getSession();
+  const leavingExam = screen !== 'exam' && session;
+
+  // Any route out of an unsubmitted exam discards it — including the brand
+  // link and the browser back button, not just the in-view Exit button.
+  if (leavingExam && !session.submitted) {
+    const confirmed = await confirmModal({
+      title: 'Exit this session?',
+      body: '<p>Your progress in this session will be discarded and nothing will be saved to your history.</p>',
+      confirmText: 'Exit without saving',
+      cancelText: 'Keep going',
+      danger: true,
+    });
+    if (!confirmed) {
+      // Only arm the guard if the assignment will actually fire a hashchange;
+      // otherwise the flag would swallow the next real navigation.
+      if (location.hash !== currentHash) {
+        restoringHash = true;
+        location.hash = currentHash;
+      }
+      return;
+    }
+  }
+
+  if (leavingExam) {
     teardownExam();
     endSession();
   }
+
+  currentHash = requestedHash;
 
   try {
     switch (screen) {
