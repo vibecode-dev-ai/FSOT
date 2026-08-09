@@ -2388,6 +2388,2379 @@
       ],
       "answer": 1,
       "explanation": "The nominal increase is 5%; subtracting 4% inflation leaves about 1% real growth. Reporting the nominal figure alone is the standard way wage changes are made to look better or worse than they are."
+    },
+
+    {
+      "id": "jk-usg-073",
+      "subtopic": "us_government_history_society",
+      "difficulty": 2,
+      "stem": "McCulloch v. Maryland (1819) established which two principles?",
+      "choices": [
+        "Judicial review and federal supremacy",
+        "Implied powers of Congress and immunity of federal instrumentalities from state taxation",
+        "Freedom of contract and substantive due process",
+        "Federal authority over interstate navigation"
+      ],
+      "answer": 1,
+      "explanation": "Marshall upheld the national bank under the necessary and proper clause and held that Maryland could not tax it, reasoning that the power to tax involves the power to destroy. The fourth option describes Gibbons v. Ogden, decided five years later."
+    },
+    {
+      "id": "jk-usg-074",
+      "subtopic": "us_government_history_society",
+      "difficulty": 2,
+      "stem": "Gibbons v. Ogden (1824) concerned Congress's power over:",
+      "choices": [
+        "Interstate commerce, defined broadly to include navigation",
+        "The chartering of national banks",
+        "Federal land grants to railroads",
+        "The regulation of slavery in the territories"
+      ],
+      "answer": 0,
+      "explanation": "The Court struck down a New York steamboat monopoly, reading 'commerce' to encompass navigation and giving the Commerce Clause an expansive scope that later underwrote much federal regulation."
+    },
+    {
+      "id": "jk-usg-075",
+      "subtopic": "us_government_history_society",
+      "difficulty": 3,
+      "stem": "Dred Scott v. Sandford (1857) held that:",
+      "choices": [
+        "Slavery could be barred from the territories by Congress",
+        "People of African descent could not be citizens and Congress could not prohibit slavery in the territories",
+        "Fugitive slaves were entitled to jury trials",
+        "State emancipation laws applied to visiting slaveholders"
+      ],
+      "answer": 1,
+      "explanation": "The decision denied citizenship to Black Americans and invalidated the Missouri Compromise, inflaming sectional conflict rather than settling it. It was overturned by the Thirteenth and Fourteenth Amendments."
+    },
+    {
+      "id": "jk-usg-076",
+      "subtopic": "us_government_history_society",
+      "difficulty": 2,
+      "stem": "Plessy v. Ferguson (1896) established which doctrine?",
+      "choices": [
+        "Separate but equal",
+        "Clear and present danger",
+        "One person, one vote",
+        "Strict scrutiny"
+      ],
+      "answer": 0,
+      "explanation": "Plessy upheld racial segregation under a 'separate but equal' rationale that stood until Brown v. Board of Education overruled it in 1954. Justice Harlan's lone dissent, arguing the Constitution is color-blind, was later vindicated."
+    },
+    {
+      "id": "jk-usg-077",
+      "subtopic": "us_government_history_society",
+      "difficulty": 3,
+      "stem": "Schenck v. United States (1919) introduced which test for restricting speech?",
+      "choices": [
+        "Strict scrutiny",
+        "Clear and present danger",
+        "The Lemon test",
+        "Rational basis review"
+      ],
+      "answer": 1,
+      "explanation": "Holmes wrote that speech may be restricted when it creates a clear and present danger of substantive evils Congress may prevent. The standard was substantially narrowed in Brandenburg v. Ohio (1969), which requires incitement to imminent lawless action."
+    },
+    {
+      "id": "jk-usg-078",
+      "subtopic": "us_government_history_society",
+      "difficulty": 3,
+      "stem": "INS v. Chadha (1983) invalidated which practice?",
+      "choices": [
+        "The legislative veto",
+        "The pocket veto",
+        "The line-item veto",
+        "Executive impoundment of appropriated funds"
+      ],
+      "answer": 0,
+      "explanation": "The Court held that one-house legislative vetoes violated bicameralism and presentment. The line-item veto fell separately in Clinton v. City of New York (1998), and impoundment was addressed by statute in 1974."
+    },
+    {
+      "id": "jk-usg-079",
+      "subtopic": "us_government_history_society",
+      "difficulty": 3,
+      "stem": "Wickard v. Filburn (1942) is significant for holding that Congress may regulate:",
+      "choices": [
+        "Only goods that physically cross state lines",
+        "Purely local activity whose aggregate effect substantially affects interstate commerce",
+        "State government operations directly",
+        "Agricultural prices but not production"
+      ],
+      "answer": 1,
+      "explanation": "A farmer growing wheat for his own consumption was held subject to federal quotas because the aggregate of such activity affects the national market. It represents the outer reach of Commerce Clause authority and remains a fixture of constitutional argument."
+    },
+    {
+      "id": "jk-usg-080",
+      "subtopic": "us_government_history_society",
+      "difficulty": 2,
+      "stem": "The Alien and Sedition Acts of 1798 are chiefly remembered for:",
+      "choices": [
+        "Establishing the first federal immigration quotas",
+        "Criminalizing criticism of the federal government and prompting the Kentucky and Virginia Resolutions",
+        "Authorizing the deportation of British subjects during the War of 1812",
+        "Creating the first naturalization procedures"
+      ],
+      "answer": 1,
+      "explanation": "The Sedition Act punished criticism of the government, and Jefferson and Madison responded with resolutions asserting state authority to judge federal overreach — an early articulation of the states' rights position later invoked in the nullification and secession crises."
+    },
+    {
+      "id": "jk-usg-081",
+      "subtopic": "us_government_history_society",
+      "difficulty": 2,
+      "stem": "The Indian Removal Act of 1830 led most directly to:",
+      "choices": [
+        "The Trail of Tears",
+        "The Dawes Severalty Act",
+        "The creation of the Bureau of Indian Affairs",
+        "The Wounded Knee massacre"
+      ],
+      "answer": 0,
+      "explanation": "The Act authorized removal of southeastern tribes to territory west of the Mississippi, producing the forced marches known as the Trail of Tears. Worcester v. Georgia had held such removal unlawful, but the ruling went unenforced."
+    },
+    {
+      "id": "jk-usg-082",
+      "subtopic": "us_government_history_society",
+      "difficulty": 3,
+      "stem": "The Roosevelt Corollary to the Monroe Doctrine asserted that the United States would:",
+      "choices": [
+        "Refrain from intervening in Latin American affairs",
+        "Exercise an international police power in the Western Hemisphere to forestall European intervention",
+        "Submit hemispheric disputes to international arbitration",
+        "Recognize only democratically elected governments in the region"
+      ],
+      "answer": 1,
+      "explanation": "Theodore Roosevelt claimed a right to intervene in Latin American states guilty of 'chronic wrongdoing,' converting Monroe's defensive warning into a justification for American intervention — the basis for repeated occupations in the Caribbean."
+    },
+    {
+      "id": "jk-usg-083",
+      "subtopic": "us_government_history_society",
+      "difficulty": 2,
+      "stem": "The Open Door Policy (1899-1900) sought to:",
+      "choices": [
+        "Secure equal commercial access to China for all trading powers",
+        "Open Japanese ports to American trade",
+        "End restrictions on Chinese immigration to the United States",
+        "Establish free navigation of the Yangtze for American warships"
+      ],
+      "answer": 0,
+      "explanation": "Secretary of State Hay's notes asked the powers to respect equal trading rights and Chinese territorial integrity. The policy protected American commercial interests without requiring a sphere of influence of its own."
+    },
+    {
+      "id": "jk-usg-084",
+      "subtopic": "us_government_history_society",
+      "difficulty": 2,
+      "stem": "The Lend-Lease Act of 1941 allowed the United States to:",
+      "choices": [
+        "Declare war on the Axis powers",
+        "Supply war materiel to nations whose defense was deemed vital to American security",
+        "Seize Axis-owned property in the United States",
+        "Draft citizens for overseas service"
+      ],
+      "answer": 1,
+      "explanation": "Lend-Lease let Roosevelt supply Britain and later the Soviet Union without cash payment, effectively ending strict neutrality while stopping short of belligerence. It was described at the time as lending a garden hose to a neighbor whose house is on fire."
+    },
+    {
+      "id": "jk-usg-085",
+      "subtopic": "us_government_history_society",
+      "difficulty": 3,
+      "stem": "NSC-68 (1950) recommended:",
+      "choices": [
+        "A negotiated settlement of Cold War differences",
+        "A substantial and sustained military buildup to contain Soviet expansion",
+        "Reliance on nuclear deterrence in place of conventional forces",
+        "Withdrawal of American forces from Europe"
+      ],
+      "answer": 1,
+      "explanation": "The classified strategy paper argued for a large increase in defense spending and a globalized conception of containment. Its recommendations were largely shelved until the outbreak of the Korean War made them politically feasible."
+    },
+    {
+      "id": "jk-usg-086",
+      "subtopic": "us_government_history_society",
+      "difficulty": 2,
+      "stem": "The Berlin Airlift (1948-49) was the Western response to:",
+      "choices": [
+        "The construction of the Berlin Wall",
+        "The Soviet blockade of ground access to West Berlin",
+        "The Soviet detonation of an atomic device",
+        "The Warsaw Pact's formation"
+      ],
+      "answer": 1,
+      "explanation": "When the Soviets cut rail and road access, the Western allies supplied the city by air for nearly a year until the blockade was lifted. The Berlin Wall came later, in 1961, and is a distinct episode."
+    },
+    {
+      "id": "jk-usg-087",
+      "subtopic": "us_government_history_society",
+      "difficulty": 3,
+      "stem": "The Gulf of Tonkin Resolution (1964) is significant because it:",
+      "choices": [
+        "Formally declared war on North Vietnam",
+        "Authorized the President to use force in Southeast Asia without a declaration of war",
+        "Established the terms of American withdrawal from Vietnam",
+        "Prohibited the deployment of ground troops"
+      ],
+      "answer": 1,
+      "explanation": "Congress granted broad authority to take all necessary measures, and it became the legal basis for a decade of escalation. Its later repeal, and doubts about the underlying incident, contributed directly to passage of the War Powers Resolution."
+    },
+    {
+      "id": "jk-usg-088",
+      "subtopic": "us_government_history_society",
+      "difficulty": 2,
+      "stem": "The Wagner Act (National Labor Relations Act, 1935) established:",
+      "choices": [
+        "The federal minimum wage",
+        "The right to organize and bargain collectively, enforced by the NLRB",
+        "The forty-hour work week",
+        "Prohibitions on secondary boycotts"
+      ],
+      "answer": 1,
+      "explanation": "The Wagner Act guaranteed collective bargaining rights and created the National Labor Relations Board. The minimum wage and hours came from the Fair Labor Standards Act (1938), and restrictions on union practices from Taft-Hartley (1947)."
+    },
+    {
+      "id": "jk-usg-089",
+      "subtopic": "us_government_history_society",
+      "difficulty": 3,
+      "stem": "The Taft-Hartley Act of 1947 principally:",
+      "choices": [
+        "Expanded federal protection for union organizing",
+        "Restricted union practices and permitted state right-to-work laws",
+        "Established federal mediation of all labor disputes",
+        "Created the Department of Labor"
+      ],
+      "answer": 1,
+      "explanation": "Passed over Truman's veto, Taft-Hartley curtailed closed shops, allowed states to bar union-security agreements, and gave the President injunction authority in national emergency strikes. It is the principal counterweight to the Wagner Act."
+    },
+    {
+      "id": "jk-usg-090",
+      "subtopic": "us_government_history_society",
+      "difficulty": 2,
+      "stem": "The Great Migration refers to:",
+      "choices": [
+        "European immigration through Ellis Island",
+        "The movement of Black Americans from the rural South to northern and western cities",
+        "Westward settlement under the Homestead Act",
+        "Dust Bowl migration to California"
+      ],
+      "answer": 1,
+      "explanation": "Roughly six million Black Americans left the South between 1916 and 1970, reshaping the demography and politics of northern cities. The fourth option describes a distinct 1930s migration associated with Steinbeck's fiction."
+    },
+    {
+      "id": "jk-usg-091",
+      "subtopic": "us_government_history_society",
+      "difficulty": 2,
+      "stem": "The Montgomery Bus Boycott (1955-56) ended when:",
+      "choices": [
+        "The city voluntarily desegregated its buses",
+        "The Supreme Court affirmed a ruling that bus segregation was unconstitutional",
+        "Congress passed the Civil Rights Act of 1957",
+        "The boycott organizers accepted a compromise seating arrangement"
+      ],
+      "answer": 1,
+      "explanation": "The year-long boycott concluded after the Supreme Court affirmed Browder v. Gayle, holding Montgomery's bus segregation unconstitutional. The episode also brought Martin Luther King Jr. to national prominence."
+    },
+    {
+      "id": "jk-usg-092",
+      "subtopic": "us_government_history_society",
+      "difficulty": 3,
+      "stem": "The Immigration Act of 1924 is notable for:",
+      "choices": [
+        "Abolishing all numerical limits on immigration",
+        "Establishing national-origins quotas that sharply restricted southern and eastern European immigration",
+        "Granting citizenship to Native Americans",
+        "Creating the H-1B visa category"
+      ],
+      "answer": 1,
+      "explanation": "The Act set quotas based on the 1890 census specifically to favor northern and western European immigration, and it barred most Asian immigration outright. It governed American policy until the Hart-Celler Act of 1965."
+    },
+    {
+      "id": "jk-usg-093",
+      "subtopic": "us_government_history_society",
+      "difficulty": 2,
+      "stem": "An executive order is best described as:",
+      "choices": [
+        "A directive to the executive branch with the force of law, subject to statutory and constitutional limits",
+        "A form of legislation requiring congressional ratification",
+        "A binding interpretation of the Constitution",
+        "An agreement between the President and a foreign state"
+      ],
+      "answer": 0,
+      "explanation": "Executive orders direct federal agencies and carry legal force within the executive branch, but they cannot exceed statutory or constitutional authority and can be revoked by a successor. The fourth option describes an executive agreement."
+    },
+    {
+      "id": "jk-usg-094",
+      "subtopic": "us_government_history_society",
+      "difficulty": 3,
+      "stem": "Under the Administrative Procedure Act, informal rulemaking generally requires an agency to:",
+      "choices": [
+        "Hold a trial-type hearing before adopting any rule",
+        "Publish a notice of proposed rulemaking, accept public comment, and issue a reasoned final rule",
+        "Obtain congressional approval of each rule",
+        "Submit rules to the courts for pre-enforcement review"
+      ],
+      "answer": 1,
+      "explanation": "Notice-and-comment rulemaking under Section 553 requires publication, an opportunity for comment, and a statement of basis and purpose. Formal rulemaking with trial-type hearings is the exception, required only when a statute calls for it."
+    },
+    {
+      "id": "jk-usg-095",
+      "subtopic": "us_government_history_society",
+      "difficulty": 2,
+      "stem": "A pocket veto occurs when:",
+      "choices": [
+        "The President vetoes only part of a bill",
+        "The President takes no action on a bill and Congress adjourns within the ten-day window, preventing its return",
+        "Congress fails to muster a quorum to override a veto",
+        "The Senate refuses to take up a House-passed bill"
+      ],
+      "answer": 1,
+      "explanation": "A bill dies if the President neither signs nor returns it and adjournment prevents return. It cannot be overridden, since there is no veto message to reconsider — which is what makes it distinct from a regular veto."
+    },
+    {
+      "id": "jk-usg-096",
+      "subtopic": "us_government_history_society",
+      "difficulty": 3,
+      "stem": "The distinction between an authorization and an appropriation is that an authorization:",
+      "choices": [
+        "Provides the actual funds an agency may obligate",
+        "Establishes or continues a program and sets a spending ceiling, without providing funds",
+        "Applies only to defense programs",
+        "Requires a two-thirds vote in both chambers"
+      ],
+      "answer": 1,
+      "explanation": "Authorizing legislation creates programs and caps their permissible funding; appropriations actually supply the money. A program can be authorized and receive nothing, which is why the two-step structure recurs in budget disputes."
+    },
+    {
+      "id": "jk-usg-097",
+      "subtopic": "us_government_history_society",
+      "difficulty": 3,
+      "stem": "The Impoundment Control Act of 1974 was enacted to:",
+      "choices": [
+        "Give the President authority to cancel appropriations",
+        "Limit the President's ability to withhold funds Congress has appropriated",
+        "Create the Office of Management and Budget",
+        "Establish the debt ceiling"
+      ],
+      "answer": 1,
+      "explanation": "Passed after Nixon refused to spend appropriated funds, the Act requires the President to seek congressional approval for rescissions and allows deferrals only under limited conditions. It also created the Congressional Budget Office."
+    },
+    {
+      "id": "jk-usg-098",
+      "subtopic": "us_government_history_society",
+      "difficulty": 2,
+      "stem": "The federal debt ceiling is best described as:",
+      "choices": [
+        "A limit on annual federal spending",
+        "A statutory cap on the total amount the Treasury may borrow",
+        "A constitutional restriction on deficits",
+        "A limit on the size of the federal deficit in any fiscal year"
+      ],
+      "answer": 1,
+      "explanation": "The ceiling caps total borrowing, not spending or deficits. Because Congress separately enacts the spending and revenue laws that require the borrowing, raising it authorizes payment for obligations already incurred rather than new commitments."
+    },
+    {
+      "id": "jk-usg-099",
+      "subtopic": "us_government_history_society",
+      "difficulty": 2,
+      "stem": "A conference committee in Congress exists to:",
+      "choices": [
+        "Reconcile differing House and Senate versions of a bill",
+        "Hold hearings on presidential nominations",
+        "Investigate executive branch misconduct",
+        "Set the legislative calendar"
+      ],
+      "answer": 0,
+      "explanation": "Conference committees produce a single compromise text that both chambers must approve without amendment. Much modern legislation now bypasses conference through informal negotiation and amendment exchange."
+    },
+    {
+      "id": "jk-usg-100",
+      "subtopic": "us_government_history_society",
+      "difficulty": 3,
+      "stem": "Gerrymandering refers to:",
+      "choices": [
+        "Drawing district boundaries to advantage a party or group",
+        "Allocating electoral votes proportionally",
+        "Requiring identification to vote",
+        "Setting the number of House seats per state"
+      ],
+      "answer": 0,
+      "explanation": "The term dates to an 1812 Massachusetts district said to resemble a salamander. Racial gerrymandering is subject to constitutional challenge; the Supreme Court held partisan gerrymandering claims nonjusticiable in federal court in Rucho v. Common Cause (2019)."
+    },
+    {
+      "id": "jk-usg-101",
+      "subtopic": "us_government_history_society",
+      "difficulty": 2,
+      "stem": "The decennial census is constitutionally required primarily to:",
+      "choices": [
+        "Determine federal grant formulas",
+        "Apportion seats in the House of Representatives among the states",
+        "Establish voter eligibility",
+        "Measure the unemployment rate"
+      ],
+      "answer": 1,
+      "explanation": "Article I requires an enumeration every ten years for apportionment. Its use in distributing federal funds is enormously consequential in practice but is a statutory consequence rather than the constitutional purpose."
+    },
+    {
+      "id": "jk-usg-102",
+      "subtopic": "us_government_history_society",
+      "difficulty": 3,
+      "stem": "The Full Faith and Credit Clause requires that:",
+      "choices": [
+        "States honor the public acts, records, and judicial proceedings of other states",
+        "The federal government pay its debts",
+        "Treaties be treated as supreme law",
+        "Federal courts defer to state interpretations of federal law"
+      ],
+      "answer": 0,
+      "explanation": "Article IV requires interstate recognition of judgments and records, which is why a judgment obtained in one state is enforceable in another. The second option confuses it with the Fourteenth Amendment's public debt clause."
+    },
+    {
+      "id": "jk-usg-103",
+      "subtopic": "us_government_history_society",
+      "difficulty": 2,
+      "stem": "Categorical grants differ from block grants in that categorical grants:",
+      "choices": [
+        "Are restricted to narrowly defined purposes",
+        "May be spent at the recipient's discretion within a broad area",
+        "Require no state matching funds",
+        "Are distributed only to municipalities"
+      ],
+      "answer": 0,
+      "explanation": "Categorical grants come with detailed conditions and reporting; block grants give recipients wide latitude within a general policy area. The choice between them is a recurring proxy for the broader argument about federal versus state control."
+    },
+    {
+      "id": "jk-usg-104",
+      "subtopic": "us_government_history_society",
+      "difficulty": 3,
+      "stem": "Printz v. United States (1997) and the anti-commandeering doctrine hold that the federal government may not:",
+      "choices": [
+        "Attach conditions to federal grants",
+        "Compel state or local officials to administer a federal regulatory program",
+        "Preempt state law in areas of concurrent authority",
+        "Regulate activity that occurs entirely within one state"
+      ],
+      "answer": 1,
+      "explanation": "The federal government may regulate directly or offer inducements, but it cannot conscript state officials into enforcing federal law. Conditional spending remains permissible within limits, which is why the first option is wrong."
+    },
+    {
+      "id": "jk-usg-105",
+      "subtopic": "us_government_history_society",
+      "difficulty": 2,
+      "stem": "The Twenty-Fifth Amendment addresses:",
+      "choices": [
+        "Presidential term limits",
+        "Presidential succession, vice presidential vacancies, and presidential disability",
+        "The line of succession beyond the Vice President",
+        "Removal of a President by the Cabinet alone"
+      ],
+      "answer": 1,
+      "explanation": "Ratified in 1967 after Kennedy's assassination, it clarifies that the Vice President becomes President, provides for filling a vice presidential vacancy, and establishes procedures for temporary and contested disability. Statutory succession beyond the Vice President comes from the Presidential Succession Act."
+    },
+    {
+      "id": "jk-usg-106",
+      "subtopic": "us_government_history_society",
+      "difficulty": 3,
+      "stem": "The suspension of habeas corpus is addressed in the Constitution as follows:",
+      "choices": [
+        "It may never be suspended",
+        "It may be suspended when in cases of rebellion or invasion the public safety may require it",
+        "It may be suspended by the President at will during wartime",
+        "It applies only to citizens"
+      ],
+      "answer": 1,
+      "explanation": "Article I, Section 9 permits suspension only in rebellion or invasion. Its placement in the legislative article is generally read to give the power to Congress, which was the core of the dispute over Lincoln's unilateral suspension in 1861."
+    },
+    {
+      "id": "jk-usg-107",
+      "subtopic": "us_government_history_society",
+      "difficulty": 2,
+      "stem": "The Department of Homeland Security was created in 2002 primarily by:",
+      "choices": [
+        "Establishing an entirely new workforce from scratch",
+        "Consolidating existing agencies including the Coast Guard, Secret Service, and immigration functions",
+        "Transferring the FBI from the Justice Department",
+        "Merging the intelligence community under one director"
+      ],
+      "answer": 1,
+      "explanation": "DHS was assembled from twenty-two existing agencies, the largest federal reorganization since 1947. The FBI remained at Justice, and intelligence-community coordination was addressed separately by creating the Director of National Intelligence in 2004."
+    },
+    {
+      "id": "jk-usg-108",
+      "subtopic": "us_government_history_society",
+      "difficulty": 3,
+      "stem": "A signing statement is:",
+      "choices": [
+        "A written objection issued when the President vetoes a bill",
+        "A statement issued when signing a bill, sometimes asserting that particular provisions raise constitutional concerns",
+        "The formal enrollment of a bill by congressional leaders",
+        "A required certification that funds are available"
+      ],
+      "answer": 1,
+      "explanation": "Presidents of both parties have used signing statements to record interpretive or constitutional objections while still enacting the bill. Their legal weight is contested, since the constitutional options presented are signature or veto, not partial acceptance."
+    },
+    {
+      "id": "jk-usg-109",
+      "subtopic": "us_government_history_society",
+      "difficulty": 2,
+      "stem": "The Spanish-American War (1898) resulted in the United States acquiring:",
+      "choices": [
+        "Cuba as a territory",
+        "Puerto Rico, Guam, and the Philippines",
+        "Hawaii and Alaska",
+        "The Panama Canal Zone"
+      ],
+      "answer": 1,
+      "explanation": "The Treaty of Paris transferred Puerto Rico, Guam, and the Philippines. Cuba became nominally independent under the constraints of the Platt Amendment, and the Canal Zone was acquired separately in 1903 after Panama's secession from Colombia."
+    },
+    {
+      "id": "jk-usg-110",
+      "subtopic": "us_government_history_society",
+      "difficulty": 3,
+      "stem": "The Insular Cases (beginning 1901) established that:",
+      "choices": [
+        "All constitutional protections apply fully in unincorporated territories",
+        "Only certain fundamental constitutional provisions apply in unincorporated territories",
+        "Territories must be admitted as states within ten years",
+        "Territorial residents may vote in presidential elections"
+      ],
+      "answer": 1,
+      "explanation": "The Court distinguished incorporated from unincorporated territories, holding that the Constitution does not follow the flag in full. The doctrine still governs the status of Puerto Rico, Guam, and other territories and remains sharply criticized."
+    },
+    {
+      "id": "jk-usg-111",
+      "subtopic": "us_government_history_society",
+      "difficulty": 2,
+      "stem": "The Fourteen Points (1918) were Woodrow Wilson's:",
+      "choices": [
+        "Terms for American entry into the war",
+        "Statement of war aims, including self-determination and a league of nations",
+        "Proposed amendments to the Constitution",
+        "Conditions for recognizing the Soviet government"
+      ],
+      "answer": 1,
+      "explanation": "Wilson's program included open covenants, freedom of the seas, self-determination, and an association of nations. Most were diluted at Versailles, though the League survived — and the Senate then declined to join it."
+    },
+    {
+      "id": "jk-usg-112",
+      "subtopic": "us_government_history_society",
+      "difficulty": 3,
+      "stem": "Court-packing refers to Franklin Roosevelt's 1937 proposal to:",
+      "choices": [
+        "Require Senate confirmation of all federal judges",
+        "Add justices to the Supreme Court, ostensibly to relieve the workload of older members",
+        "Limit the Court's appellate jurisdiction over New Deal legislation",
+        "Impose term limits on federal judges"
+      ],
+      "answer": 1,
+      "explanation": "After the Court struck down several New Deal measures, Roosevelt proposed adding a justice for each member over seventy. The plan failed in Congress, though the Court's jurisprudence shifted in the same period — the so-called switch in time."
+    },
+    {
+      "id": "jk-usg-113",
+      "subtopic": "us_government_history_society",
+      "difficulty": 2,
+      "stem": "The Marshall Court's expansion of federal power is best contrasted with the Taney Court's tendency toward:",
+      "choices": [
+        "Greater deference to state authority",
+        "Stronger protection of individual liberties",
+        "Expansion of federal commerce power",
+        "Reduction of the Court's own jurisdiction"
+      ],
+      "answer": 0,
+      "explanation": "Taney's Court, while not uniformly states-rights, generally accommodated state regulatory authority more than Marshall's had. Dred Scott, its most consequential decision, nonetheless struck down a federal statute — a reminder that the pattern is a tendency, not a rule."
+    },
+    {
+      "id": "jk-usg-114",
+      "subtopic": "us_government_history_society",
+      "difficulty": 3,
+      "stem": "The Foreign Service is distinguished from the Civil Service primarily by:",
+      "choices": [
+        "Higher pay scales at equivalent grades",
+        "Worldwide availability and a system of rotational overseas assignments",
+        "Exemption from performance evaluation",
+        "Appointment by the President without examination"
+      ],
+      "answer": 1,
+      "explanation": "Foreign Service members are commissioned as worldwide available and rotate between overseas and domestic assignments; Civil Service employees are generally hired for a specific position. Both are merit systems with competitive entry."
+    },
+    {
+      "id": "jk-usg-115",
+      "subtopic": "us_government_history_society",
+      "difficulty": 2,
+      "stem": "The five career tracks, or cones, of the Foreign Service are:",
+      "choices": [
+        "Political, Economic, Consular, Public Diplomacy, and Management",
+        "Political, Military, Economic, Legal, and Cultural",
+        "Consular, Commercial, Agricultural, Military, and Political",
+        "Diplomatic, Consular, Administrative, Technical, and Security"
+      ],
+      "answer": 0,
+      "explanation": "Candidates select one of five career tracks at registration. Commercial and agricultural officers exist but belong to the Foreign Commercial Service and Foreign Agricultural Service, which are separate personnel systems at other departments."
+    },
+    {
+      "id": "jk-usg-116",
+      "subtopic": "us_government_history_society",
+      "difficulty": 3,
+      "stem": "The National Security Act of 1947 created all of the following EXCEPT:",
+      "choices": [
+        "The Central Intelligence Agency",
+        "The National Security Council",
+        "The Department of Homeland Security",
+        "The position that became Secretary of Defense"
+      ],
+      "answer": 2,
+      "explanation": "DHS was created in 2002. The 1947 Act established the CIA, the NSC, and a unified national military establishment headed by a Secretary of Defense — the architecture of the postwar national security state."
+    },
+    {
+      "id": "jk-usg-117",
+      "subtopic": "us_government_history_society",
+      "difficulty": 2,
+      "stem": "Which best describes the role of the Deputy Chief of Mission?",
+      "choices": [
+        "The senior consular officer at post",
+        "The ambassador's principal deputy, who serves as chargé d'affaires in the ambassador's absence",
+        "The officer responsible for embassy security",
+        "The head of the political section"
+      ],
+      "answer": 1,
+      "explanation": "The DCM is the embassy's second-ranking officer and assumes charge as chargé d'affaires when the ambassador is absent or the post is vacant. The DCM also typically runs the embassy's internal management."
+    },
+    {
+      "id": "jk-usg-118",
+      "subtopic": "us_government_history_society",
+      "difficulty": 3,
+      "stem": "A démarche in diplomatic practice is:",
+      "choices": [
+        "A formal written protest lodged with an international organization",
+        "A formal representation of a government's position, usually delivered orally to host government officials",
+        "The recall of an ambassador for consultations",
+        "The expulsion of a foreign diplomat"
+      ],
+      "answer": 1,
+      "explanation": "A démarche conveys an instructed position to a host government, often supported by talking points. The third and fourth options describe distinct diplomatic signals — recall and expulsion — that escalate well beyond an ordinary representation."
+    },
+    {
+      "id": "jk-usg-119",
+      "subtopic": "us_government_history_society",
+      "difficulty": 2,
+      "stem": "Declaring a foreign diplomat persona non grata means that the host state:",
+      "choices": [
+        "Formally protests the diplomat's conduct while permitting continued service",
+        "Requires the sending state to withdraw the diplomat",
+        "Places the diplomat under arrest",
+        "Withdraws recognition of the sending state"
+      ],
+      "answer": 1,
+      "explanation": "Under the Vienna Convention on Diplomatic Relations, a host state may declare a diplomat persona non grata at any time without explanation, and the sending state must recall the person. Arrest is precluded by diplomatic immunity."
+    },
+    {
+      "id": "jk-usg-120",
+      "subtopic": "us_government_history_society",
+      "difficulty": 3,
+      "stem": "Agrément refers to:",
+      "choices": [
+        "A host government's approval of a proposed ambassador before appointment is announced",
+        "A treaty's entry into force",
+        "The Senate's consent to an ambassadorial nomination",
+        "A bilateral agreement on consular privileges"
+      ],
+      "answer": 0,
+      "explanation": "The sending state requests agrément confidentially, and only after it is granted is the nomination made public. Refusal requires no explanation, which is why the process is conducted quietly."
+    },
+    {
+      "id": "jk-usg-121",
+      "subtopic": "us_government_history_society",
+      "difficulty": 2,
+      "stem": "The Bretton Woods Conference (1944) was attended by the United States primarily to:",
+      "choices": [
+        "Plan the postwar occupation of Germany",
+        "Design a postwar international monetary system",
+        "Establish the United Nations",
+        "Negotiate the terms of Lend-Lease repayment"
+      ],
+      "answer": 1,
+      "explanation": "Bretton Woods produced the IMF and the World Bank and a system of fixed exchange rates anchored to a gold-convertible dollar. The UN was designed at Dumbarton Oaks and San Francisco, and occupation policy at Yalta and Potsdam."
+    },
+    {
+      "id": "jk-usg-122",
+      "subtopic": "us_government_history_society",
+      "difficulty": 3,
+      "stem": "The 'Nixon shock' of 1971 refers principally to:",
+      "choices": [
+        "The opening to China",
+        "The suspension of dollar convertibility into gold, ending the Bretton Woods system",
+        "The imposition of wage and price controls on defense industries",
+        "The Watergate break-in"
+      ],
+      "answer": 1,
+      "explanation": "Ending gold convertibility collapsed the fixed-rate regime and ushered in floating exchange rates. The China opening the following year is sometimes given the same label, but the term conventionally denotes the monetary decision."
+    },
+    {
+      "id": "jk-usg-123",
+      "subtopic": "us_government_history_society",
+      "difficulty": 2,
+      "stem": "Which statement about American religious composition is most accurate in recent decades?",
+      "choices": [
+        "The share of adults claiming no religious affiliation has grown substantially",
+        "Religious affiliation has remained essentially constant since 1970",
+        "Catholic affiliation has grown faster than any other group",
+        "Most Americans now report no religious background at all"
+      ],
+      "answer": 0,
+      "explanation": "The religiously unaffiliated — often called the 'nones' — have grown from a small minority to roughly a quarter or more of adults. The fourth option overstates the trend: a large majority still report a religious background even when currently unaffiliated."
+    },
+    {
+      "id": "jk-usg-124",
+      "subtopic": "us_government_history_society",
+      "difficulty": 3,
+      "stem": "Which best characterizes the long-run trend in U.S. income inequality since roughly 1980?",
+      "choices": [
+        "Inequality has declined steadily",
+        "Inequality has risen, with income gains concentrated at the top of the distribution",
+        "Inequality rose until 1990 and has fallen since",
+        "Inequality has been stable while absolute incomes fell"
+      ],
+      "answer": 1,
+      "explanation": "Standard measures show rising concentration of income at the top since about 1980, reversing the postwar compression. The causes are contested — technology, trade, institutions, and tax policy are all argued — but the direction is not."
+    },
+
+    {
+      "id": "jk-whg-046",
+      "subtopic": "world_history_geography",
+      "difficulty": 2,
+      "stem": "The Peace of Westphalia is to state sovereignty as the Congress of Vienna is to:",
+      "choices": [
+        "National self-determination",
+        "The balance of power",
+        "Collective security",
+        "Decolonization"
+      ],
+      "answer": 1,
+      "explanation": "Vienna's organizing principle was equilibrium among the great powers, deliberately subordinating nationalist claims. Collective security is the League's principle, and self-determination is Wilson's — both later reactions against the Vienna model."
+    },
+    {
+      "id": "jk-whg-047",
+      "subtopic": "world_history_geography",
+      "difficulty": 3,
+      "stem": "The Russian Revolution of 1917 consisted of two distinct phases, the second of which:",
+      "choices": [
+        "Restored the Romanov dynasty",
+        "Brought the Bolsheviks to power and withdrew Russia from the First World War",
+        "Established a constitutional monarchy",
+        "Created the Warsaw Pact"
+      ],
+      "answer": 1,
+      "explanation": "The February Revolution deposed the Tsar in favor of a provisional government; the October Revolution brought Lenin's Bolsheviks to power, followed by the Treaty of Brest-Litovsk exiting the war. Conflating the two phases is the standard error."
+    },
+    {
+      "id": "jk-whg-048",
+      "subtopic": "world_history_geography",
+      "difficulty": 2,
+      "stem": "Which country is landlocked?",
+      "choices": ["Bolivia", "Peru", "Colombia", "Venezuela"],
+      "answer": 0,
+      "explanation": "Bolivia lost its Pacific coastline to Chile in the War of the Pacific (1879-83) and remains landlocked — a grievance that still shapes Bolivian foreign policy and has been litigated at the International Court of Justice."
+    },
+    {
+      "id": "jk-whg-049",
+      "subtopic": "world_history_geography",
+      "difficulty": 3,
+      "stem": "The Sino-Soviet split of the late 1950s and 1960s is significant because it:",
+      "choices": [
+        "Ended communist rule in Eastern Europe",
+        "Divided the communist world and eventually enabled the American opening to China",
+        "Triggered the Korean War",
+        "Produced the Warsaw Pact"
+      ],
+      "answer": 1,
+      "explanation": "Ideological and strategic rivalry between Moscow and Beijing fractured the bloc and created the opening Nixon and Kissinger exploited in 1972. The Korean War and Warsaw Pact both predate the split."
+    },
+    {
+      "id": "jk-whg-050",
+      "subtopic": "world_history_geography",
+      "difficulty": 2,
+      "stem": "Which sea is bordered by Turkey, Ukraine, Russia, Georgia, Romania, and Bulgaria?",
+      "choices": ["The Caspian Sea", "The Black Sea", "The Aegean Sea", "The Adriatic Sea"],
+      "answer": 1,
+      "explanation": "Those six states are the Black Sea's littoral. The Caspian is bordered by a different set including Iran and Kazakhstan, and the Aegean and Adriatic lie within the Mediterranean basin."
+    },
+    {
+      "id": "jk-whg-051",
+      "subtopic": "world_history_geography",
+      "difficulty": 3,
+      "stem": "The Treaty of Brest-Litovsk (1918):",
+      "choices": [
+        "Ended the First World War in the west",
+        "Removed Russia from the First World War on harsh territorial terms",
+        "Created the Soviet Union",
+        "Established the Polish-Soviet border"
+      ],
+      "answer": 1,
+      "explanation": "The Bolsheviks accepted severe territorial losses to exit the war. The treaty was annulled by the November 1918 armistice, but it revealed both German war aims and the new regime's willingness to trade territory for survival."
+    },
+    {
+      "id": "jk-whg-052",
+      "subtopic": "world_history_geography",
+      "difficulty": 2,
+      "stem": "The Marshall Islands, Kiribati, and Tuvalu are located in which region?",
+      "choices": ["The Caribbean", "The Pacific", "The Indian Ocean", "The Mediterranean"],
+      "answer": 1,
+      "explanation": "All three are Pacific island states, and all are among the countries most exposed to sea level rise — which is why they feature prominently in climate negotiations well out of proportion to their population."
+    },
+    {
+      "id": "jk-whg-053",
+      "subtopic": "world_history_geography",
+      "difficulty": 3,
+      "stem": "The Berlin Wall fell in which year, and what followed within a year?",
+      "choices": [
+        "1989; German reunification",
+        "1991; the dissolution of the Soviet Union",
+        "1985; the beginning of perestroika",
+        "1990; the Warsaw Pact's founding"
+      ],
+      "answer": 0,
+      "explanation": "The Wall opened in November 1989 and Germany reunified in October 1990. The Soviet Union dissolved in December 1991 — a related but separate event two years later."
+    },
+    {
+      "id": "jk-whg-054",
+      "subtopic": "world_history_geography",
+      "difficulty": 2,
+      "stem": "The Maastricht Treaty (1992) is significant for:",
+      "choices": [
+        "Founding the European Coal and Steel Community",
+        "Creating the European Union and setting the path to a single currency",
+        "Admitting the United Kingdom to the European Community",
+        "Establishing the Schengen Area"
+      ],
+      "answer": 1,
+      "explanation": "Maastricht established the EU's three-pillar structure and the criteria for monetary union. Schengen originated in a separate 1985 agreement later folded into EU law, and the ECSC dates to 1951."
+    },
+    {
+      "id": "jk-whg-055",
+      "subtopic": "world_history_geography",
+      "difficulty": 3,
+      "stem": "The Rwandan genocide of 1994 is frequently cited in policy debate as a case of:",
+      "choices": [
+        "Successful preventive diplomacy",
+        "International failure to act despite available warning",
+        "Effective use of peacekeeping mandates",
+        "Regional organizations resolving a crisis without outside help"
+      ],
+      "answer": 1,
+      "explanation": "Warnings reached UN headquarters and member governments, and the existing peacekeeping force was reduced rather than reinforced. The episode drove subsequent debates over the responsibility to protect."
+    },
+    {
+      "id": "jk-whg-056",
+      "subtopic": "world_history_geography",
+      "difficulty": 2,
+      "stem": "Which two countries are divided by the 38th parallel?",
+      "choices": [
+        "India and Pakistan",
+        "North and South Korea",
+        "China and Mongolia",
+        "Israel and Lebanon"
+      ],
+      "answer": 1,
+      "explanation": "The 38th parallel was the 1945 occupation dividing line on the Korean peninsula. The current Demilitarized Zone follows the 1953 armistice line, which crosses the parallel rather than tracking it exactly."
+    },
+    {
+      "id": "jk-whg-057",
+      "subtopic": "world_history_geography",
+      "difficulty": 3,
+      "stem": "The Ottoman Empire's dissolution after the First World War was formalized principally by:",
+      "choices": [
+        "The Treaty of Versailles",
+        "The Treaty of Lausanne, which superseded the earlier Treaty of Sèvres",
+        "The Balfour Declaration",
+        "The Congress of Berlin"
+      ],
+      "answer": 1,
+      "explanation": "Sèvres (1920) would have partitioned Anatolia but was rejected after the Turkish War of Independence; Lausanne (1923) recognized the modern Turkish Republic's borders. Versailles dealt with Germany."
+    },
+    {
+      "id": "jk-whg-058",
+      "subtopic": "world_history_geography",
+      "difficulty": 2,
+      "stem": "Which desert is the largest hot desert in the world?",
+      "choices": ["The Gobi", "The Sahara", "The Kalahari", "The Atacama"],
+      "answer": 1,
+      "explanation": "The Sahara spans roughly nine million square kilometers across North Africa. Antarctica is technically the largest desert overall, being a cold desert — which is why the question specifies hot."
+    },
+    {
+      "id": "jk-whg-059",
+      "subtopic": "world_history_geography",
+      "difficulty": 3,
+      "stem": "The Treaty of Tlatelolco (1967) established:",
+      "choices": [
+        "A nuclear-weapon-free zone in Latin America and the Caribbean",
+        "A free trade area among Andean states",
+        "The Organization of American States",
+        "A framework for Amazon conservation"
+      ],
+      "answer": 0,
+      "explanation": "Tlatelolco was the first treaty to create a nuclear-weapon-free zone in a populated region, concluded in the aftermath of the Cuban Missile Crisis and serving as a template for later zones in Africa, Southeast Asia, and the South Pacific."
+    },
+    {
+      "id": "jk-whg-060",
+      "subtopic": "world_history_geography",
+      "difficulty": 2,
+      "stem": "The Rhine River flows primarily through which countries before reaching the sea?",
+      "choices": [
+        "France, Spain, and Portugal",
+        "Switzerland, Germany, and the Netherlands",
+        "Austria, Hungary, and Serbia",
+        "Poland, Belarus, and Ukraine"
+      ],
+      "answer": 1,
+      "explanation": "The Rhine rises in the Swiss Alps, forms part of the Franco-German border, and reaches the North Sea through the Netherlands. The third option traces the Danube's course instead."
+    },
+    {
+      "id": "jk-whg-061",
+      "subtopic": "world_history_geography",
+      "difficulty": 3,
+      "stem": "The Bandung Conference, the Non-Aligned Movement, and the Group of 77 share which common feature?",
+      "choices": [
+        "They were founded by the Soviet Union to counter NATO",
+        "They represent efforts by developing states to act collectively in international politics",
+        "They are formal treaty organizations with binding obligations",
+        "They were dissolved at the end of the Cold War"
+      ],
+      "answer": 1,
+      "explanation": "All three are vehicles for collective action by states outside the great-power blocs, whether on security alignment or on economic terms of trade. The G-77 in particular remains an active negotiating bloc at the UN today."
+    },
+    {
+      "id": "jk-whg-062",
+      "subtopic": "world_history_geography",
+      "difficulty": 2,
+      "stem": "Which country was formerly known as Burma?",
+      "choices": ["Cambodia", "Myanmar", "Laos", "Thailand"],
+      "answer": 1,
+      "explanation": "The ruling military government renamed the country Myanmar in 1989. Usage of the two names has itself been politically significant, with some governments and opposition figures continuing to say Burma."
+    },
+    {
+      "id": "jk-whg-063",
+      "subtopic": "world_history_geography",
+      "difficulty": 3,
+      "stem": "The partition of Cyprus dates from:",
+      "choices": [
+        "British withdrawal in 1960",
+        "The 1974 Turkish intervention following a coup backed by the Greek junta",
+        "The Treaty of Lausanne in 1923",
+        "The Cyprus Emergency of the 1950s"
+      ],
+      "answer": 1,
+      "explanation": "The island has been divided since Turkey's 1974 intervention, with the north declaring itself the Turkish Republic of Northern Cyprus in 1983 — recognized only by Turkey. Independence from Britain in 1960 preceded the division."
+    },
+    {
+      "id": "jk-whg-064",
+      "subtopic": "world_history_geography",
+      "difficulty": 2,
+      "stem": "The Amazon River basin lies predominantly within which country?",
+      "choices": ["Peru", "Brazil", "Colombia", "Venezuela"],
+      "answer": 1,
+      "explanation": "Roughly 60 percent of the Amazon basin is in Brazil, though the river's headwaters rise in the Peruvian Andes. The basin's other portions are shared among seven more South American states."
+    },
+    {
+      "id": "jk-whg-065",
+      "subtopic": "world_history_geography",
+      "difficulty": 3,
+      "stem": "The Schengen Agreement principally provides for:",
+      "choices": [
+        "A common European currency",
+        "The abolition of internal border checks among participating states",
+        "A customs union with a common external tariff",
+        "Joint European defense planning"
+      ],
+      "answer": 1,
+      "explanation": "Schengen concerns free movement of people across internal borders. Its membership is not identical to the EU's — Ireland opts out while Norway, Switzerland, and Iceland participate — which is why conflating the two produces persistent confusion."
+    },
+    {
+      "id": "jk-whg-066",
+      "subtopic": "world_history_geography",
+      "difficulty": 2,
+      "stem": "Which of these was NOT a member of the Axis powers in the Second World War?",
+      "choices": ["Germany", "Italy", "Japan", "The Soviet Union"],
+      "answer": 3,
+      "explanation": "The Soviet Union fought with the Allies from June 1941. It had signed a nonaggression pact with Germany in 1939 and partitioned Poland under its secret protocol, which is what makes the distractor tempting — but it was never an Axis member."
+    },
+    {
+      "id": "jk-whg-067",
+      "subtopic": "world_history_geography",
+      "difficulty": 3,
+      "stem": "The Durand Line is the disputed boundary between:",
+      "choices": [
+        "India and Pakistan",
+        "Afghanistan and Pakistan",
+        "Iran and Iraq",
+        "China and India"
+      ],
+      "answer": 1,
+      "explanation": "Drawn in 1893 by British India, the Durand Line has never been formally accepted by Afghanistan, and it divides Pashtun populations. The India-Pakistan dispute concerns the Line of Control in Kashmir, a separate boundary question."
+    },
+    {
+      "id": "jk-whg-068",
+      "subtopic": "world_history_geography",
+      "difficulty": 2,
+      "stem": "Which organization's members are principally oil-exporting countries coordinating production?",
+      "choices": ["OECD", "OPEC", "OSCE", "ASEAN"],
+      "answer": 1,
+      "explanation": "OPEC coordinates petroleum production among member states to influence prices. The OECD is a grouping of mostly high-income economies, and the OSCE is a European security organization — the acronym similarity is the trap."
+    },
+    {
+      "id": "jk-whg-069",
+      "subtopic": "world_history_geography",
+      "difficulty": 3,
+      "stem": "The Treaty of Rome (1957) established which body?",
+      "choices": [
+        "The European Coal and Steel Community",
+        "The European Economic Community",
+        "The Council of Europe",
+        "The European Central Bank"
+      ],
+      "answer": 1,
+      "explanation": "The Treaty of Rome created the EEC and Euratom. The ECSC came from the Treaty of Paris in 1951, and the Council of Europe — a separate human rights body, not an EU institution — was founded in 1949."
+    },
+    {
+      "id": "jk-whg-070",
+      "subtopic": "world_history_geography",
+      "difficulty": 2,
+      "stem": "Which continent contains the most independent countries?",
+      "choices": ["Asia", "Africa", "Europe", "South America"],
+      "answer": 1,
+      "explanation": "Africa has 54 recognized states, more than any other continent — a direct legacy of the colonial partition formalized at Berlin and the wave of independence that followed in the 1960s."
+    },
+
+    {
+      "id": "jk-eco-037",
+      "subtopic": "economics",
+      "difficulty": 2,
+      "stem": "A market is in equilibrium when:",
+      "choices": [
+        "Prices are at their lowest sustainable level",
+        "Quantity supplied equals quantity demanded",
+        "All producers earn equal profits",
+        "Government intervention is absent"
+      ],
+      "answer": 1,
+      "explanation": "Equilibrium is the price at which the quantity offered matches the quantity sought, with no tendency to change. It implies nothing about fairness, low prices, or the absence of regulation."
+    },
+    {
+      "id": "jk-eco-038",
+      "subtopic": "economics",
+      "difficulty": 3,
+      "stem": "A price ceiling set below the equilibrium price will typically produce:",
+      "choices": [
+        "A surplus of the good",
+        "A shortage of the good",
+        "No change in quantity traded",
+        "An increase in supply"
+      ],
+      "answer": 1,
+      "explanation": "Below equilibrium, quantity demanded exceeds quantity supplied and a shortage results — rent control is the standard example. A price floor above equilibrium, such as a minimum wage in some markets, produces the opposite: a surplus."
+    },
+    {
+      "id": "jk-eco-039",
+      "subtopic": "economics",
+      "difficulty": 2,
+      "stem": "Nominal GDP differs from real GDP in that nominal GDP:",
+      "choices": [
+        "Excludes government spending",
+        "Is measured at current prices without adjusting for inflation",
+        "Counts only goods, not services",
+        "Is measured per capita"
+      ],
+      "answer": 1,
+      "explanation": "Real GDP is deflated to constant prices so that growth reflects output rather than price changes. Comparing nominal figures across years overstates growth whenever inflation is positive."
+    },
+    {
+      "id": "jk-eco-040",
+      "subtopic": "economics",
+      "difficulty": 3,
+      "stem": "Seigniorage refers to:",
+      "choices": [
+        "The revenue a government earns from issuing currency",
+        "A tax levied on financial transactions",
+        "The interest paid on sovereign debt",
+        "Fees charged for using a common currency"
+      ],
+      "answer": 0,
+      "explanation": "Seigniorage is the difference between the face value of money and the cost of producing it, historically a meaningful revenue source. Excessive reliance on it is a route to inflation, which is why fiscally weak states are prone to it."
+    },
+    {
+      "id": "jk-eco-041",
+      "subtopic": "economics",
+      "difficulty": 2,
+      "stem": "A country's terms of trade improve when:",
+      "choices": [
+        "Its export prices rise relative to its import prices",
+        "Its trade deficit widens",
+        "Its currency depreciates",
+        "Tariffs on its exports increase"
+      ],
+      "answer": 0,
+      "explanation": "Terms of trade is the ratio of export to import prices; improvement means a given volume of exports buys more imports. Commodity exporters experience large swings in this measure, which is why it matters for their fiscal planning."
+    },
+    {
+      "id": "jk-eco-042",
+      "subtopic": "economics",
+      "difficulty": 3,
+      "stem": "The Heckscher-Ohlin model predicts that countries will export goods that:",
+      "choices": [
+        "Use intensively the factors of production they possess in abundance",
+        "They can produce at the lowest absolute cost",
+        "Have the highest domestic demand",
+        "Require the most advanced technology"
+      ],
+      "answer": 0,
+      "explanation": "The model explains trade patterns by factor endowments: labor-abundant countries export labor-intensive goods, capital-abundant countries export capital-intensive ones. It extends Ricardo's comparative advantage by supplying a source for the cost differences."
+    },
+    {
+      "id": "jk-eco-043",
+      "subtopic": "economics",
+      "difficulty": 2,
+      "stem": "A customs union differs from a free trade area in that a customs union:",
+      "choices": [
+        "Eliminates internal tariffs only",
+        "Adds a common external tariff toward non-members",
+        "Requires a shared currency",
+        "Permits free movement of labor"
+      ],
+      "answer": 1,
+      "explanation": "Both remove internal tariffs; a customs union additionally harmonizes external tariffs. Free movement of labor belongs to a common market, and a shared currency to a monetary union — four successive stages of integration."
+    },
+    {
+      "id": "jk-eco-044",
+      "subtopic": "economics",
+      "difficulty": 3,
+      "stem": "Hyperinflation is most commonly caused by:",
+      "choices": [
+        "Rapid technological change",
+        "Sustained monetary expansion, often to finance fiscal deficits",
+        "Excessive foreign investment",
+        "Fixed exchange rate regimes"
+      ],
+      "answer": 1,
+      "explanation": "Historical hyperinflations — Weimar Germany, Zimbabwe, interwar Hungary — share the pattern of governments printing money to cover deficits they cannot finance otherwise. Fixed exchange rates, if credible, tend to restrain rather than cause it."
+    },
+    {
+      "id": "jk-eco-045",
+      "subtopic": "economics",
+      "difficulty": 2,
+      "stem": "The labor force participation rate measures:",
+      "choices": [
+        "The percentage of the working-age population employed or actively seeking work",
+        "The percentage of the population that is employed",
+        "The number of hours worked per week on average",
+        "The share of workers in unions"
+      ],
+      "answer": 0,
+      "explanation": "Participation counts both the employed and those actively looking. It matters because a falling unemployment rate can reflect discouraged workers leaving the labor force rather than genuine improvement — the two statistics must be read together."
+    },
+    {
+      "id": "jk-eco-046",
+      "subtopic": "economics",
+      "difficulty": 3,
+      "stem": "A country experiencing capital flight would most likely see:",
+      "choices": [
+        "Currency appreciation and falling interest rates",
+        "Currency depreciation and pressure on foreign reserves",
+        "A widening current account surplus",
+        "Falling domestic prices"
+      ],
+      "answer": 1,
+      "explanation": "Investors selling domestic assets drives the currency down and forces the central bank to spend reserves defending it. This dynamic is the core of a classic balance-of-payments crisis."
+    },
+    {
+      "id": "jk-eco-047",
+      "subtopic": "economics",
+      "difficulty": 2,
+      "stem": "Microfinance is best described as:",
+      "choices": [
+        "Small-scale financial services extended to low-income borrowers who lack access to conventional banking",
+        "Government grants to small businesses",
+        "Investment in small-capitalization stocks",
+        "Short-term lending between central banks"
+      ],
+      "answer": 0,
+      "explanation": "Microfinance provides small loans and related services to clients outside the formal banking system. Rigorous evaluations have found more modest effects on poverty than early enthusiasm suggested, though effects on consumption smoothing are better supported."
+    },
+    {
+      "id": "jk-eco-048",
+      "subtopic": "economics",
+      "difficulty": 3,
+      "stem": "The 'middle-income trap' describes a situation in which a country:",
+      "choices": [
+        "Cannot borrow on international markets",
+        "Stalls after reaching middle-income status, losing low-wage competitiveness without gaining high-productivity industries",
+        "Experiences persistent trade deficits",
+        "Has an unusually large middle class"
+      ],
+      "answer": 1,
+      "explanation": "Countries in the trap are too expensive to compete on labor cost and not yet innovative enough to compete on technology. Escaping it generally requires investment in human capital and institutions rather than further factor accumulation."
+    },
+    {
+      "id": "jk-eco-049",
+      "subtopic": "economics",
+      "difficulty": 2,
+      "stem": "Which of the following is an example of a regressive tax?",
+      "choices": [
+        "A graduated income tax",
+        "A flat sales tax on necessities",
+        "An estate tax with a large exemption",
+        "A corporate profits tax"
+      ],
+      "answer": 1,
+      "explanation": "Because lower-income households spend a larger share of income on necessities, a flat sales tax on them takes a larger proportion of that income. Regressivity concerns the share of income paid, not the nominal rate, which is identical for everyone."
+    },
+    {
+      "id": "jk-eco-050",
+      "subtopic": "economics",
+      "difficulty": 3,
+      "stem": "Comparative advantage can shift over time primarily because:",
+      "choices": [
+        "Absolute production costs never change",
+        "Factor endowments, technology, and human capital evolve",
+        "Trade agreements prohibit specialization",
+        "Opportunity costs are fixed by geography"
+      ],
+      "answer": 1,
+      "explanation": "Comparative advantage rests on relative opportunity costs, which change as countries accumulate capital, educate workforces, and adopt technologies. East Asian economies moving from textiles to electronics illustrate the pattern directly."
+    },
+    {
+      "id": "jk-eco-051",
+      "subtopic": "economics",
+      "difficulty": 2,
+      "stem": "Official development assistance (ODA) is distinguished from other financial flows by:",
+      "choices": [
+        "Being provided by governments on concessional terms with development as the main objective",
+        "Being channeled exclusively through the United Nations",
+        "Requiring repayment at market interest rates",
+        "Being limited to humanitarian emergencies"
+      ],
+      "answer": 0,
+      "explanation": "ODA is official, concessional, and development-oriented — three criteria that exclude military aid, export credits, and commercial lending. Humanitarian relief is one component of ODA rather than its definition."
+    },
+    {
+      "id": "jk-eco-052",
+      "subtopic": "economics",
+      "difficulty": 3,
+      "stem": "A country that dollarizes its economy:",
+      "choices": [
+        "Gains an independent monetary policy",
+        "Abandons its own currency and with it the ability to set monetary policy",
+        "Is required to join a currency union",
+        "Automatically eliminates inflation"
+      ],
+      "answer": 1,
+      "explanation": "Adopting a foreign currency imports the anchor country's monetary policy entirely and forfeits seigniorage and lender-of-last-resort capacity. Ecuador and El Salvador are the standard examples; inflation typically falls sharply but is not eliminated."
+    },
+
+    {
+      "id": "jk-mat-028",
+      "subtopic": "math_statistics",
+      "difficulty": 2,
+      "stem": "If 40% of 250 applicants are approved, and 30% of those approved request expedited processing, how many request expedited processing?",
+      "choices": ["30", "75", "100", "12"],
+      "answer": 0,
+      "explanation": "40% of 250 is 100 approved; 30% of 100 is 30. The 75 distractor comes from taking 30% of 250 directly, ignoring that the second percentage applies to the approved subset rather than the whole."
+    },
+    {
+      "id": "jk-mat-029",
+      "subtopic": "math_statistics",
+      "difficulty": 3,
+      "stem": "A dataset has a mean of 50 and a standard deviation of 0. Which must be true?",
+      "choices": [
+        "The dataset contains only one observation",
+        "Every observation equals 50",
+        "The median is greater than the mean",
+        "The data are normally distributed"
+      ],
+      "answer": 1,
+      "explanation": "A standard deviation of zero means no dispersion, so every value equals the mean. The first option is a special case rather than a necessary one — a hundred identical values give the same result."
+    },
+    {
+      "id": "jk-mat-030",
+      "subtopic": "math_statistics",
+      "difficulty": 2,
+      "stem": "A budget line item grew from $80,000 to $100,000 to $125,000 over three years. The annual growth rate was:",
+      "choices": [
+        "Constant at 25%",
+        "Constant at 20%",
+        "Increasing each year",
+        "Decreasing each year"
+      ],
+      "answer": 0,
+      "explanation": "Each year multiplies the prior figure by 1.25: 80 → 100 → 125. The 20% distractor comes from computing the second year's increase as a share of the ending rather than the beginning value."
+    },
+    {
+      "id": "jk-mat-031",
+      "subtopic": "math_statistics",
+      "difficulty": 3,
+      "stem": "A report states that a program's effect was 'statistically significant.' This means:",
+      "choices": [
+        "The effect is large enough to matter in practice",
+        "The observed result is unlikely to have arisen by chance if there were no true effect",
+        "The program definitely caused the outcome",
+        "The finding has been replicated"
+      ],
+      "answer": 1,
+      "explanation": "Statistical significance concerns the probability of the data under the null hypothesis, not the size or importance of the effect. Large samples can render trivially small effects significant, which is why practical significance must be assessed separately."
+    },
+    {
+      "id": "jk-mat-032",
+      "subtopic": "math_statistics",
+      "difficulty": 2,
+      "stem": "A post receives 60 cases on Monday, 45 on Tuesday, 75 on Wednesday, 30 on Thursday, and 40 on Friday. The median daily volume is:",
+      "choices": ["45", "50", "60", "40"],
+      "answer": 0,
+      "explanation": "Sorted, the values are 30, 40, 45, 60, 75, and the middle value is 45. The 50 distractor is the mean, which is pulled upward by the 75-case Wednesday."
+    },
+    {
+      "id": "jk-mat-033",
+      "subtopic": "math_statistics",
+      "difficulty": 3,
+      "stem": "Two variables have a correlation of −0.9. This indicates:",
+      "choices": [
+        "A weak relationship, since the value is negative",
+        "A strong relationship in which one variable falls as the other rises",
+        "No relationship at all",
+        "That one variable causes a decrease in the other"
+      ],
+      "answer": 1,
+      "explanation": "Strength is given by the absolute value, so −0.9 is as strong as +0.9; the sign only tells you the direction. Treating a negative coefficient as weak is a common misreading, and causation still does not follow."
+    },
+    {
+      "id": "jk-mat-034",
+      "subtopic": "math_statistics",
+      "difficulty": 2,
+      "stem": "If an embassy processes 15 cases per hour and operates 7 hours per day, how many working days are needed to clear a backlog of 1,575 cases?",
+      "choices": ["10", "15", "12", "21"],
+      "answer": 1,
+      "explanation": "Daily capacity is 15 × 7 = 105 cases, and 1,575 ÷ 105 = 15 days. The 10-day answer results from dividing by 157.5, a decimal slip that is easy to make under time pressure."
+    },
+    {
+      "id": "jk-mat-035",
+      "subtopic": "math_statistics",
+      "difficulty": 3,
+      "stem": "A sample of 100 gives a result with a margin of error of ±6 points. Roughly what sample size would be needed to halve the margin of error?",
+      "choices": ["200", "400", "150", "1,000"],
+      "answer": 1,
+      "explanation": "Margin of error scales with the inverse square root of sample size, so halving it requires quadrupling the sample to 400. Assuming a doubling suffices is the standard error, and it substantially understates survey costs."
+    },
+    {
+      "id": "jk-mat-036",
+      "subtopic": "math_statistics",
+      "difficulty": 2,
+      "stem": "A chart shows exports rising from 20 to 24 units while imports rise from 50 to 56. Which grew faster in percentage terms?",
+      "choices": [
+        "Imports, because the absolute increase was larger",
+        "Exports, at 20% versus 12%",
+        "They grew at the same rate",
+        "Cannot be determined"
+      ],
+      "answer": 1,
+      "explanation": "Exports rose 4/20 = 20%; imports rose 6/50 = 12%. The first option is the trap the question is built on: a larger absolute increase on a larger base can still be the slower rate."
+    },
+    {
+      "id": "jk-mat-037",
+      "subtopic": "math_statistics",
+      "difficulty": 3,
+      "stem": "In a country of 40 million with a GDP of $200 billion growing at 3% while population grows at 4%, GDP per capita is:",
+      "choices": ["Rising", "Falling", "Constant", "Indeterminate"],
+      "answer": 1,
+      "explanation": "When population grows faster than output, output per person falls — roughly 3% − 4% = −1% per year. This is why aggregate growth figures can conceal deteriorating living standards in high-fertility economies."
+    },
+    {
+      "id": "jk-mat-038",
+      "subtopic": "math_statistics",
+      "difficulty": 2,
+      "stem": "Which measure is least affected by a single extreme outlier?",
+      "choices": ["The mean", "The median", "The range", "The standard deviation"],
+      "answer": 1,
+      "explanation": "The median depends only on the middle position and is unmoved by how extreme the tails are. The range is determined entirely by the extremes, and both the mean and standard deviation incorporate every value's magnitude."
+    },
+    {
+      "id": "jk-mat-039",
+      "subtopic": "math_statistics",
+      "difficulty": 3,
+      "stem": "A program reports that participants' incomes rose 15% while a comparison group's rose 12%. The program's estimated effect is:",
+      "choices": [
+        "15 percentage points",
+        "About 3 percentage points",
+        "27 percentage points",
+        "Zero, since both groups improved"
+      ],
+      "answer": 1,
+      "explanation": "The difference-in-differences estimate is the participant change minus the comparison change: 15 − 12 = 3 points. Attributing the full 15% to the program ignores that incomes were rising anyway, which is exactly what the comparison group is for."
+    },
+    {
+      "id": "jk-mat-040",
+      "subtopic": "math_statistics",
+      "difficulty": 2,
+      "stem": "A currency trades at 0.8 euros per dollar. How many dollars does 200 euros buy?",
+      "choices": ["$160", "$250", "$200", "$125"],
+      "answer": 1,
+      "explanation": "If one dollar buys 0.8 euros, then 200 ÷ 0.8 = $250. Multiplying instead of dividing gives the $160 distractor — the direction of an exchange rate conversion is the most common source of error in these calculations."
+    },
+    {
+      "id": "jk-mat-041",
+      "subtopic": "math_statistics",
+      "difficulty": 3,
+      "stem": "A survey reports that 70% of respondents 'somewhat or strongly' support a policy. Which is the most important limitation to note?",
+      "choices": [
+        "Combining response categories can obscure how much of the support is weak",
+        "Percentages should always be reported to one decimal place",
+        "Surveys cannot measure opinion accurately",
+        "The sample must exceed 1,000 respondents"
+      ],
+      "answer": 0,
+      "explanation": "Collapsing 'somewhat' into 'strongly' can turn tepid approval into an impressive headline figure. It is a reporting choice worth checking whenever a combined category is presented without its components."
+    },
+    {
+      "id": "jk-mat-042",
+      "subtopic": "math_statistics",
+      "difficulty": 2,
+      "stem": "If a project's cost is split among four agencies in the ratio 4:3:2:1 and the total is $600,000, the largest share is:",
+      "choices": ["$240,000", "$150,000", "$300,000", "$200,000"],
+      "answer": 0,
+      "explanation": "The parts total 4+3+2+1 = 10, so one part is $60,000 and the largest share is 4 × $60,000 = $240,000. The $150,000 distractor comes from dividing evenly among four agencies, ignoring the ratio."
+    },
+
+    {
+      "id": "jk-usg-125",
+      "subtopic": "us_government_history_society",
+      "difficulty": 2,
+      "stem": "The Whiskey Rebellion (1794) is significant because it demonstrated:",
+      "choices": [
+        "That the new federal government would enforce its tax laws, by force if necessary",
+        "That states could nullify federal excise taxes",
+        "The failure of the Constitution's taxing power",
+        "The need for a standing army in peacetime"
+      ],
+      "answer": 0,
+      "explanation": "Washington led militia into western Pennsylvania to suppress resistance to the whiskey excise, establishing that federal law would be enforced — a contrast with the Articles government's helplessness during Shays' Rebellion a decade earlier."
+    },
+    {
+      "id": "jk-usg-126",
+      "subtopic": "us_government_history_society",
+      "difficulty": 3,
+      "stem": "Griswold v. Connecticut (1965) is best known for recognizing:",
+      "choices": [
+        "A right to counsel in civil cases",
+        "A constitutional right to privacy derived from several amendments",
+        "Federal authority over state family law",
+        "Equal protection for non-marital children"
+      ],
+      "answer": 1,
+      "explanation": "The Court found a right to marital privacy in the 'penumbras' of the Bill of Rights, striking down a contraception ban. The reasoning became the foundation for a line of later privacy cases and remains contested precisely because the right is not textually enumerated."
+    },
+    {
+      "id": "jk-usg-127",
+      "subtopic": "us_government_history_society",
+      "difficulty": 2,
+      "stem": "Loving v. Virginia (1967) struck down:",
+      "choices": [
+        "School segregation",
+        "State bans on interracial marriage",
+        "Poll taxes in state elections",
+        "Restrictive housing covenants"
+      ],
+      "answer": 1,
+      "explanation": "The Court held anti-miscegenation laws unconstitutional under both equal protection and due process. Restrictive covenants had been addressed earlier in Shelley v. Kraemer (1948), which held them judicially unenforceable."
+    },
+    {
+      "id": "jk-usg-128",
+      "subtopic": "us_government_history_society",
+      "difficulty": 3,
+      "stem": "The exclusionary rule provides that:",
+      "choices": [
+        "Evidence obtained in violation of the Fourth Amendment generally may not be used at trial",
+        "Defendants may exclude jurors for any reason",
+        "Confessions are inadmissible without counsel present",
+        "Hearsay may not be admitted as evidence"
+      ],
+      "answer": 0,
+      "explanation": "Established federally in Weeks v. United States and applied to the states in Mapp v. Ohio, the rule deters unlawful searches by denying prosecutors their fruits. It is subject to several exceptions, notably good faith."
+    },
+    {
+      "id": "jk-usg-129",
+      "subtopic": "us_government_history_society",
+      "difficulty": 2,
+      "stem": "The Marshall Plan, NATO, and the Truman Doctrine are all best understood as instruments of:",
+      "choices": ["Containment", "Rollback", "Détente", "Isolationism"],
+      "answer": 0,
+      "explanation": "All three implemented the strategy of preventing further Soviet expansion without direct confrontation. Rollback would have sought to reverse existing Soviet gains, and détente describes the later 1970s relaxation of tensions."
+    },
+    {
+      "id": "jk-usg-130",
+      "subtopic": "us_government_history_society",
+      "difficulty": 3,
+      "stem": "The Bricker Amendment, debated in the 1950s, would have:",
+      "choices": [
+        "Limited the domestic legal effect of treaties and executive agreements",
+        "Required a declaration of war before any troop deployment",
+        "Abolished the electoral college",
+        "Given the House a role in treaty consent"
+      ],
+      "answer": 0,
+      "explanation": "Bricker sought to constrain the executive's treaty power and its domestic effect, reflecting postwar anxieties about international commitments. It failed by a single vote in the Senate and remains a touchstone in debates over treaty self-execution."
+    },
+    {
+      "id": "jk-usg-131",
+      "subtopic": "us_government_history_society",
+      "difficulty": 2,
+      "stem": "The Twenty-Fourth Amendment abolished:",
+      "choices": [
+        "Literacy tests in federal elections",
+        "The poll tax in federal elections",
+        "Property qualifications for voting",
+        "At-large congressional districts"
+      ],
+      "answer": 1,
+      "explanation": "Ratified in 1964, it barred poll taxes in federal elections; Harper v. Virginia Board of Elections extended the prohibition to state elections two years later. Literacy tests were suspended by the Voting Rights Act of 1965."
+    },
+    {
+      "id": "jk-usg-132",
+      "subtopic": "us_government_history_society",
+      "difficulty": 3,
+      "stem": "The 'necessary and proper' clause and the Tenth Amendment are best described as:",
+      "choices": [
+        "Two provisions with identical effect",
+        "Textual counterweights, one expanding federal authority and one reserving powers to the states",
+        "Provisions that apply only to wartime",
+        "Amendments ratified at the same time"
+      ],
+      "answer": 1,
+      "explanation": "The elastic clause is a source of implied federal power; the Tenth Amendment reserves undelegated powers. Constitutional argument about federalism largely consists of weighing the two, and neither has ever definitively subordinated the other."
+    },
+    {
+      "id": "jk-usg-133",
+      "subtopic": "us_government_history_society",
+      "difficulty": 2,
+      "stem": "A primary election differs from a caucus in that a primary:",
+      "choices": [
+        "Is conducted by secret ballot administered by election officials",
+        "Is open only to registered party members",
+        "Selects delegates rather than candidates",
+        "Is used only in presidential contests"
+      ],
+      "answer": 0,
+      "explanation": "Primaries are state-run secret ballots; caucuses are party-run meetings requiring in-person participation and often public alignment. Both may be open or closed to non-members, so party registration is not the distinguishing feature."
+    },
+    {
+      "id": "jk-usg-134",
+      "subtopic": "us_government_history_society",
+      "difficulty": 3,
+      "stem": "Citizens United v. FEC (2010) held that:",
+      "choices": [
+        "Corporate and union independent political expenditures are protected speech",
+        "Direct corporate contributions to candidates are unlimited",
+        "Disclosure requirements are unconstitutional",
+        "Individual contribution limits are invalid"
+      ],
+      "answer": 0,
+      "explanation": "The decision struck down restrictions on independent expenditures while leaving direct contribution limits and disclosure requirements intact. Conflating independent spending with direct contributions is the most common misstatement of the holding."
+    },
+    {
+      "id": "jk-usg-135",
+      "subtopic": "us_government_history_society",
+      "difficulty": 2,
+      "stem": "The Federal Register is:",
+      "choices": [
+        "The official daily publication of federal rules, proposed rules, and notices",
+        "A registry of federal employees",
+        "The record of congressional debate",
+        "A list of federal contractors"
+      ],
+      "answer": 0,
+      "explanation": "Publication in the Federal Register gives legal notice of agency action and starts comment periods. The Congressional Record is the analogous publication for legislative proceedings."
+    },
+    {
+      "id": "jk-usg-136",
+      "subtopic": "us_government_history_society",
+      "difficulty": 3,
+      "stem": "An independent regulatory commission differs from an executive department chiefly in that its members:",
+      "choices": [
+        "Are elected rather than appointed",
+        "Serve fixed, staggered terms and generally may be removed only for cause",
+        "Do not require Senate confirmation",
+        "Report directly to Congress"
+      ],
+      "answer": 1,
+      "explanation": "Fixed terms and for-cause removal protection insulate commissions such as the SEC and FCC from at-will presidential removal. The scope of that protection has been narrowed by recent decisions but remains the defining structural feature."
+    },
+    {
+      "id": "jk-usg-137",
+      "subtopic": "us_government_history_society",
+      "difficulty": 2,
+      "stem": "The Bay of Pigs invasion (1961) was an attempt to:",
+      "choices": [
+        "Remove Fidel Castro using Cuban exile forces",
+        "Blockade Soviet shipping to Cuba",
+        "Install missiles in Turkey",
+        "Support a coup in the Dominican Republic"
+      ],
+      "answer": 0,
+      "explanation": "The CIA-organized exile landing failed within days and damaged the new Kennedy administration's credibility. The naval quarantine of Cuba came the following year during the missile crisis."
+    },
+    {
+      "id": "jk-usg-138",
+      "subtopic": "us_government_history_society",
+      "difficulty": 3,
+      "stem": "The Church Committee (1975-76) is remembered for:",
+      "choices": [
+        "Investigating intelligence agency abuses and prompting new oversight structures",
+        "Drafting the War Powers Resolution",
+        "Impeachment proceedings against President Nixon",
+        "Reforming the federal budget process"
+      ],
+      "answer": 0,
+      "explanation": "Its findings on domestic surveillance, assassination plots, and covert action led to permanent intelligence committees in both chambers and to the Foreign Intelligence Surveillance Act. It is the origin of the modern intelligence oversight framework."
+    },
+    {
+      "id": "jk-usg-139",
+      "subtopic": "us_government_history_society",
+      "difficulty": 2,
+      "stem": "NAFTA, in force from 1994, created a free trade area among:",
+      "choices": [
+        "The United States, Canada, and Mexico",
+        "The United States and the European Union",
+        "All countries of the Western Hemisphere",
+        "The United States, Mexico, and Central America"
+      ],
+      "answer": 0,
+      "explanation": "NAFTA linked the three North American economies and was replaced by the USMCA in 2020. The fourth option describes CAFTA-DR, a separate agreement with Central America and the Dominican Republic."
+    },
+    {
+      "id": "jk-usg-140",
+      "subtopic": "us_government_history_society",
+      "difficulty": 3,
+      "stem": "The Antideficiency Act prohibits federal officials from:",
+      "choices": [
+        "Obligating funds in excess of available appropriations",
+        "Accepting gifts from foreign governments",
+        "Lobbying Congress on pending legislation",
+        "Disclosing classified information"
+      ],
+      "answer": 0,
+      "explanation": "The Act bars spending or committing money before it is appropriated, and it is the legal reason agencies must shut down non-excepted activities during a funding lapse. Violations carry administrative and potentially criminal penalties."
+    },
+    {
+      "id": "jk-usg-141",
+      "subtopic": "us_government_history_society",
+      "difficulty": 2,
+      "stem": "The Emoluments Clauses of the Constitution concern:",
+      "choices": [
+        "Acceptance of payments or gifts from foreign states by federal officeholders",
+        "Congressional pay raises",
+        "Presidential pardons",
+        "Compensation of federal judges"
+      ],
+      "answer": 0,
+      "explanation": "The Foreign Emoluments Clause bars officeholders from accepting presents or emoluments from foreign states without congressional consent, and a separate Domestic Emoluments Clause fixes the President's compensation. Judicial salary protection is in Article III."
+    },
+    {
+      "id": "jk-usg-142",
+      "subtopic": "us_government_history_society",
+      "difficulty": 3,
+      "stem": "The Smith-Mundt Act, as amended, principally governs:",
+      "choices": [
+        "The dissemination of U.S. government international broadcasting and public diplomacy material",
+        "Export controls on defense articles",
+        "Security clearances for federal employees",
+        "Foreign lobbying registration"
+      ],
+      "answer": 0,
+      "explanation": "Smith-Mundt authorizes public diplomacy and international broadcasting and long restricted domestic dissemination of that material, a restriction relaxed in 2013. Foreign lobbying is covered by FARA, and export controls by the Arms Export Control Act."
+    },
+    {
+      "id": "jk-usg-143",
+      "subtopic": "us_government_history_society",
+      "difficulty": 2,
+      "stem": "Which best describes the relationship between the Secretary of State and the Foreign Service?",
+      "choices": [
+        "The Secretary is the President's principal foreign policy adviser and heads the Department in which the Foreign Service serves",
+        "The Secretary commands Foreign Service officers as military officers are commanded",
+        "The Foreign Service reports to the National Security Adviser",
+        "The Secretary is elected by senior Foreign Service officers"
+      ],
+      "answer": 0,
+      "explanation": "The Secretary leads the Department of State and is the President's principal adviser on foreign affairs. The National Security Adviser coordinates interagency policy but has no line authority over the Department."
+    },
+    {
+      "id": "jk-usg-144",
+      "subtopic": "us_government_history_society",
+      "difficulty": 3,
+      "stem": "The dissent channel at the Department of State exists to:",
+      "choices": [
+        "Allow employees to register policy disagreement without retaliation",
+        "Permit anonymous reporting of criminal misconduct",
+        "Appeal performance evaluations",
+        "Challenge security clearance denials"
+      ],
+      "answer": 0,
+      "explanation": "Created after Vietnam, the dissent channel provides a protected route for policy disagreement that reaches senior leadership directly. Misconduct reporting runs through the Inspector General, a separate mechanism with different protections."
+    },
+
+    {
+      "id": "jk-whg-071",
+      "subtopic": "world_history_geography",
+      "difficulty": 2,
+      "stem": "The Thirty Years' War (1618-48) was fought primarily in:",
+      "choices": [
+        "The Iberian Peninsula",
+        "Central Europe, especially the German lands",
+        "The Balkans",
+        "The Low Countries only"
+      ],
+      "answer": 1,
+      "explanation": "The war devastated the German lands of the Holy Roman Empire, with population losses in some regions approaching a third. It ended at Westphalia, whose settlement is conventionally treated as the origin of the sovereign state system."
+    },
+    {
+      "id": "jk-whg-072",
+      "subtopic": "world_history_geography",
+      "difficulty": 3,
+      "stem": "The Meiji Restoration and the Self-Strengthening Movement are best compared as:",
+      "choices": [
+        "Two successful modernization programs in Japan and China respectively",
+        "Modernization efforts of which Japan's succeeded far more thoroughly than China's",
+        "Two failed attempts to resist Western influence",
+        "Programs that both led to constitutional monarchy"
+      ],
+      "answer": 1,
+      "explanation": "Both responded to Western pressure, but Japan achieved comprehensive institutional transformation while Qing reform remained partial and was checked by court politics. The divergence is a standard case study in why similar external pressures produce different outcomes."
+    },
+    {
+      "id": "jk-whg-073",
+      "subtopic": "world_history_geography",
+      "difficulty": 2,
+      "stem": "Which is the world's longest river system?",
+      "choices": ["The Amazon", "The Nile", "The Yangtze", "The Mississippi"],
+      "answer": 1,
+      "explanation": "The Nile is conventionally listed as longest at roughly 6,650 km, though the Amazon carries far more water and some measurements place it longer depending on which headwaters are counted. The Amazon is unambiguously the largest by discharge."
+    },
+    {
+      "id": "jk-whg-074",
+      "subtopic": "world_history_geography",
+      "difficulty": 3,
+      "stem": "The Treaty of Guadalupe Hidalgo (1848):",
+      "choices": [
+        "Ended the Mexican-American War and transferred roughly half of Mexico's territory to the United States",
+        "Established the Gadsden Purchase boundary",
+        "Settled the Oregon boundary with Britain",
+        "Recognized Texas independence"
+      ],
+      "answer": 0,
+      "explanation": "The treaty ceded present-day California, Nevada, Utah, and parts of several other states. The Gadsden Purchase came five years later, and the Oregon question was settled with Britain in 1846 by separate agreement."
+    },
+    {
+      "id": "jk-whg-075",
+      "subtopic": "world_history_geography",
+      "difficulty": 2,
+      "stem": "Which country has the largest Muslim population?",
+      "choices": ["Saudi Arabia", "Indonesia", "Egypt", "Iran"],
+      "answer": 1,
+      "explanation": "Indonesia has roughly 230 million Muslims, far more than any Arab state. The assumption that the Muslim world is centered on the Middle East is a persistent error — South and Southeast Asia together hold the majority."
+    },
+    {
+      "id": "jk-whg-076",
+      "subtopic": "world_history_geography",
+      "difficulty": 3,
+      "stem": "The Peace of Utrecht (1713) is significant for:",
+      "choices": [
+        "Ending the War of the Spanish Succession and articulating the balance of power principle",
+        "Concluding the Seven Years' War",
+        "Partitioning Poland",
+        "Ending the Napoleonic Wars"
+      ],
+      "answer": 0,
+      "explanation": "Utrecht separated the French and Spanish crowns and explicitly invoked equilibrium among the powers — the first major treaty to state balance of power as a governing principle. The Seven Years' War ended at Paris in 1763."
+    },
+    {
+      "id": "jk-whg-077",
+      "subtopic": "world_history_geography",
+      "difficulty": 2,
+      "stem": "The Strait of Gibraltar separates:",
+      "choices": [
+        "Europe from Africa, connecting the Atlantic to the Mediterranean",
+        "The Black Sea from the Aegean",
+        "The Red Sea from the Indian Ocean",
+        "The Baltic from the North Sea"
+      ],
+      "answer": 0,
+      "explanation": "Gibraltar is the western entrance to the Mediterranean, roughly 13 km wide at its narrowest. The other options describe the Turkish Straits, Bab-el-Mandeb, and the Danish Straits respectively."
+    },
+    {
+      "id": "jk-whg-078",
+      "subtopic": "world_history_geography",
+      "difficulty": 3,
+      "stem": "The Congress of Berlin (1878) principally addressed:",
+      "choices": [
+        "The partition of Africa",
+        "The reorganization of the Balkans after the Russo-Turkish War",
+        "German unification",
+        "The Moroccan crisis"
+      ],
+      "answer": 1,
+      "explanation": "Bismarck's Congress revised the Treaty of San Stefano, curbing Russian gains and reshaping Balkan borders in ways that stored up the grievances feeding later crises. The Berlin Conference on Africa is a separate meeting in 1884-85."
+    },
+    {
+      "id": "jk-whg-079",
+      "subtopic": "world_history_geography",
+      "difficulty": 2,
+      "stem": "Which country lies directly between Poland and Russia's Kaliningrad exclave and Belarus, forming the Suwałki Gap?",
+      "choices": ["Latvia", "Lithuania", "Estonia", "Ukraine"],
+      "answer": 1,
+      "explanation": "The Suwałki Gap is the narrow Polish-Lithuanian border corridor between Kaliningrad and Belarus. It is treated as a critical vulnerability in NATO planning because it is the only land link to the Baltic states."
+    },
+    {
+      "id": "jk-whg-080",
+      "subtopic": "world_history_geography",
+      "difficulty": 3,
+      "stem": "The Green Revolution of the mid-twentieth century refers to:",
+      "choices": [
+        "The rise of environmental political parties",
+        "The spread of high-yield crop varieties, fertilizers, and irrigation that sharply raised agricultural output",
+        "Decolonization in sub-Saharan Africa",
+        "The 1979 Iranian Revolution"
+      ],
+      "answer": 1,
+      "explanation": "Associated with Norman Borlaug, it dramatically increased yields in Mexico, India, and elsewhere, averting predicted famines. Its ecological costs and uneven distribution of benefits remain subjects of serious debate."
+    },
+    {
+      "id": "jk-whg-081",
+      "subtopic": "world_history_geography",
+      "difficulty": 2,
+      "stem": "The African Union succeeded which earlier body?",
+      "choices": [
+        "The Non-Aligned Movement",
+        "The Organization of African Unity",
+        "The Economic Community of West African States",
+        "The Southern African Development Community"
+      ],
+      "answer": 1,
+      "explanation": "The AU replaced the OAU in 2002, adopting a mandate that permits intervention in member states in grave circumstances — a significant departure from the OAU's strict non-interference norm. ECOWAS and SADC are subregional bodies that continue to exist."
+    },
+    {
+      "id": "jk-whg-082",
+      "subtopic": "world_history_geography",
+      "difficulty": 3,
+      "stem": "The Treaty of Portsmouth (1905), mediated by Theodore Roosevelt, ended:",
+      "choices": [
+        "The Boxer Rebellion",
+        "The Russo-Japanese War",
+        "The First Sino-Japanese War",
+        "The Boer War"
+      ],
+      "answer": 1,
+      "explanation": "Roosevelt's mediation earned him the Nobel Peace Prize and marked the first time an Asian power defeated a European one in modern war. The First Sino-Japanese War ended at Shimonoseki in 1895."
+    },
+    {
+      "id": "jk-whg-083",
+      "subtopic": "world_history_geography",
+      "difficulty": 2,
+      "stem": "Which of these countries does NOT border the Mediterranean Sea?",
+      "choices": ["Algeria", "Portugal", "Lebanon", "Croatia"],
+      "answer": 1,
+      "explanation": "Portugal's coastline faces only the Atlantic. Spain sits between Portugal and the Mediterranean, which is what makes the distractor plausible for anyone picturing Iberia as a single Mediterranean unit."
+    },
+    {
+      "id": "jk-whg-084",
+      "subtopic": "world_history_geography",
+      "difficulty": 3,
+      "stem": "The Sykes-Picot Agreement and the Balfour Declaration are frequently discussed together because:",
+      "choices": [
+        "Both were negotiated at the Paris Peace Conference",
+        "Both were British wartime commitments concerning Ottoman territory that proved difficult to reconcile",
+        "Both were repudiated before the war ended",
+        "Both were ratified by the League of Nations"
+      ],
+      "answer": 1,
+      "explanation": "Britain made overlapping commitments to France, to Arab leaders, and to the Zionist movement within roughly two years. The tension among them shaped the mandate period and the region's subsequent conflicts."
+    },
+    {
+      "id": "jk-whg-085",
+      "subtopic": "world_history_geography",
+      "difficulty": 2,
+      "stem": "Which mountain range runs along the western edge of South America?",
+      "choices": ["The Rockies", "The Andes", "The Atlas", "The Urals"],
+      "answer": 1,
+      "explanation": "The Andes extend roughly 7,000 km along the Pacific coast, the longest continental mountain range in the world. The Atlas range is in northwest Africa and the Urals divide European from Asian Russia."
+    },
+    {
+      "id": "jk-whg-086",
+      "subtopic": "world_history_geography",
+      "difficulty": 3,
+      "stem": "The Warsaw Pact was dissolved in:",
+      "choices": ["1989", "1991", "1993", "1985"],
+      "answer": 1,
+      "explanation": "The Pact was formally dissolved in July 1991, months before the Soviet Union itself. 1989 saw the revolutions in Eastern Europe that made the alliance unsustainable, which is why that year is the common wrong answer."
+    },
+    {
+      "id": "jk-whg-087",
+      "subtopic": "world_history_geography",
+      "difficulty": 2,
+      "stem": "The Sahel, the Maghreb, and the Horn of Africa are all:",
+      "choices": [
+        "Political unions of African states",
+        "Regional designations within Africa",
+        "Colonial-era administrative districts",
+        "River basins"
+      ],
+      "answer": 1,
+      "explanation": "All three are geographic regions: the semi-arid belt south of the Sahara, the northwest African coastal region, and the northeast African peninsula. None corresponds to a formal political organization."
+    },
+    {
+      "id": "jk-whg-088",
+      "subtopic": "world_history_geography",
+      "difficulty": 3,
+      "stem": "The Bretton Woods system collapsed primarily because:",
+      "choices": [
+        "Member states withdrew from the IMF",
+        "The United States suspended dollar convertibility into gold in 1971",
+        "The Soviet Union joined the system",
+        "European currencies were devalued in 1949"
+      ],
+      "answer": 1,
+      "explanation": "Mounting dollar liabilities against a fixed gold stock made convertibility unsustainable, and Nixon's suspension ended the fixed-rate regime. The IMF survived and adapted to a floating-rate world rather than dissolving with the system it was built to manage."
+    },
+    {
+      "id": "jk-whg-089",
+      "subtopic": "world_history_geography",
+      "difficulty": 2,
+      "stem": "Which body of water separates Australia from New Zealand?",
+      "choices": ["The Coral Sea", "The Tasman Sea", "The Timor Sea", "The Arafura Sea"],
+      "answer": 1,
+      "explanation": "The Tasman Sea lies between the two, roughly 2,000 km wide. The Timor and Arafura Seas lie to Australia's north toward Indonesia, and the Coral Sea to its northeast."
+    },
+    {
+      "id": "jk-whg-090",
+      "subtopic": "world_history_geography",
+      "difficulty": 3,
+      "stem": "The Cuban Missile Crisis was resolved in part by an undisclosed American commitment to:",
+      "choices": [
+        "Recognize the Castro government",
+        "Withdraw Jupiter missiles from Turkey",
+        "End the trade embargo on Cuba",
+        "Withdraw forces from Berlin"
+      ],
+      "answer": 1,
+      "explanation": "Alongside the public pledge not to invade Cuba, Kennedy privately agreed to remove the Turkish missiles — a concession kept secret for years so as not to appear to reward Soviet pressure. The embargo remained in place."
+    },
+
+    {
+      "id": "jk-eco-053",
+      "subtopic": "economics",
+      "difficulty": 2,
+      "stem": "Deflation is generally considered dangerous because it:",
+      "choices": [
+        "Raises the real burden of existing debt and can encourage consumers to postpone purchases",
+        "Always accompanies rapid growth",
+        "Reduces the value of savings",
+        "Forces central banks to raise interest rates"
+      ],
+      "answer": 0,
+      "explanation": "Falling prices increase the real value of fixed debts and give buyers reason to wait, weakening demand further. Japan's experience after 1990 is the standard cautionary case for why central banks target modest positive inflation rather than zero."
+    },
+    {
+      "id": "jk-eco-054",
+      "subtopic": "economics",
+      "difficulty": 3,
+      "stem": "The Phillips curve originally described a relationship between:",
+      "choices": [
+        "Interest rates and investment",
+        "Unemployment and inflation",
+        "Trade deficits and exchange rates",
+        "Money supply and output"
+      ],
+      "answer": 1,
+      "explanation": "The curve posited an inverse relationship between unemployment and inflation. The 1970s stagflation undermined the simple version, and modern formulations incorporate expectations, which is why the relationship is treated as short-run at best."
+    },
+    {
+      "id": "jk-eco-055",
+      "subtopic": "economics",
+      "difficulty": 2,
+      "stem": "A subsidy on domestic production has an effect on trade that is most similar to:",
+      "choices": ["A tariff on imports", "An export tax", "A floating exchange rate", "A capital control"],
+      "answer": 0,
+      "explanation": "Both advantage domestic producers over foreign competitors, though a subsidy is paid by taxpayers while a tariff is paid by purchasers. This equivalence is why trade agreements discipline subsidies alongside tariffs."
+    },
+    {
+      "id": "jk-eco-056",
+      "subtopic": "economics",
+      "difficulty": 3,
+      "stem": "Anti-dumping duties are imposed when a country determines that imports are:",
+      "choices": [
+        "Sold below normal value, causing injury to a domestic industry",
+        "Produced with subsidized inputs",
+        "Of substandard quality",
+        "Entering in quantities above a negotiated quota"
+      ],
+      "answer": 0,
+      "explanation": "Dumping means selling in an export market below home-market price or below cost, with material injury required for duties. Subsidized inputs are addressed by countervailing duties, a parallel but distinct remedy."
+    },
+    {
+      "id": "jk-eco-057",
+      "subtopic": "economics",
+      "difficulty": 2,
+      "stem": "The velocity of money refers to:",
+      "choices": [
+        "The rate at which the money supply grows",
+        "The average number of times a unit of currency is used in transactions over a period",
+        "The speed of electronic payments",
+        "The rate at which currency depreciates"
+      ],
+      "answer": 1,
+      "explanation": "Velocity is the turnover rate of money and appears in the quantity equation MV = PQ. A decline in velocity can offset monetary expansion, which is one reason large increases in the money supply do not always produce proportional inflation."
+    },
+    {
+      "id": "jk-eco-058",
+      "subtopic": "economics",
+      "difficulty": 3,
+      "stem": "A sovereign debt restructuring typically involves:",
+      "choices": [
+        "Immediate repayment in full",
+        "Reducing the face value, extending maturities, or lowering interest on outstanding debt",
+        "Transferring the debt to the IMF",
+        "Converting debt to equity in state enterprises"
+      ],
+      "answer": 1,
+      "explanation": "Restructuring changes the terms — a haircut, longer maturities, or lower coupons — through negotiation with creditors. Collective action clauses now facilitate the process by binding holdout creditors to a supermajority agreement."
+    },
+    {
+      "id": "jk-eco-059",
+      "subtopic": "economics",
+      "difficulty": 2,
+      "stem": "Which of the following best describes a trade quota?",
+      "choices": [
+        "A tax on imported goods",
+        "A quantitative limit on the amount of a good that may be imported",
+        "A ban on all trade with a country",
+        "A minimum price for imported goods"
+      ],
+      "answer": 1,
+      "explanation": "A quota restricts quantity directly rather than raising price through taxation. Quotas tend to be less transparent than tariffs and generate rents for whoever holds the import licenses rather than revenue for the government."
+    },
+    {
+      "id": "jk-eco-060",
+      "subtopic": "economics",
+      "difficulty": 3,
+      "stem": "The Lewis model of development describes growth driven by:",
+      "choices": [
+        "Transfer of surplus labor from a traditional agricultural sector to a modern industrial sector",
+        "Import substitution behind tariff walls",
+        "Foreign aid financing infrastructure",
+        "Rising commodity prices"
+      ],
+      "answer": 0,
+      "explanation": "Arthur Lewis described a dual economy in which industrial expansion draws on effectively unlimited rural labor until a turning point is reached. It remains a reference point in analyses of Chinese and other East Asian industrialization."
+    },
+    {
+      "id": "jk-eco-061",
+      "subtopic": "economics",
+      "difficulty": 2,
+      "stem": "A recession is conventionally identified by:",
+      "choices": [
+        "Any quarter of negative growth",
+        "A significant, broad-based decline in economic activity lasting more than a few months",
+        "Unemployment above 10 percent",
+        "A fall in the stock market of 20 percent or more"
+      ],
+      "answer": 1,
+      "explanation": "The common two-consecutive-quarters rule of thumb is not the formal criterion; official dating considers depth, diffusion, and duration across multiple indicators. A 20 percent equity decline defines a bear market, not a recession."
+    },
+    {
+      "id": "jk-eco-062",
+      "subtopic": "economics",
+      "difficulty": 3,
+      "stem": "Financial contagion refers to:",
+      "choices": [
+        "The transmission of a crisis from one country or market to others",
+        "The spread of counterfeit currency",
+        "Rapid inflation in neighboring economies",
+        "Coordinated central bank intervention"
+      ],
+      "answer": 0,
+      "explanation": "Contagion may run through trade links, common creditors, or shifts in investor sentiment that treat dissimilar economies as a class. The 1997 Asian crisis and its spread to Russia and Brazil is the canonical illustration."
+    },
+    {
+      "id": "jk-eco-063",
+      "subtopic": "economics",
+      "difficulty": 2,
+      "stem": "Which is the best example of an intangible barrier to trade?",
+      "choices": [
+        "A 15 percent tariff",
+        "Divergent product safety standards that imported goods must separately satisfy",
+        "An import quota",
+        "A currency peg"
+      ],
+      "answer": 1,
+      "explanation": "Non-tariff barriers such as standards, licensing, and customs procedures can restrict trade as effectively as duties while being harder to measure and negotiate. Much modern trade diplomacy concerns them rather than tariffs."
+    },
+    {
+      "id": "jk-eco-064",
+      "subtopic": "economics",
+      "difficulty": 3,
+      "stem": "The J-curve effect describes how a currency depreciation initially:",
+      "choices": [
+        "Improves the trade balance immediately",
+        "Worsens the trade balance before improving it as volumes adjust",
+        "Has no effect on trade",
+        "Raises domestic interest rates"
+      ],
+      "answer": 1,
+      "explanation": "Prices adjust before quantities: import bills rise immediately in domestic currency while export volumes take time to respond, so the balance dips before recovering. The shape of the resulting path gives the effect its name."
+    },
+    {
+      "id": "jk-eco-065",
+      "subtopic": "economics",
+      "difficulty": 2,
+      "stem": "Human capital refers to:",
+      "choices": [
+        "The number of workers in an economy",
+        "The skills, education, and health embodied in the workforce",
+        "Wages paid to employees",
+        "Investment by individuals in financial assets"
+      ],
+      "answer": 1,
+      "explanation": "Human capital is the productive capacity embodied in people, accumulated through education, training, and health. Growth accounting consistently finds it explains a large share of cross-country income differences that physical capital alone cannot."
+    },
+    {
+      "id": "jk-eco-066",
+      "subtopic": "economics",
+      "difficulty": 3,
+      "stem": "A country with a currency board arrangement:",
+      "choices": [
+        "Allows its currency to float freely",
+        "Backs its currency fully with foreign reserves at a fixed rate, sharply limiting discretionary monetary policy",
+        "Uses a foreign currency as legal tender",
+        "Adjusts its exchange rate monthly against a basket"
+      ],
+      "answer": 1,
+      "explanation": "A currency board issues domestic currency only against foreign reserves at a fixed rate, which buys credibility at the cost of a lender of last resort. Hong Kong is the durable example; Argentina's convertibility regime is the cautionary one."
+    },
+
+    {
+      "id": "jk-mat-043",
+      "subtopic": "math_statistics",
+      "difficulty": 2,
+      "stem": "A section's caseload rose 25% and then fell 20%. Compared with the start, the caseload is now:",
+      "choices": ["5% higher", "Unchanged", "5% lower", "45% higher"],
+      "answer": 1,
+      "explanation": "Starting at 100: 100 × 1.25 = 125, then 125 × 0.80 = 100. The increase and decrease happen to cancel exactly here because 0.8 is the reciprocal of 1.25 — which is not the general rule, as a 10% rise and 10% fall do not cancel."
+    },
+    {
+      "id": "jk-mat-044",
+      "subtopic": "math_statistics",
+      "difficulty": 3,
+      "stem": "Which sample is most likely to produce an unbiased estimate of average household income in a city?",
+      "choices": [
+        "Interviews conducted outside a luxury shopping center",
+        "A random sample drawn from a comprehensive address list",
+        "Responses to a mailed questionnaire, of which 8% were returned",
+        "Interviews with attendees at a public budget hearing"
+      ],
+      "answer": 1,
+      "explanation": "Random selection from a complete frame gives every household a known chance of inclusion. The other three each select on a characteristic correlated with income or civic engagement, and an 8% response rate leaves enormous room for nonresponse bias."
+    },
+    {
+      "id": "jk-mat-045",
+      "subtopic": "math_statistics",
+      "difficulty": 2,
+      "stem": "If a post's budget is $2.4 million and personnel costs are $1.5 million, personnel represents approximately what share?",
+      "choices": ["52%", "63%", "72%", "38%"],
+      "answer": 1,
+      "explanation": "1.5 ÷ 2.4 = 0.625, or about 63%. The 38% distractor is the complement — the share represented by everything other than personnel."
+    },
+    {
+      "id": "jk-mat-046",
+      "subtopic": "math_statistics",
+      "difficulty": 3,
+      "stem": "A regression finds that each additional year of education is associated with a 7% increase in earnings, controlling for experience. The most cautious interpretation is that:",
+      "choices": [
+        "Education causes a 7% earnings increase",
+        "Education is associated with higher earnings, though unobserved traits may drive part of the relationship",
+        "Experience does not affect earnings",
+        "Everyone should pursue more education"
+      ],
+      "answer": 1,
+      "explanation": "Controlling for observed variables does not eliminate unobserved ones such as ability or family background. This is precisely why economists have invested so much effort in natural experiments to isolate the causal return to schooling."
+    },
+    {
+      "id": "jk-mat-047",
+      "subtopic": "math_statistics",
+      "difficulty": 2,
+      "stem": "A visa section approves 3 of every 5 applications. Out of 850 applications, approximately how many are refused?",
+      "choices": ["340", "510", "170", "425"],
+      "answer": 0,
+      "explanation": "Refusals are 2/5 of the total: 0.4 × 850 = 340. The 510 distractor is the number approved, and 425 is simply half — the trap for anyone who reads the ratio as roughly even."
+    },
+    {
+      "id": "jk-mat-048",
+      "subtopic": "math_statistics",
+      "difficulty": 3,
+      "stem": "Two posts report identical average processing times, but Post A's standard deviation is three times Post B's. This means:",
+      "choices": [
+        "Post A processes more cases",
+        "Post A's processing times are far more variable, so some applicants wait much longer",
+        "Post A is more efficient",
+        "The averages must have been computed incorrectly"
+      ],
+      "answer": 1,
+      "explanation": "Equal means with unequal dispersion means Post A has a wider spread of outcomes — more very fast and very slow cases. From an applicant's perspective, predictability often matters as much as the average, which is why dispersion belongs in any service report."
+    },
+    {
+      "id": "jk-mat-049",
+      "subtopic": "math_statistics",
+      "difficulty": 2,
+      "stem": "A country's exports are $45 billion and imports are $52 billion. Its trade balance is:",
+      "choices": [
+        "A surplus of $7 billion",
+        "A deficit of $7 billion",
+        "A surplus of $97 billion",
+        "Balanced"
+      ],
+      "answer": 1,
+      "explanation": "Exports minus imports gives 45 − 52 = −$7 billion, a deficit. Adding the two figures, as the third option does, produces total trade volume rather than the balance."
+    },
+    {
+      "id": "jk-mat-050",
+      "subtopic": "math_statistics",
+      "difficulty": 3,
+      "stem": "An index is set to 100 in the base year. If it reads 138 this year, prices have risen:",
+      "choices": ["138% since the base year", "38% since the base year", "1.38% since the base year", "Cannot be determined"],
+      "answer": 1,
+      "explanation": "An index of 138 means the level is 1.38 times the base, a 38% increase. Reading the index value itself as the percentage change is the standard error and overstates the rise dramatically."
+    },
+    {
+      "id": "jk-mat-051",
+      "subtopic": "math_statistics",
+      "difficulty": 2,
+      "stem": "Of 500 surveyed, 300 support a measure, 150 oppose, and 50 are undecided. Among those with an opinion, what share support it?",
+      "choices": ["60%", "67%", "75%", "50%"],
+      "answer": 1,
+      "explanation": "Excluding the undecided leaves 450 with an opinion, and 300/450 = 67%. The 60% figure uses all 500 as the denominator — the choice of denominator is exactly what makes poll results arguable."
+    },
+    {
+      "id": "jk-mat-052",
+      "subtopic": "math_statistics",
+      "difficulty": 3,
+      "stem": "A test correctly identifies 99% of cases and has a 1% false positive rate. In a population where the condition affects 1 in 10,000, a positive result means the person is:",
+      "choices": [
+        "Almost certainly affected",
+        "Very probably unaffected, because false positives vastly outnumber true ones",
+        "Affected with 99% probability",
+        "Equally likely affected or not"
+      ],
+      "answer": 1,
+      "explanation": "Among a million people, about 100 are affected and 99 test positive, while about 9,999 unaffected people also test positive. Fewer than 1% of positives are genuine — the same base rate reasoning that makes rare-event screening so difficult."
+    },
+    {
+      "id": "jk-mat-053",
+      "subtopic": "math_statistics",
+      "difficulty": 2,
+      "stem": "If a report's figures are given in constant 2015 dollars, this means they:",
+      "choices": [
+        "Have been adjusted to remove the effect of inflation",
+        "Were collected in 2015",
+        "Include only spending that occurred in 2015",
+        "Have been converted to a foreign currency"
+      ],
+      "answer": 0,
+      "explanation": "Constant-dollar figures express all years in the purchasing power of the base year, making changes comparable across time. Current-dollar figures do not, which is why the two series can tell different stories about the same spending."
+    },
+    {
+      "id": "jk-mat-054",
+      "subtopic": "math_statistics",
+      "difficulty": 3,
+      "stem": "A bar chart's vertical axis begins at 90 rather than 0, and the bars range from 92 to 97. The most likely effect is to:",
+      "choices": [
+        "Understate the differences between categories",
+        "Exaggerate the apparent differences between categories",
+        "Have no effect on interpretation",
+        "Make the chart easier to read without distortion"
+      ],
+      "answer": 1,
+      "explanation": "Truncating the axis magnifies small differences visually — a 5-point gap can be made to look enormous. It is sometimes defensible when small differences genuinely matter, but it always requires that the reader notice the axis."
+    },
+    {
+      "id": "jk-eco-067",
+      "subtopic": "economics",
+      "difficulty": 2,
+      "stem": "Fiscal policy is distinguished from monetary policy in that fiscal policy involves:",
+      "choices": [
+        "Central bank operations in government securities",
+        "Government decisions about taxation and spending",
+        "Setting reserve requirements for banks",
+        "Managing the exchange rate"
+      ],
+      "answer": 1,
+      "explanation": "Fiscal policy is the legislature's and treasury's domain — taxes and expenditure — while monetary policy belongs to the central bank. The distinction matters institutionally because the two are usually controlled by different actors with different time horizons."
+    },
+    {
+      "id": "jk-eco-068",
+      "subtopic": "economics",
+      "difficulty": 3,
+      "stem": "An automatic stabilizer is best illustrated by:",
+      "choices": [
+        "A one-time stimulus payment approved by legislation",
+        "Unemployment insurance, which pays out more as the economy weakens without new legislation",
+        "A central bank rate cut during a recession",
+        "A tariff imposed to protect a struggling industry"
+      ],
+      "answer": 1,
+      "explanation": "Automatic stabilizers respond to the cycle without discretionary action, cushioning downturns immediately rather than after a legislative delay. Progressive income taxes work the same way, collecting less as incomes fall."
+    },
+    {
+      "id": "jk-eco-069",
+      "subtopic": "economics",
+      "difficulty": 2,
+      "stem": "The informal economy refers to:",
+      "choices": [
+        "Economic activity that is unrecorded, untaxed, and outside formal regulation",
+        "Barter arrangements only",
+        "Illegal activity exclusively",
+        "The service sector"
+      ],
+      "answer": 0,
+      "explanation": "The informal sector includes much legal activity — street vending, unregistered workshops, casual labor — that simply operates outside official systems. It can account for a majority of employment in low-income countries, which is why GDP figures there understate activity."
+    },
+    {
+      "id": "jk-eco-070",
+      "subtopic": "economics",
+      "difficulty": 3,
+      "stem": "The 'tragedy of the commons' describes:",
+      "choices": [
+        "Overexploitation of a shared resource because individual users bear only part of the cost",
+        "Government mismanagement of public land",
+        "The failure of central planning",
+        "Underinvestment in public infrastructure"
+      ],
+      "answer": 0,
+      "explanation": "Each user captures the full benefit of additional use while sharing the cost, so the resource is depleted — overfishing is the standard example. Elinor Ostrom's work showed that communities often solve it through governance arrangements without either privatization or state control."
+    },
+    {
+      "id": "jk-eco-071",
+      "subtopic": "economics",
+      "difficulty": 2,
+      "stem": "A country's savings rate matters for growth primarily because savings:",
+      "choices": [
+        "Reduce consumption and therefore lower inflation",
+        "Finance the investment that expands productive capacity",
+        "Determine the exchange rate",
+        "Are counted directly in GDP"
+      ],
+      "answer": 1,
+      "explanation": "Domestic savings fund domestic investment, or must be supplemented by foreign capital. The relationship is the core of standard growth models, though the returns to additional capital diminish as an economy becomes capital-rich."
+    },
+    {
+      "id": "jk-eco-072",
+      "subtopic": "economics",
+      "difficulty": 3,
+      "stem": "Two countries with similar per capita income can differ substantially in living standards because per capita income does not capture:",
+      "choices": [
+        "The distribution of income, public services, and non-market production",
+        "The size of the population",
+        "The value of exports",
+        "The rate of inflation"
+      ],
+      "answer": 0,
+      "explanation": "An average conceals distribution, and national accounts miss unpaid household work and undervalue public provision of health and education. This is why composite measures such as the Human Development Index are used alongside income figures."
     }
   ]
 }
