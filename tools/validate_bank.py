@@ -108,9 +108,11 @@ for section, spec in BLUEPRINT.items():
         if pid and pid not in passages:
             errors.append(f"{qid}: passageId {pid!r} not found")
 
-    for (pid, stem), n in seen_content.items():
+    # passageId is None for standalone questions, so sort on a string key.
+    for (pid, stem), n in sorted(seen_content.items(), key=lambda kv: (kv[0][0] or "", kv[0][1])):
         if n > 1:
-            errors.append(f"{section}: {n} identical questions on passage {pid}: {stem[:60]}")
+            where = f"passage {pid}" if pid else "no passage"
+            errors.append(f"{section}: {n} identical stems ({where}): {stem[:60]}")
 
     used = {q.get("passageId") for q in questions if q.get("passageId")}
     for pid in passages:
