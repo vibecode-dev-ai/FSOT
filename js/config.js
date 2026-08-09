@@ -35,6 +35,9 @@ export const SECTIONS = {
     questionCount: 65,
     timeLimitMinutes: 50,
     order: 2,
+    // A reading passage's questions belong together: the passage is shown once
+    // and every question about it must accompany it.
+    passageMode: 'shared',
     blurb:
       'Grammar, usage and diction, sentence structure, organization and clarity, plus reading comprehension.',
     subtopics: {
@@ -54,6 +57,11 @@ export const SECTIONS = {
     questionCount: 30,
     timeLimitMinutes: 60,
     order: 3,
+    // Each logical-reasoning item stands alone. Where several questions share a
+    // stimulus they are alternatives, not a set: only one may appear in a given
+    // session, so the argument is not repeated and the second does not give away
+    // the first.
+    passageMode: 'exclusive',
     blurb:
       'Making inferences, justifying conclusions, finding logical flaws, and identifying assumptions.',
     subtopics: {

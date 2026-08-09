@@ -120,14 +120,41 @@ function shuffle(arr, rng = Math.random) {
 }
 
 /**
+ * Choose a single question per stimulus, preferring higher-priority items so
+ * that unseen and previously-missed questions still surface first.
+ */
+function oneQuestionPerPassage(pool, priority) {
+  const byPassage = new Map();
+  const standalone = [];
+  for (const q of pool) {
+    if (!q.passageId) {
+      standalone.push(q);
+      continue;
+    }
+    if (!byPassage.has(q.passageId)) byPassage.set(q.passageId, []);
+    byPassage.get(q.passageId).push(q);
+  }
+  const picked = [...standalone];
+  for (const candidates of byPassage.values()) {
+    const shuffled = shuffle(candidates);
+    let best = shuffled[0];
+    for (const q of shuffled) if (priority(q) > priority(best)) best = q;
+    picked.push(best);
+  }
+  return picked;
+}
+
+/**
  * Group questions so that passage-based sets stay together — a passage should
  * never appear with only one of its questions, and never twice in one session.
+ * In 'exclusive' mode the pool has already been reduced to one question per
+ * stimulus, so every question is its own group.
  */
-function groupQuestions(pool) {
+function groupQuestions(pool, passageMode = 'shared') {
   const groups = [];
   const byPassage = new Map();
   for (const q of pool) {
-    if (!q.passageId) {
+    if (!q.passageId || passageMode === 'exclusive') {
       groups.push({ key: q.id, questions: [q], subtopic: q.subtopic });
       continue;
     }
@@ -152,11 +179,18 @@ function groupQuestions(pool) {
  */
 export function sampleSection(sectionId, count, opts = {}) {
   const spec = SECTIONS[sectionId];
-  const pool = sectionPool(sectionId);
+  let pool = sectionPool(sectionId);
   if (!pool.length) return [];
 
   const priority = opts.priority ?? (() => 0);
-  const groups = groupQuestions(pool);
+
+  // In 'exclusive' mode questions that share a stimulus are alternatives rather
+  // than a set, so keep only one per stimulus before grouping. Without this the
+  // shared-passage grouping would pull in whatever subtopics happen to hang off
+  // the same stimulus and pull the section away from its blueprint.
+  if (spec.passageMode === 'exclusive') pool = oneQuestionPerPassage(pool, priority);
+
+  const groups = groupQuestions(pool, spec.passageMode);
 
   // Bucket groups by subtopic, ordered by priority then randomly.
   const buckets = new Map();
