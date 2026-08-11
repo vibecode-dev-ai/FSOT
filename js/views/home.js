@@ -25,7 +25,7 @@ export async function renderHome(navigate) {
     const thin = c.total < c.needed;
     return `<tr>
       <td><strong>${esc(s.name)}</strong><div class="tiny dim">${esc(s.blurb)}</div></td>
-      <td class="num nowrap">${s.questionCount} q</td>
+      <td class="num nowrap">${s.questionCount}</td>
       <td class="num nowrap">${s.timeLimitMinutes} min</td>
       <td class="num nowrap ${thin ? '' : 'dim'}">${c.total} in bank</td>
     </tr>`;
