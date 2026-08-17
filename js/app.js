@@ -13,6 +13,11 @@ import { confirmModal, esc, setView } from './ui.js';
 migrate();
 initTheme();
 
+// The footer copyright year has a static fallback in the markup in case this
+// never runs; keep it correct without needing a build step to template it in.
+const copyrightYear = document.getElementById('copyright-year');
+if (copyrightYear) copyrightYear.textContent = String(new Date().getFullYear());
+
 /** The hash currently rendered, so a cancelled navigation can be undone. */
 let currentHash = location.hash;
 /** Set while we bounce the hash back, so the restore doesn't re-prompt. */

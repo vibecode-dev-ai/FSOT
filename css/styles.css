@@ -167,6 +167,7 @@ body.exam-mode .topnav { display: none; }
   color: var(--text-3);
 }
 .site-footer strong { color: var(--text-2); }
+.site-footer p.footer-copyright { margin-top: .6rem; }
 
 /* Hidden during an active exam, same as the nav — small print has no place
    competing with a running clock. */
