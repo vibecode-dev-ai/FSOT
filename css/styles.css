@@ -327,7 +327,9 @@ input:focus, select:focus, textarea:focus { outline: 2px solid var(--accent); ou
   margin-bottom: 1.25rem;
   font-family: var(--font-read);
   font-size: 1rem; line-height: 1.65;
-  max-height: 380px; overflow-y: auto;
+  /* No max-height: a reading passage must be readable in full without
+     scrolling inside its own box, since scrolling it away from the question
+     is exactly what makes these items hard to answer. */
 }
 .passage p:last-child { margin-bottom: 0; }
 .passage-label {
