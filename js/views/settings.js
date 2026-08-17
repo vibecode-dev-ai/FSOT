@@ -13,6 +13,7 @@ import {
   saveSettings,
 } from '../storage.js';
 import { generateQuestions, GENERATOR_MODELS } from '../generator.js';
+import { getTheme, setTheme, systemPrefersDark, THEMES } from '../theme.js';
 import { confirmModal, esc, flash, on, setView } from '../ui.js';
 
 export async function renderSettings(navigate) {
@@ -32,10 +33,28 @@ export async function renderSettings(navigate) {
     </tr>`;
   }).join('');
 
+  const theme = getTheme();
+
   setView(`
     <h1>Settings</h1>
 
     <div class="card">
+      <h3>Appearance</h3>
+      <p class="tiny dim">Choose a theme, or follow your system setting.</p>
+      <div class="segmented" role="group" aria-label="Theme">
+        ${THEMES.map((t) => `
+          <button class="segment${t.id === theme ? ' selected' : ''}"
+                  data-theme-choice="${t.id}"
+                  aria-pressed="${t.id === theme}">${esc(t.label)}</button>`).join('')}
+      </div>
+      <p class="tiny dim mt" id="theme-note">${
+        theme === 'system'
+          ? `Following your system, which is currently ${systemPrefersDark() ? 'dark' : 'light'}.`
+          : `Always ${theme}, regardless of your system setting.`
+      }</p>
+    </div>
+
+    <div class="card mt">
       <h3>Session length</h3>
       <p class="tiny dim">Full timed exams always use the official counts (60 / 65 / 30). These control the practice modes.</p>
       <label class="field">
@@ -140,6 +159,20 @@ export async function renderSettings(navigate) {
   `);
 
   const view = document.getElementById('view');
+
+  // Theme applies immediately — a preview that needs saving would be strange.
+  on(view, '[data-theme-choice]', 'click', (e, btn) => {
+    const chosen = setTheme(btn.dataset.themeChoice);
+    view.querySelectorAll('[data-theme-choice]').forEach((b) => {
+      const on = b.dataset.themeChoice === chosen;
+      b.classList.toggle('selected', on);
+      b.setAttribute('aria-pressed', String(on));
+    });
+    view.querySelector('#theme-note').textContent =
+      chosen === 'system'
+        ? `Following your system, which is currently ${systemPrefersDark() ? 'dark' : 'light'}.`
+        : `Always ${chosen}, regardless of your system setting.`;
+  });
 
   on(view, '[data-act="save-settings"]', 'click', () => {
     const num = (id, min, max, fallback) => {

@@ -4,6 +4,15 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>FSOT Study App</title>
+<script>
+  // Runs before the stylesheet paints, so an explicit theme choice does not
+  // flash the other theme on load. Deliberately inline and dependency-free;
+  // js/theme.js re-applies the same value once modules load.
+  try {
+    var t = (JSON.parse(localStorage.getItem('fsot.settings') || '{}') || {}).theme;
+    if (t === 'light' || t === 'dark') document.documentElement.dataset.theme = t;
+  } catch (e) { /* corrupt or unavailable storage: fall back to the system theme */ }
+</script>
 <link rel="stylesheet" href="css/styles.css">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎓</text></svg>">
 </head>

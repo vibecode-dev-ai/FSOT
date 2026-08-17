@@ -1,6 +1,7 @@
 // Bootstrap + hash router.
 
 import { migrate } from './storage.js';
+import { initTheme } from './theme.js';
 import { renderHome } from './views/home.js';
 import { renderExam, teardownExam } from './views/exam.js';
 import { renderResults } from './views/results.js';
@@ -10,6 +11,7 @@ import { getSession, endSession } from './engine.js';
 import { confirmModal, esc, setView } from './ui.js';
 
 migrate();
+initTheme();
 
 /** The hash currently rendered, so a cancelled navigation can be undone. */
 let currentHash = location.hash;

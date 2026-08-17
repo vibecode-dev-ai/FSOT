@@ -1,7 +1,15 @@
 /* FSOT Study App — design system
-   Calm, high-contrast, exam-like. Light and dark via prefers-color-scheme. */
+   Calm, high-contrast, exam-like.
+
+   Theming: the light palette is the bare :root default. The dark palette is
+   declared twice on purpose — once under prefers-color-scheme for people who
+   have made no choice, and once under [data-theme="dark"] so an explicit
+   choice in Settings wins even on a light system. The media-query copy is
+   guarded with :not([data-theme="light"]) so choosing Light wins on a dark
+   system too. The two dark blocks must stay in sync. */
 
 :root {
+  color-scheme: light;
   --bg:            #f7f6f3;
   --surface:       #ffffff;
   --surface-2:     #f1efe9;
@@ -35,8 +43,10 @@
   --maxw: 820px;
 }
 
+/* Dark palette, copy 1 of 2: system preference, unless Light was chosen. */
 @media (prefers-color-scheme: dark) {
-  :root {
+  :root:not([data-theme="light"]) {
+    color-scheme: dark;
     --bg:            #16171a;
     --surface:       #1e2024;
     --surface-2:     #26282d;
@@ -61,6 +71,35 @@
     --shadow:   0 1px 2px rgba(0,0,0,.3), 0 4px 14px rgba(0,0,0,.25);
     --shadow-lg:0 8px 40px rgba(0,0,0,.5);
   }
+}
+
+/* Dark palette, copy 2 of 2: explicit choice, regardless of system setting.
+   Keep in sync with the media-query copy above. */
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --bg:            #16171a;
+  --surface:       #1e2024;
+  --surface-2:     #26282d;
+  --border:        #34373d;
+  --border-strong: #4a4e56;
+  --text:          #e8e6e1;
+  --text-2:        #a8a49c;
+  --text-3:        #7b7770;
+
+  --accent:        #7fb0da;
+  --accent-hover:  #9ac4e8;
+  --accent-soft:   #212f3c;
+  --accent-text:   #10161c;
+
+  --correct:       #6cc294;
+  --correct-bg:    #172a20;
+  --incorrect:     #e8837f;
+  --incorrect-bg:  #2d1a19;
+  --warn:          #dfae62;
+  --warn-bg:       #2b2317;
+
+  --shadow:   0 1px 2px rgba(0,0,0,.3), 0 4px 14px rgba(0,0,0,.25);
+  --shadow-lg:0 8px 40px rgba(0,0,0,.5);
 }
 
 * { box-sizing: border-box; }
@@ -264,6 +303,34 @@ body.exam-mode .topnav { display: none; }
 .btn-danger:hover:not(:disabled) { background: var(--incorrect-bg); }
 
 .btn-sm { padding: .3rem .65rem; font-size: .82rem; }
+
+/* ---------- segmented control ---------- */
+
+.segmented {
+  display: inline-flex;
+  border: 1px solid var(--border-strong);
+  border-radius: var(--radius-s);
+  overflow: hidden;
+  background: var(--surface);
+}
+.segment {
+  padding: .45rem 1rem;
+  border: 0;
+  border-right: 1px solid var(--border-strong);
+  background: transparent;
+  color: var(--text-2);
+  font: inherit; font-size: .88rem;
+  cursor: pointer;
+  transition: background .12s ease, color .12s ease;
+}
+.segment:last-child { border-right: 0; }
+.segment:hover:not(.selected) { background: var(--surface-2); color: var(--text); }
+.segment:focus-visible { outline: 2px solid var(--accent); outline-offset: -2px; }
+.segment.selected {
+  background: var(--accent);
+  color: var(--accent-text);
+  font-weight: 550;
+}
 
 /* ---------- form controls ---------- */
 

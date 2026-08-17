@@ -12,6 +12,8 @@ const KEYS = {
 };
 
 const DEFAULT_SETTINGS = {
+  // 'system' follows the OS setting; 'light' and 'dark' override it.
+  theme: 'system',
   practiceAllCount: 30,
   practiceSectionCount: 20,
   drillCount: 20,
