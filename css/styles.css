@@ -165,7 +165,6 @@ body.exam-mode .topnav { display: none; }
   font-size: .78rem;
   line-height: 1.6;
   color: var(--text-3);
-  max-width: 68ch;
 }
 .site-footer strong { color: var(--text-2); }
 
