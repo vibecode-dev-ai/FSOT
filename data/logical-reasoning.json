@@ -86,7 +86,6 @@
     "lr-083": "An officer argues that a colleague's assessment of the political situation should be discounted, since the colleague has family connections in the country concerned.",
     "lr-084": "The ministry's report notes that public trust in the institution rose 9 points after a transparency initiative. The survey following the initiative was conducted by telephone; the earlier one was conducted in person.",
     "lr-085": "A specialist argues that the regional organization has been effective, citing that member states have not fought a war with one another since its founding. The organization was founded after a decisive war that settled the principal territorial questions among its members.",
-
     "lr-086": "All states that have accepted the optional protocol permit individual complaints. State F does not permit individual complaints.",
     "lr-087": "The ministry funds a project only if it addresses a priority sector. Some projects that address priority sectors are not funded.",
     "lr-088": "Every officer promoted this cycle had completed a hardship tour. Some officers who completed hardship tours were not promoted.",
@@ -157,7 +156,7 @@
         "It fails to define what counts as an international conference"
       ],
       "answer": 1,
-      "explanation": "The official infers that hosting conferences produces investment, but the causation could easily run the other way — countries already attractive to investors are the ones chosen as conference venues. The third and fourth options raise questions that would not rescue the inference even if answered."
+      "explanation": "The official infers that hosting conferences produces investment, but the causation could easily run the other way — countries already attractive to investors are the ones chosen as conference venues. Options {{2,3}} raise questions that would not rescue the inference even if answered."
     },
     {
       "id": "lr-inf-002",
@@ -187,7 +186,7 @@
         "Country X has not reduced its infant mortality rate below 10 per thousand"
       ],
       "answer": 2,
-      "explanation": "The stimulus makes prenatal care a necessary condition for low infant mortality, not a sufficient one. Knowing X satisfies the necessary condition tells us nothing about whether it achieved the outcome — affirming the consequent is the error the first option commits."
+      "explanation": "The stimulus makes prenatal care a necessary condition for low infant mortality, not a sufficient one. Knowing X satisfies the necessary condition tells us nothing about whether it achieved the outcome — affirming the consequent is the error option {{0}} commits."
     },
     {
       "id": "lr-inf-004",
@@ -217,7 +216,7 @@
         "Alliance duration is the best measure of alliance effectiveness"
       ],
       "answer": 1,
-      "explanation": "The explanation requires a link between time pressure and reduced durability; without it, the observation about pressure would not explain the difference in longevity. The fourth option addresses whether duration is worth caring about, which is a separate question from whether the explanation holds."
+      "explanation": "The explanation requires a link between time pressure and reduced durability; without it, the observation about pressure would not explain the difference in longevity. Option {{3}} addresses whether duration is worth caring about, which is a separate question from whether the explanation holds."
     },
     {
       "id": "lr-inf-006",
@@ -232,7 +231,7 @@
         "The minister has a personal interest in the outcome"
       ],
       "answer": 0,
-      "explanation": "This is reverse causation dressed as a policy lesson: countries in trouble adopt controls, so the controls may be a marker of prior distress rather than its cause. The fourth option is an ad hominem that does not engage the evidence at all."
+      "explanation": "This is reverse causation dressed as a policy lesson: countries in trouble adopt controls, so the controls may be a marker of prior distress rather than its cause. Option {{3}} is an ad hominem that does not engage the evidence at all."
     },
     {
       "id": "lr-inf-007",
@@ -247,7 +246,7 @@
         "Favorable attitudes may not persist over time"
       ],
       "answer": 0,
-      "explanation": "Self-reports of attitude change are subject to social desirability and reconstructive memory: participants know what answer the program wants. The third and fourth options identify genuine limitations, but the retrospective self-report problem goes to whether the reported change occurred at all."
+      "explanation": "Self-reports of attitude change are subject to social desirability and reconstructive memory: participants know what answer the program wants. Options {{2,3}} identify genuine limitations, but the retrospective self-report problem goes to whether the reported change occurred at all."
     },
     {
       "id": "lr-inf-008",
@@ -277,7 +276,7 @@
         "Most states that submit reports have not ratified the convention"
       ],
       "answer": 1,
-      "explanation": "If some reporting states have not ratified, then reporting cannot establish ratification. The first option adds an unsupported claim about requirement — those states may report voluntarily — and 'most' in the fourth option goes far beyond 'some.'"
+      "explanation": "If some reporting states have not ratified, then reporting cannot establish ratification. Option {{0}} adds an unsupported claim about requirement — those states may report voluntarily — and 'most' in option {{3}} goes far beyond 'some.'"
     },
     {
       "id": "lr-inf-010",
@@ -292,7 +291,7 @@
         "Sanctions regimes are typically maintained for several years"
       ],
       "answer": 1,
-      "explanation": "The claim is that sanctions 'rarely change behavior.' Confirming that the thirty-six failures involved no concessions at all forecloses the objection that partial concessions were achieved and undercounted. The third option would actually weaken the argument by suggesting the outcome has nothing to do with the regime type the analyst emphasizes."
+      "explanation": "The claim is that sanctions 'rarely change behavior.' Confirming that the thirty-six failures involved no concessions at all forecloses the objection that partial concessions were achieved and undercounted. Option {{2}} would actually weaken the argument by suggesting the outcome has nothing to do with the regime type the analyst emphasizes."
     },
     {
       "id": "lr-inf-011",
@@ -322,7 +321,7 @@
         "Ending hyperinflation would cause Country Y to democratize"
       ],
       "answer": 1,
-      "explanation": "The claim rules out transitioning while hyperinflation persists, so it licenses only a statement about Y's current condition. 'Never' in the first option ignores that hyperinflation can end, and the third and fourth options invent causal claims the statement does not make."
+      "explanation": "The claim rules out transitioning while hyperinflation persists, so it licenses only a statement about Y's current condition. 'Never' in option {{0}} ignores that hyperinflation can end, and options {{2,3}} invent causal claims the statement does not make."
     },
     {
       "id": "lr-inf-013",
@@ -352,7 +351,7 @@
         "Other neighboring pairs have signed similar agreements"
       ],
       "answer": 1,
-      "explanation": "An alternative cause arising at almost the same moment would account for the decline without any effect from the agreement. The first option is closer to irrelevant than it appears — an unratified agreement that nonetheless preceded a drop in incidents leaves the correlation intact."
+      "explanation": "An alternative cause arising at almost the same moment would account for the decline without any effect from the agreement. Option {{0}} is closer to irrelevant than it appears — an unratified agreement that nonetheless preceded a drop in incidents leaves the correlation intact."
     },
     {
       "id": "lr-inf-015",
@@ -367,7 +366,7 @@
         "Some officials may have opposed the reforms"
       ],
       "answer": 1,
-      "explanation": "The evidence measures reports, not incidents. Anticorruption reforms that intimidate potential complainants or dismantle reporting channels would produce this exact number while corruption continued unchanged. The first option is a real alternative but a weaker one, since it grants that bribery actually fell."
+      "explanation": "The evidence measures reports, not incidents. Anticorruption reforms that intimidate potential complainants or dismantle reporting channels would produce this exact number while corruption continued unchanged. Option {{0}} is a real alternative but a weaker one, since it grants that bribery actually fell."
     },
     {
       "id": "lr-inf-016",
@@ -382,7 +381,7 @@
         "Rate increases below two points never cause appreciation"
       ],
       "answer": 1,
-      "explanation": "A perfect past record supports an inductive expectation, not a certainty — the stimulus describes what has happened, not a law. The fourth option commits the classic error of inferring that the absence of a stated condition implies the absence of the outcome."
+      "explanation": "A perfect past record supports an inductive expectation, not a certainty — the stimulus describes what has happened, not a law. Option {{3}} commits the classic error of inferring that the absence of a stated condition implies the absence of the outcome."
     },
     {
       "id": "lr-inf-017",
@@ -397,7 +396,7 @@
         "Judicial independence is not the only determinant of investment"
       ],
       "answer": 1,
-      "explanation": "The researcher herself identifies a third variable correlated with both, which is exactly the structure of a confound. The fourth option is true but harmless — a cause need not be the only cause to be a cause."
+      "explanation": "The researcher herself identifies a third variable correlated with both, which is exactly the structure of a confound. Option {{3}} is true but harmless — a cause need not be the only cause to be a cause."
     },
     {
       "id": "lr-inf-018",
@@ -412,7 +411,7 @@
         "Donors will approve the reallocation"
       ],
       "answer": 0,
-      "explanation": "The premise that concentration produces greater impact per dollar holds only if the concentrated resources can be productively used; in a country with no delivery capacity, additional funds produce nothing. The second and fourth options concern the decision's desirability and feasibility rather than the validity of the reasoning."
+      "explanation": "The premise that concentration produces greater impact per dollar holds only if the concentrated resources can be productively used; in a country with no delivery capacity, additional funds produce nothing. Options {{1,3}} concern the decision's desirability and feasibility rather than the validity of the reasoning."
     },
     {
       "id": "lr-inf-019",
@@ -442,7 +441,7 @@
         "The negotiator has misread the counterpart's tone"
       ],
       "answer": 0,
-      "explanation": "Silence supports opposite readings: a party may decline to discuss an issue because it does not matter, or because it matters so much that any discussion risks concession. The second option is also a live alternative, but the first directly reverses the negotiator's specific inference about importance."
+      "explanation": "Silence supports opposite readings: a party may decline to discuss an issue because it does not matter, or because it matters so much that any discussion risks concession. Option {{1}} is also a live alternative, but the first directly reverses the negotiator's specific inference about importance."
     },
     {
       "id": "lr-inf-021",
@@ -517,7 +516,7 @@
         "Projects should be evaluated after seven years"
       ],
       "answer": 1,
-      "explanation": "A requirement to show results in two years cannot be met by work whose results appear in five to seven, so such projects are excluded by the rule's structure rather than by their merit. The first option draws the opposite lesson from the same facts, and the third and fourth generalize well beyond what was stated."
+      "explanation": "A requirement to show results in two years cannot be met by work whose results appear in five to seven, so such projects are excluded by the rule's structure rather than by their merit. Option {{0}} draws the opposite lesson from the same facts, and the third and fourth generalize well beyond what was stated."
     },
     {
       "id": "lr-inf-026",
@@ -532,7 +531,7 @@
         "The agreement will be ratified"
       ],
       "answer": 0,
-      "explanation": "'Benefit the country' is a net claim, so it requires that export gains exceed import-related losses. The second option overstates the assumption — the representative need not deny that imports rise, only that the balance is favorable."
+      "explanation": "'Benefit the country' is a net claim, so it requires that export gains exceed import-related losses. Option {{1}} overstates the assumption — the representative need not deny that imports rise, only that the balance is favorable."
     },
     {
       "id": "lr-inf-027",
@@ -562,7 +561,7 @@
         "Dispute-resolution mechanisms guarantee enforcement"
       ],
       "answer": 1,
-      "explanation": "The premise establishes the mechanism as necessary, and the convention has it — that is all that follows. The third option is a plausible real-world judgment but not a logical entailment: necessary conditions say nothing about comparative probability."
+      "explanation": "The premise establishes the mechanism as necessary, and the convention has it — that is all that follows. Option {{2}} is a plausible real-world judgment but not a logical entailment: necessary conditions say nothing about comparative probability."
     },
     {
       "id": "lr-inf-029",
@@ -577,7 +576,7 @@
         "Ignores the cost of maintaining the system"
       ],
       "answer": 0,
-      "explanation": "Three successes are weak evidence about the next case, particularly since crises that were missed entirely would not appear in the record. The third option identifies a separate gap — between detection and action — that the official's conclusion also glosses over, but the inductive leap is the primary flaw."
+      "explanation": "Three successes are weak evidence about the next case, particularly since crises that were missed entirely would not appear in the record. Option {{2}} identifies a separate gap — between detection and action — that the official's conclusion also glosses over, but the inductive leap is the primary flaw."
     },
     {
       "id": "lr-inf-030",
@@ -592,7 +591,7 @@
         "Ignores the ambassador's conduct"
       ],
       "answer": 0,
-      "explanation": "That an action produced a benefit does not establish that the benefit was its purpose. The expulsion may have been a genuine response to the ambassador's conduct, with the rating increase an unanticipated by-product — the fourth option gestures at this but describes an omission rather than naming the logical error."
+      "explanation": "That an action produced a benefit does not establish that the benefit was its purpose. The expulsion may have been a genuine response to the ambassador's conduct, with the rating increase an unanticipated by-product — option {{3}} gestures at this but describes an omission rather than naming the logical error."
     },
     {
       "id": "lr-inf-031",
@@ -622,7 +621,7 @@
         "All parties to a multilateral negotiation have distinct interests"
       ],
       "answer": 0,
-      "explanation": "The argument moves from 'more interests' to 'slower,' which requires the link that accommodation takes time. The fourth option is close but weaker: even if some parties share interests, the argument survives so long as accommodation is time-consuming."
+      "explanation": "The argument moves from 'more interests' to 'slower,' which requires the link that accommodation takes time. Option {{3}} is close but weaker: even if some parties share interests, the argument survives so long as accommodation is time-consuming."
     },
     {
       "id": "lr-inf-033",
@@ -652,7 +651,7 @@
         "Wars outside Europe were caused by the settlement"
       ],
       "answer": 1,
-      "explanation": "The pattern — rare wars within the club, frequent wars outside it — supports a scoped rather than a general peace. The third option may be historically true but is not what the described distribution of wars establishes."
+      "explanation": "The pattern — rare wars within the club, frequent wars outside it — supports a scoped rather than a general peace. Option {{2}} may be historically true but is not what the described distribution of wars establishes."
     },
     {
       "id": "lr-inf-035",
@@ -682,7 +681,7 @@
         "The debt is denominated in domestic currency"
       ],
       "answer": 0,
-      "explanation": "Stability alone says nothing about sustainability: a stable ratio financed by short-term foreign-currency debt at high interest is far more fragile than the same ratio in long-dated domestic bonds. The second and fourth options are among the specific factors the blanket assumption ignores."
+      "explanation": "Stability alone says nothing about sustainability: a stable ratio financed by short-term foreign-currency debt at high interest is far more fragile than the same ratio in long-dated domestic bonds. Options {{1,3}} are among the specific factors the blanket assumption ignores."
     },
     {
       "id": "lr-inf-037",
@@ -709,7 +708,7 @@
         "The program's value depends on recipients returning home",
         "Seventy percent is an unusually high non-return rate",
         "Recipients who remain abroad provide no benefit to their home countries",
-        "Both A and C"
+        "Both {{0,2}}"
       ],
       "answer": 3,
       "explanation": "The argument needs both premises: that return is the measure of value, and that non-returners contribute nothing — otherwise remittances, diaspora investment, and professional networks might vindicate the program. Isolating only one assumption leaves the argument intact against the other objection."
@@ -742,7 +741,7 @@
         "Assumes reporting is the only function of overseas posts"
       ],
       "answer": 0,
-      "explanation": "Being the strongest single predictor is compatible with explaining only a modest share of the outcome, and an assignment rule using one variable discards everything the others contribute. The fourth option raises a real limitation, but the statistical overreach is the error in the reasoning itself."
+      "explanation": "Being the strongest single predictor is compatible with explaining only a modest share of the outcome, and an assignment rule using one variable discards everything the others contribute. Option {{3}} raises a real limitation, but the statistical overreach is the error in the reasoning itself."
     },
     {
       "id": "lr-inf-041",
@@ -772,7 +771,7 @@
         "Relies on an arbitrary time period"
       ],
       "answer": 0,
-      "explanation": "Absence of results within a chosen interval is not evidence that results will never come, particularly for a policy that works by accumulating pressure. The fourth option is closely related and also correct as far as it goes, but the inferential error is treating 'not yet' as 'not.'"
+      "explanation": "Absence of results within a chosen interval is not evidence that results will never come, particularly for a policy that works by accumulating pressure. Option {{3}} is closely related and also correct as far as it goes, but the inferential error is treating 'not yet' as 'not.'"
     },
     {
       "id": "lr-inf-043",
@@ -832,7 +831,7 @@
         "Programs should be given at least a year before evaluation"
       ],
       "answer": 1,
-      "explanation": "The principle supplies the missing comparative condition that would license the causal attribution. The first option would justify measuring something but not attributing it, and the other two are policy preferences with no bearing on inference."
+      "explanation": "The principle supplies the missing comparative condition that would license the causal attribution. Option {{0}} would justify measuring something but not attributing it, and the other two are policy preferences with no bearing on inference."
     },
     {
       "id": "lr-inf-047",
@@ -847,7 +846,7 @@
         "Need should be measured by objective indicators rather than by political salience"
       ],
       "answer": 1,
-      "explanation": "The recommendation trades breadth for intensity, which only a maximizing principle justifies. The first option supports the opposite policy, and the fourth addresses how to measure need rather than how to allocate against it."
+      "explanation": "The recommendation trades breadth for intensity, which only a maximizing principle justifies. Option {{0}} supports the opposite policy, and the fourth addresses how to measure need rather than how to allocate against it."
     },
     {
       "id": "lr-inf-048",
@@ -877,7 +876,7 @@
         "Interview length correlates with documentation volume"
       ],
       "answer": 0,
-      "explanation": "This names the confound explicitly: the documentation is a downstream marker of the ties that actually drive approval. The third option is weaker — a few exceptions do not undermine a general pattern, whereas an identified common cause explains the whole pattern away."
+      "explanation": "This names the confound explicitly: the documentation is a downstream marker of the ties that actually drive approval. Option {{2}} is weaker — a few exceptions do not undermine a general pattern, whereas an identified common cause explains the whole pattern away."
     },
     {
       "id": "lr-inf-050",
@@ -892,7 +891,7 @@
         "Evaluators disagree with donors about project value"
       ],
       "answer": 0,
-      "explanation": "If a funding rule filters out a category of project by timeline rather than merit, that category will be underrepresented relative to need — an inference that follows from the two stated facts alone. The second and third options make evaluative claims the stimulus does not support."
+      "explanation": "If a funding rule filters out a category of project by timeline rather than merit, that category will be underrepresented relative to need — an inference that follows from the two stated facts alone. Options {{1,2}} make evaluative claims the stimulus does not support."
     },
     {
       "id": "lr-inf-051",
@@ -907,7 +906,7 @@
         "Countries receiving assistance would otherwise receive private investment"
       ],
       "answer": 0,
-      "explanation": "The causal claim collapses if aid volumes are set by prior growth performance, since the correlation would then be an artifact of the allocation rule. The third option concerns data quality — a real issue, but not what the causal inference depends on."
+      "explanation": "The causal claim collapses if aid volumes are set by prior growth performance, since the correlation would then be an artifact of the allocation rule. Option {{2}} concerns data quality — a real issue, but not what the causal inference depends on."
     },
     {
       "id": "lr-inf-052",
@@ -937,7 +936,7 @@
         "Energy prices should be set by the market"
       ],
       "answer": 1,
-      "explanation": "The minister needs a principle that makes security worth paying for, which is exactly what this states. The third option is broader protectionism, which would support the conclusion but on grounds the minister never invoked — and the question asks which principle supports his position, not merely his conclusion."
+      "explanation": "The minister needs a principle that makes security worth paying for, which is exactly what this states. Option {{2}} is broader protectionism, which would support the conclusion but on grounds the minister never invoked — and the question asks which principle supports his position, not merely his conclusion."
     },
     {
       "id": "lr-inf-054",
@@ -952,7 +951,7 @@
         "No crises have been missed by the system"
       ],
       "answer": 0,
-      "explanation": "An induction from past cases holds only if the next case is relevantly similar; a novel crisis type could evade a system tuned to familiar signatures. The fourth option would strengthen the argument if true but is not something the argument must assume."
+      "explanation": "An induction from past cases holds only if the next case is relevantly similar; a novel crisis type could evade a system tuned to familiar signatures. Option {{3}} would strengthen the argument if true but is not something the argument must assume."
     },
     {
       "id": "lr-inf-055",
@@ -967,7 +966,7 @@
         "Some peacetime alliances have dissolved quickly"
       ],
       "answer": 0,
-      "explanation": "If peacetime allies already share interests, their alliances last longer for that reason — the negotiating conditions become incidental. This is the strongest alternative explanation because it accounts for the full pattern rather than merely qualifying it, as the third and fourth options do."
+      "explanation": "If peacetime allies already share interests, their alliances last longer for that reason — the negotiating conditions become incidental. This is the strongest alternative explanation because it accounts for the full pattern rather than merely qualifying it, as options {{2,3}} do."
     },
     {
       "id": "lr-inf-056",
@@ -982,7 +981,7 @@
         "Service quality has declined"
       ],
       "answer": 0,
-      "explanation": "Both statements can hold simultaneously: the reported average is genuine for its narrowed population, and nothing is established about the excluded cases. The second, third, and fourth options all add claims — about intent, about the excluded cases, about quality — that the two facts together do not establish."
+      "explanation": "Both statements can hold simultaneously: the reported average is genuine for its narrowed population, and nothing is established about the excluded cases. Options {{1,2,3}} all add claims — about intent, about the excluded cases, about quality — that the two facts together do not establish."
     },
     {
       "id": "lr-inf-057",
@@ -997,7 +996,7 @@
         "Local journalists rarely use social media professionally"
       ],
       "answer": 0,
-      "explanation": "An intervening event that would independently depress favorable coverage supplies an alternative explanation for the entire decline. The fourth option is tempting — it questions the mechanism — but a chief could reply that journalists need not use social media to resent an embassy that has stopped engaging them directly."
+      "explanation": "An intervening event that would independently depress favorable coverage supplies an alternative explanation for the entire decline. Option {{3}} is tempting — it questions the mechanism — but a chief could reply that journalists need not use social media to resent an embassy that has stopped engaging them directly."
     },
     {
       "id": "lr-inf-058",
@@ -1012,7 +1011,7 @@
         "A policy that has not achieved its objective within eighteen months will not achieve it"
       ],
       "answer": 3,
-      "explanation": "The commentator's argument turns entirely on the passage of eighteen months, so only a principle connecting that interval to futility justifies the conclusion as argued. The first option is a more defensible principle but supports a different argument — one about costs, which the commentator never raised."
+      "explanation": "The commentator's argument turns entirely on the passage of eighteen months, so only a principle connecting that interval to futility justifies the conclusion as argued. Option {{0}} is a more defensible principle but supports a different argument — one about costs, which the commentator never raised."
     },
     {
       "id": "lr-inf-059",
@@ -1027,7 +1026,7 @@
         "The nearby crossing also received new equipment"
       ],
       "answer": 1,
-      "explanation": "A parallel decline without the intervention undercuts the attribution without establishing that the equipment did nothing — it could have contributed alongside whatever affected both sites. The first option overstates the evidence in the same way the officials overstated theirs."
+      "explanation": "A parallel decline without the intervention undercuts the attribution without establishing that the equipment did nothing — it could have contributed alongside whatever affected both sites. Option {{0}} overstates the evidence in the same way the officials overstated theirs."
     },
     {
       "id": "lr-inf-060",
@@ -1057,7 +1056,7 @@
         "Reporting quality should be the primary criterion for evaluating overseas posts"
       ],
       "answer": 1,
-      "explanation": "The recommendation moves from an observed difference to a policy change, which requires a principle licensing exactly that move. The fourth option would establish that reporting quality matters but would not justify treating tour length as its cause, and the first would support consulting officers rather than following the data."
+      "explanation": "The recommendation moves from an observed difference to a policy change, which requires a principle licensing exactly that move. Option {{3}} would establish that reporting quality matters but would not justify treating tour length as its cause, and the first would support consulting officers rather than following the data."
     },
     {
       "id": "lr-inf-062",
@@ -1072,9 +1071,8 @@
         "Resolutions that are routinely ignored should not be adopted"
       ],
       "answer": 0,
-      "explanation": "The argument treats costly non-compliance as proof of ineffectiveness, which holds only under a standard that equates effectiveness with compelling unwilling behavior. The third option is a background assumption of the field rather than a principle that connects the evidence to the conclusion."
+      "explanation": "The argument treats costly non-compliance as proof of ineffectiveness, which holds only under a standard that equates effectiveness with compelling unwilling behavior. Option {{2}} is a background assumption of the field rather than a principle that connects the evidence to the conclusion."
     },
-
     {
       "id": "lr-inf-111",
       "subtopic": "inference",
@@ -1088,7 +1086,7 @@
         "Some states that accepted the protocol do not permit complaints"
       ],
       "answer": 0,
-      "explanation": "All acceptors permit complaints, and F does not, so F cannot be an acceptor — a valid contrapositive. The fourth option directly contradicts the first premise."
+      "explanation": "All acceptors permit complaints, and F does not, so F cannot be an acceptor — a valid contrapositive. Option {{3}} directly contradicts the first premise."
     },
     {
       "id": "lr-inf-112",
@@ -1103,7 +1101,7 @@
         "The ministry's criteria are inconsistently applied"
       ],
       "answer": 1,
-      "explanation": "'Only if' establishes necessity, and the second premise shows the condition can be met without funding following, which rules out sufficiency. The fourth option imputes inconsistency where the stimulus describes a rule with additional unstated criteria."
+      "explanation": "'Only if' establishes necessity, and the second premise shows the condition can be met without funding following, which rules out sufficiency. Option {{3}} imputes inconsistency where the stimulus describes a rule with additional unstated criteria."
     },
     {
       "id": "lr-inf-113",
@@ -1118,7 +1116,7 @@
         "Promotion requires nothing beyond a hardship tour"
       ],
       "answer": 0,
-      "explanation": "Every promoted officer had a hardship tour, making it necessary; some who had one were not promoted, so it is not sufficient. The third option makes a quantitative claim the premises cannot support."
+      "explanation": "Every promoted officer had a hardship tour, making it necessary; some who had one were not promoted, so it is not sufficient. Option {{2}} makes a quantitative claim the premises cannot support."
     },
     {
       "id": "lr-inf-114",
@@ -1133,7 +1131,7 @@
         "The fisheries agreement was poorly drafted"
       ],
       "answer": 0,
-      "explanation": "The universal claim applies to any agreement reached under time pressure, and the fisheries agreement is one. The second option adds a timing claim, and the third drops the qualifying condition that makes the premise limited."
+      "explanation": "The universal claim applies to any agreement reached under time pressure, and the fisheries agreement is one. Option {{1}} adds a timing claim, and the third drops the qualifying condition that makes the premise limited."
     },
     {
       "id": "lr-inf-115",
@@ -1163,7 +1161,7 @@
         "The reform causes inflation to fall"
       ],
       "answer": 1,
-      "explanation": "'Most' supports a probabilistic expectation, not a certainty, since K could be among the minority. The fourth option asserts causation from an observed association across countries."
+      "explanation": "'Most' supports a probabilistic expectation, not a certainty, since K could be among the minority. Option {{3}} asserts causation from an observed association across countries."
     },
     {
       "id": "lr-inf-117",
@@ -1193,7 +1191,7 @@
         "The donor has discontinued all funding"
       ],
       "answer": 1,
-      "explanation": "'Only for' states a necessary condition, and a program can satisfy it while other unstated considerations block renewal. Treating a necessary condition as sufficient and then alleging a violation is the trap in the first option."
+      "explanation": "'Only for' states a necessary condition, and a program can satisfy it while other unstated considerations block renewal. Treating a necessary condition as sufficient and then alleging a violation is the trap in option {{0}}."
     },
     {
       "id": "lr-inf-119",
@@ -1433,7 +1431,7 @@
         "Three cases is a small sample"
       ],
       "answer": 0,
-      "explanation": "Optimizing surveillance for the last war's indicator leaves a system blind to a crisis with a different origin. The fourth option is a weaker version of the same complaint — even thirty cases would not guarantee the next resembles them."
+      "explanation": "Optimizing surveillance for the last war's indicator leaves a system blind to a crisis with a different origin. Option {{3}} is a weaker version of the same complaint — even thirty cases would not guarantee the next resembles them."
     },
     {
       "id": "lr-inf-135",
@@ -1478,7 +1476,7 @@
         "Not all alumni respond to surveys"
       ],
       "answer": 0,
-      "explanation": "Applicants self-select for interest in the sponsoring country, so favorable views may predate the program entirely. The fourth option raises a real but lesser problem — nonresponse bias compounds selection rather than replacing it."
+      "explanation": "Applicants self-select for interest in the sponsoring country, so favorable views may predate the program entirely. Option {{3}} raises a real but lesser problem — nonresponse bias compounds selection rather than replacing it."
     },
     {
       "id": "lr-inf-138",
@@ -1508,7 +1506,7 @@
         "International observation is politically contested"
       ],
       "answer": 0,
-      "explanation": "Coverage is the issue: stations chosen for accessibility or safety are systematically different from those where problems are likeliest. The third option identifies a genuine additional gap but a narrower one."
+      "explanation": "Coverage is the issue: stations chosen for accessibility or safety are systematically different from those where problems are likeliest. Option {{2}} identifies a genuine additional gap but a narrower one."
     },
     {
       "id": "lr-inf-140",
@@ -1673,7 +1671,7 @@
         "The region may be unrepresentative"
       ],
       "answer": 0,
-      "explanation": "Negotiators reach for power-sharing when a conflict is too divided to resolve otherwise, so the provision may mark difficulty rather than cause failure. The third option would strengthen the objection but is not asserted."
+      "explanation": "Negotiators reach for power-sharing when a conflict is too divided to resolve otherwise, so the provision may mark difficulty rather than cause failure. Option {{2}} would strengthen the objection but is not asserted."
     },
     {
       "id": "lr-inf-151",
@@ -1703,7 +1701,7 @@
         "The allegation may itself be unfounded"
       ],
       "answer": 0,
-      "explanation": "A base rate about how governments generally behave cannot settle a particular case, since innocent governments also deny false allegations. The second option states a possibility; the first identifies why the inference fails."
+      "explanation": "A base rate about how governments generally behave cannot settle a particular case, since innocent governments also deny false allegations. Option {{1}} states a possibility; the first identifies why the inference fails."
     },
     {
       "id": "lr-inf-153",
@@ -1718,7 +1716,7 @@
         "Relief can be reversed if compliance lapses"
       ],
       "answer": 0,
-      "explanation": "If the conditions were framed as a package, partial compliance does not trigger relief however substantial. The second option is close but stronger than needed — the conditions could matter and still be severable."
+      "explanation": "If the conditions were framed as a package, partial compliance does not trigger relief however substantial. Option {{1}} is close but stronger than needed — the conditions could matter and still be severable."
     },
     {
       "id": "lr-inf-154",
@@ -1808,7 +1806,7 @@
         "Officers may be unaware of the standard"
       ],
       "answer": 0,
-      "explanation": "The same record is produced by universal compliance and by no one looking. The fourth option is a live alternative but is itself a species of the enforcement problem the first option names."
+      "explanation": "The same record is produced by universal compliance and by no one looking. Option {{3}} is a live alternative but is itself a species of the enforcement problem option {{0}} names."
     },
     {
       "id": "lr-inf-160",
@@ -1838,7 +1836,7 @@
         "Objections may be raised later"
       ],
       "answer": 0,
-      "explanation": "Silence in consultation is not assent: delegations commonly reserve positions pending instructions or hold objections for a decisive moment. The fourth option is a consequence of the first rather than an independent problem."
+      "explanation": "Silence in consultation is not assent: delegations commonly reserve positions pending instructions or hold objections for a decisive moment. Option {{3}} is a consequence of the first rather than an independent problem."
     },
     {
       "id": "lr-inf-162",
@@ -1913,7 +1911,7 @@
         "States should join conventions that most of their neighbors have joined"
       ],
       "answer": 0,
-      "explanation": "The argument rests entirely on the legislative burden, so only a principle making that burden decisive supports it. The fourth option would cut in the opposite direction, and the second and third address procedure rather than the substantive trade-off."
+      "explanation": "The argument rests entirely on the legislative burden, so only a principle making that burden decisive supports it. Option {{3}} would cut in the opposite direction, and the second and third address procedure rather than the substantive trade-off."
     },
     {
       "id": "lr-inf-167",
@@ -1943,7 +1941,7 @@
         "Relief decisions should be made multilaterally"
       ],
       "answer": 0,
-      "explanation": "A proportionality principle makes three of five conditions a basis for partial relief, which is what the specialist urges. The second option states the opposite rule, and the remaining two address who decides rather than on what basis."
+      "explanation": "A proportionality principle makes three of five conditions a basis for partial relief, which is what the specialist urges. Option {{1}} states the opposite rule, and the remaining two address who decides rather than on what basis."
     },
     {
       "id": "lr-inf-169",
@@ -1958,7 +1956,7 @@
         "Reporting quality matters more than quantity"
       ],
       "answer": 0,
-      "explanation": "The recommendation turns cable counts into a closure decision, which requires a principle tying presence to that specific output. The fourth option would undermine the argument, since it shifts the criterion the bureau relied on."
+      "explanation": "The recommendation turns cable counts into a closure decision, which requires a principle tying presence to that specific output. Option {{3}} would undermine the argument, since it shifts the criterion the bureau relied on."
     },
     {
       "id": "lr-inf-170",
@@ -1973,7 +1971,7 @@
         "Longer training always produces better outcomes"
       ],
       "answer": 0,
-      "explanation": "A minimum-sufficient-duration principle converts equal outcomes into a case for the shorter program. The fourth option contradicts the premise, and the second and third address who decides rather than the criterion."
+      "explanation": "A minimum-sufficient-duration principle converts equal outcomes into a case for the shorter program. Option {{3}} contradicts the premise, and the second and third address who decides rather than the criterion."
     },
     {
       "id": "lr-inf-171",
@@ -2018,7 +2016,7 @@
         "Labor market effects take at least five years to appear"
       ],
       "answer": 0,
-      "explanation": "Stating the counterfactual standard explicitly is what exposes the flaw in comparing to the prior level. The fourth option challenges the timeframe but concedes the comparison method, which is the deeper problem."
+      "explanation": "Stating the counterfactual standard explicitly is what exposes the flaw in comparing to the prior level. Option {{3}} challenges the timeframe but concedes the comparison method, which is the deeper problem."
     },
     {
       "id": "lr-inf-174",
@@ -2033,7 +2031,7 @@
         "Negotiation cannot be taught in a classroom"
       ],
       "answer": 0,
-      "explanation": "The evaluation rests on self-reported confidence, so a principle requiring performance measurement removes its evidentiary basis. The fourth option is a stronger claim that would defeat the program entirely rather than the inference."
+      "explanation": "The evaluation rests on self-reported confidence, so a principle requiring performance measurement removes its evidentiary basis. Option {{3}} is a stronger claim that would defeat the program entirely rather than the inference."
     },
     {
       "id": "lr-inf-175",
@@ -2063,7 +2061,7 @@
         "Compliance should be independently verified"
       ],
       "answer": 0,
-      "explanation": "The commentator infers from present compliance that a treaty adds nothing, and this principle identifies the value it would add regardless. The fourth option supports verification without addressing whether the treaty is needed."
+      "explanation": "The commentator infers from present compliance that a treaty adds nothing, and this principle identifies the value it would add regardless. Option {{3}} supports verification without addressing whether the treaty is needed."
     },
     {
       "id": "lr-inf-177",
@@ -2168,7 +2166,7 @@
         "Fraud detection methods were unchanged"
       ],
       "answer": 0,
-      "explanation": "A falling fraud rate, as opposed to a falling count, cannot be explained by lower volume. The third option would weaken the claim by suggesting the volume drop had an unrelated cause."
+      "explanation": "A falling fraud rate, as opposed to a falling count, cannot be explained by lower volume. Option {{2}} would weaken the claim by suggesting the volume drop had an unrelated cause."
     },
     {
       "id": "lr-inf-184",
@@ -2198,7 +2196,7 @@
         "Two other ministers were also moved between portfolios"
       ],
       "answer": 0,
-      "explanation": "Replacements on record against the old approach make a policy motive far more likely than a factional or cosmetic one. The second and third options point toward routine explanations and would weaken the inference."
+      "explanation": "Replacements on record against the old approach make a policy motive far more likely than a factional or cosmetic one. Options {{1,2}} point toward routine explanations and would weaken the inference."
     },
     {
       "id": "lr-inf-186",
@@ -2243,7 +2241,7 @@
         "The standard is poorly drafted"
       ],
       "answer": 0,
-      "explanation": "A null disciplinary record cannot distinguish between the two explanations, which is precisely why it is weak evidence. Committing to either reading, as the second and third options do, claims more than the fact supports."
+      "explanation": "A null disciplinary record cannot distinguish between the two explanations, which is precisely why it is weak evidence. Committing to either reading, as options {{1,2}} do, claims more than the fact supports."
     },
     {
       "id": "lr-inf-189",
@@ -2258,7 +2256,7 @@
         "The trading partner's currency is undervalued"
       ],
       "answer": 0,
-      "explanation": "The price comparison is what the observation directly establishes; overvaluation is an interpretation requiring further assumptions about tradability and comparability. The second and third options forecast consequences the data alone cannot support."
+      "explanation": "The price comparison is what the observation directly establishes; overvaluation is an interpretation requiring further assumptions about tradability and comparability. Options {{1,2}} forecast consequences the data alone cannot support."
     },
     {
       "id": "lr-inf-190",
@@ -2288,7 +2286,7 @@
         "Most coalitions collapse before twenty months"
       ],
       "answer": 0,
-      "explanation": "Twenty months exceeds eighteen, which is all that follows. 'Unusually stable' would require knowing the distribution's spread, and the fourth option confuses a mean with a median."
+      "explanation": "Twenty months exceeds eighteen, which is all that follows. 'Unusually stable' would require knowing the distribution's spread, and option {{3}} confuses a mean with a median."
     },
     {
       "id": "lr-inf-192",
@@ -2333,7 +2331,7 @@
         "Neither government wants war"
       ],
       "answer": 0,
-      "explanation": "The premise about ruinous cost is what the stimulus supplies; the prediction is the specialist's inference, which requires the further assumption that governments act on economic calculation. The third option generalizes a contested claim."
+      "explanation": "The premise about ruinous cost is what the stimulus supplies; the prediction is the specialist's inference, which requires the further assumption that governments act on economic calculation. Option {{2}} generalizes a contested claim."
     },
     {
       "id": "lr-inf-195",
@@ -2348,7 +2346,7 @@
         "GDP is measured at constant prices"
       ],
       "answer": 0,
-      "explanation": "Since exports are part of GDP, their co-movement is nearly guaranteed and cannot establish direction. The argument needs the causal premise that the second and third options do not supply."
+      "explanation": "Since exports are part of GDP, their co-movement is nearly guaranteed and cannot establish direction. The argument needs the causal premise that options {{1,2}} do not supply."
     },
     {
       "id": "lr-inf-196",
@@ -2423,7 +2421,7 @@
         "Consultations were conducted in a common language"
       ],
       "answer": 0,
-      "explanation": "Reading silence as acceptance requires that objections would surface when available. The second option is a necessary condition for even hearing an objection, but the deeper assumption is about whether parties would voice one."
+      "explanation": "Reading silence as acceptance requires that objections would surface when available. Option {{1}} is a necessary condition for even hearing an objection, but the deeper assumption is about whether parties would voice one."
     },
     {
       "id": "lr-inf-201",
@@ -2468,7 +2466,7 @@
         "The drawbacks cannot be mitigated"
       ],
       "answer": 0,
-      "explanation": "Adoption follows only if the proposal compares favorably, which the argument never establishes. The second and third options identify additional gaps, but the comparative premise is what the conclusion directly requires."
+      "explanation": "Adoption follows only if the proposal compares favorably, which the argument never establishes. Options {{1,2}} identify additional gaps, but the comparative premise is what the conclusion directly requires."
     },
     {
       "id": "lr-inf-204",
@@ -2483,7 +2481,7 @@
         "Moderation is desirable in negotiation"
       ],
       "answer": 0,
-      "explanation": "A midpoint is moderate only if the endpoints are themselves within reason; between two extremes lies a third extreme. The fourth option concerns whether moderation is worth claiming, not whether the claim is warranted."
+      "explanation": "A midpoint is moderate only if the endpoints are themselves within reason; between two extremes lies a third extreme. Option {{3}} concerns whether moderation is worth claiming, not whether the claim is warranted."
     },
     {
       "id": "lr-inf-205",
@@ -2498,7 +2496,7 @@
         "The working group includes non-economists"
       ],
       "answer": 0,
-      "explanation": "The gap is that the second premise covers ministry economists while the first covers working group economists; identifying the two closes it. The second option would work too but is far stronger than needed, and a correct answer should be the minimal bridging premise."
+      "explanation": "The gap is that the second premise covers ministry economists while the first covers working group economists; identifying the two closes it. Option {{1}} would work too but is far stronger than needed, and a correct answer should be the minimal bridging premise."
     },
     {
       "id": "lr-inf-206",
@@ -2543,7 +2541,7 @@
         "The pending treaty is lengthy"
       ],
       "answer": 0,
-      "explanation": "The premise establishes only that rejected treaties lacked sponsorship; showing that sponsored treaties are also rejected severs any inference from sponsorship to success. The second option would if anything raise the base rate of ratification."
+      "explanation": "The premise establishes only that rejected treaties lacked sponsorship; showing that sponsored treaties are also rejected severs any inference from sponsorship to success. Option {{1}} would if anything raise the base rate of ratification."
     },
     {
       "id": "lr-inf-209",
@@ -2558,7 +2556,7 @@
         "Performance management systems vary widely among firms"
       ],
       "answer": 0,
-      "explanation": "It identifies a structural source of the efficiency gap that management practices cannot remove, so importing those practices would not close it. The second option is a quibble that leaves the general comparison intact."
+      "explanation": "It identifies a structural source of the efficiency gap that management practices cannot remove, so importing those practices would not close it. Option {{1}} is a quibble that leaves the general comparison intact."
     },
     {
       "id": "lr-inf-210",
@@ -2573,7 +2571,7 @@
         "The information is consistent with the officer's expectations"
       ],
       "answer": 0,
-      "explanation": "Repeated independent corroboration converts a single instance into a pattern established by outside evidence. The fourth option would weaken confidence, since agreement with prior expectations invites confirmation bias."
+      "explanation": "Repeated independent corroboration converts a single instance into a pattern established by outside evidence. Option {{3}} would weaken confidence, since agreement with prior expectations invites confirmation bias."
     },
     {
       "id": "lr-inf-211",
@@ -2588,7 +2586,7 @@
         "Assessments are reviewed before distribution"
       ],
       "answer": 0,
-      "explanation": "A shared flawed method connects the past failure to the present product, turning a weak ad hominem into a substantive objection. The second and third options both cut the other way by distancing the current assessment from the earlier one."
+      "explanation": "A shared flawed method connects the past failure to the present product, turning a weak ad hominem into a substantive objection. Options {{1,2}} both cut the other way by distancing the current assessment from the earlier one."
     },
     {
       "id": "lr-inf-212",
@@ -2603,7 +2601,7 @@
         "The allegation is serious, so it is probably true"
       ],
       "answer": 0,
-      "explanation": "Both move from a general behavioral base rate to dismissing a particular statement's evidentiary value — and both are wrong for the same reason: the base rate holds whether or not the particular case is genuine. The second option is a different error, generalizing from a single instance."
+      "explanation": "Both move from a general behavioral base rate to dismissing a particular statement's evidentiary value — and both are wrong for the same reason: the base rate holds whether or not the particular case is genuine. Option {{1}} is a different error, generalizing from a single instance."
     },
     {
       "id": "lr-inf-213",
@@ -2633,7 +2631,7 @@
         "The alarm was tested last week and worked"
       ],
       "answer": 0,
-      "explanation": "Both treat the absence of an alert as evidence of function, when a dead device produces the identical record. The fourth option describes the test that would actually distinguish the two possibilities."
+      "explanation": "Both treat the absence of an alert as evidence of function, when a dead device produces the identical record. Option {{3}} describes the test that would actually distinguish the two possibilities."
     },
     {
       "id": "lr-inf-215",
@@ -2663,7 +2661,7 @@
         "Attendance should be recorded accurately"
       ],
       "answer": 0,
-      "explanation": "Attendance is the official's entire evidence, and this principle disqualifies it as a measure of success. The fourth option would improve the accuracy of a metric that the principle says is the wrong one."
+      "explanation": "Attendance is the official's entire evidence, and this principle disqualifies it as a measure of success. Option {{3}} would improve the accuracy of a metric that the principle says is the wrong one."
     },
     {
       "id": "lr-inf-217",
@@ -2693,7 +2691,7 @@
         "Self-determination is a settled principle of international law"
       ],
       "answer": 0,
-      "explanation": "The charge of incoherence assumes the two cases are alike, and this principle denies that differing treatment of differing cases is inconsistent. The third option would support the commentator instead."
+      "explanation": "The charge of incoherence assumes the two cases are alike, and this principle denies that differing treatment of differing cases is inconsistent. Option {{2}} would support the commentator instead."
     },
     {
       "id": "lr-inf-219",
@@ -2708,7 +2706,7 @@
         "Legitimacy requires democratic accountability"
       ],
       "answer": 0,
-      "explanation": "It replaces the researcher's demanding standard with one most legal systems satisfy, removing the basis for the conclusion. The third option restates an ideal without addressing what legitimacy requires."
+      "explanation": "It replaces the researcher's demanding standard with one most legal systems satisfy, removing the basis for the conclusion. Option {{2}} restates an ideal without addressing what legitimacy requires."
     },
     {
       "id": "lr-inf-220",
@@ -2723,9 +2721,8 @@
         "Hardened positions indicate bad faith"
       ],
       "answer": 0,
-      "explanation": "The principle licenses exactly the inference drawn — from unexplained hardening to external pressure. The third option is too broad to distinguish this case, and the fourth reaches a different conclusion about motive."
+      "explanation": "The principle licenses exactly the inference drawn — from unexplained hardening to external pressure. Option {{2}} is too broad to distinguish this case, and the fourth reaches a different conclusion about motive."
     },
-
     {
       "id": "lr-inf-063",
       "subtopic": "inference",
@@ -2739,7 +2736,7 @@
         "Some bloc members retain agricultural tariffs"
       ],
       "answer": 1,
-      "explanation": "M has done what all members have done yet is not a member, so the action cannot by itself confer membership. The fourth option directly contradicts the premise that all members have eliminated those tariffs."
+      "explanation": "M has done what all members have done yet is not a member, so the action cannot by itself confer membership. Option {{3}} directly contradicts the premise that all members have eliminated those tariffs."
     },
     {
       "id": "lr-inf-064",
@@ -2754,7 +2751,7 @@
         "The ministry funds all evaluated projects"
       ],
       "answer": 1,
-      "explanation": "'Only if' marks evaluation as necessary, not sufficient, so meeting it establishes eligibility and nothing more. The first option affirms the consequent; the third makes a probabilistic claim that a statement of logical necessity does not support."
+      "explanation": "'Only if' marks evaluation as necessary, not sufficient, so meeting it establishes eligibility and nothing more. Option {{0}} affirms the consequent; the third makes a probabilistic claim that a statement of logical necessity does not support."
     },
     {
       "id": "lr-inf-065",
@@ -2769,7 +2766,7 @@
         "Ratifying the protocol prevents emissions from rising"
       ],
       "answer": 0,
-      "explanation": "No ratifier has been permitted to increase its allocation, and R has been permitted, so R cannot be a ratifier — a valid contrapositive. The fourth option confuses a restriction on allocations with a claim about actual emissions."
+      "explanation": "No ratifier has been permitted to increase its allocation, and R has been permitted, so R cannot be a ratifier — a valid contrapositive. Option {{3}} confuses a restriction on allocations with a claim about actual emissions."
     },
     {
       "id": "lr-inf-066",
@@ -2799,7 +2796,7 @@
         "Compliance would not have improved without publication"
       ],
       "answer": 1,
-      "explanation": "An unbroken past record supports an expectation, not a guarantee — the stimulus reports what has happened rather than stating a rule. The third and fourth options treat a sufficient condition as though it were necessary."
+      "explanation": "An unbroken past record supports an expectation, not a guarantee — the stimulus reports what has happened rather than stating a rule. Options {{2,3}} treat a sufficient condition as though it were necessary."
     },
     {
       "id": "lr-inf-068",
@@ -2844,7 +2841,7 @@
         "Ignores the role of external mediators"
       ],
       "answer": 0,
-      "explanation": "A ceasefire suspends hostilities; it is entirely compatible with an unresolved dispute held in check by exhaustion or deterrence. The second option identifies a lesser weakness — the inference would fail at any duration, because cessation and resolution are different things."
+      "explanation": "A ceasefire suspends hostilities; it is entirely compatible with an unresolved dispute held in check by exhaustion or deterrence. Option {{1}} identifies a lesser weakness — the inference would fail at any duration, because cessation and resolution are different things."
     },
     {
       "id": "lr-inf-071",
@@ -2934,7 +2931,7 @@
         "Disrupting plots is the primary measure of a security program's value"
       ],
       "answer": 1,
-      "explanation": "The group's objection is precisely that the necessity of the intrusive method has not been demonstrated, which this least-restrictive-means principle makes decisive. The fourth option supports the security service instead, and the first is a much weaker principle the group never invoked."
+      "explanation": "The group's objection is precisely that the necessity of the intrusive method has not been demonstrated, which this least-restrictive-means principle makes decisive. Option {{3}} supports the security service instead, and the first is a much weaker principle the group never invoked."
     },
     {
       "id": "lr-inf-077",
@@ -2949,7 +2946,7 @@
         "The specialist has not identified which government changed"
       ],
       "answer": 0,
-      "explanation": "Sequence is not cause: altered economic conditions, external pressure, or a shift in the other state's position could have made talks possible at that moment regardless of the personnel change. The second option is true and mildly relevant but does not identify the inferential error."
+      "explanation": "Sequence is not cause: altered economic conditions, external pressure, or a shift in the other state's position could have made talks possible at that moment regardless of the personnel change. Option {{1}} is true and mildly relevant but does not identify the inferential error."
     },
     {
       "id": "lr-inf-078",
@@ -2964,7 +2961,7 @@
         "Clinic B is smaller and may lack capacity to expand"
       ],
       "answer": 0,
-      "explanation": "Case mix is the standard confound in outcome comparisons: a clinic handling milder presentations will post a higher recovery rate without performing better. The fourth option is a real practical concern but concedes the comparison; the first challenges whether it means anything."
+      "explanation": "Case mix is the standard confound in outcome comparisons: a clinic handling milder presentations will post a higher recovery rate without performing better. Option {{3}} is a real practical concern but concedes the comparison; the first challenges whether it means anything."
     },
     {
       "id": "lr-inf-079",
@@ -2979,7 +2976,7 @@
         "Ignores transitions outside the region"
       ],
       "answer": 0,
-      "explanation": "That every success shared a feature does not establish the feature is necessary — growth may have been incidental, or the successful cases may simply be a biased sample of the conditions under which transitions are attempted. The second option is a lesser version of the same complaint."
+      "explanation": "That every success shared a feature does not establish the feature is necessary — growth may have been incidental, or the successful cases may simply be a biased sample of the conditions under which transitions are attempted. Option {{1}} is a lesser version of the same complaint."
     },
     {
       "id": "lr-inf-080",
@@ -2994,7 +2991,7 @@
         "The officer helped design the template"
       ],
       "answer": 0,
-      "explanation": "If a second change introduced at the same moment directly altered the product being rated, the improvement is attributable to it rather than to the template. The fourth option raises bias but leaves the evidence itself untouched."
+      "explanation": "If a second change introduced at the same moment directly altered the product being rated, the improvement is attributable to it rather than to the template. Option {{3}} raises bias but leaves the evidence itself untouched."
     },
     {
       "id": "lr-inf-081",
@@ -3039,7 +3036,7 @@
         "Treaty texts vary considerably"
       ],
       "answer": 0,
-      "explanation": "Governments that pursue investment treaties are typically those already reforming to court capital, so the treaty may be a marker of investor-friendly policy rather than its cause. The second and third options raise reasons the policy might be undesirable, which is a separate question from whether the evidence supports it."
+      "explanation": "Governments that pursue investment treaties are typically those already reforming to court capital, so the treaty may be a marker of investor-friendly policy rather than its cause. Options {{1,2}} raise reasons the policy might be undesirable, which is a separate question from whether the evidence supports it."
     },
     {
       "id": "lr-inf-084",
@@ -3054,7 +3051,7 @@
         "The inspector general has broader authority than the director"
       ],
       "answer": 0,
-      "explanation": "Without a procedure, there may also be no reliable means of detecting or recording an incident — so the clean record may reflect the same gap it is offered to excuse. Appeals to authority and to regulation, as in the third and fourth options, sidestep the reasoning rather than addressing it."
+      "explanation": "Without a procedure, there may also be no reliable means of detecting or recording an incident — so the clean record may reflect the same gap it is offered to excuse. Appeals to authority and to regulation, as in options {{2,3}}, sidestep the reasoning rather than addressing it."
     },
     {
       "id": "lr-inf-085",
@@ -3069,7 +3066,7 @@
         "Assumes household income is the only relevant outcome"
       ],
       "answer": 0,
-      "explanation": "A study lacking the sample size or duration to detect a modest effect returns a null result whether or not the effect is real. The fourth option is also a genuine gap, but the inferential error — reading absence of evidence as evidence of absence — is the primary one."
+      "explanation": "A study lacking the sample size or duration to detect a modest effect returns a null result whether or not the effect is real. Option {{3}} is also a genuine gap, but the inferential error — reading absence of evidence as evidence of absence — is the primary one."
     },
     {
       "id": "lr-inf-086",
@@ -3099,7 +3096,7 @@
         "Six percent is a small increase"
       ],
       "answer": 0,
-      "explanation": "Behavioral response is the central difficulty in revenue estimation — static scoring assumes it away by construction. The second option is true of all forecasts and identifies nothing specific to this one."
+      "explanation": "Behavioral response is the central difficulty in revenue estimation — static scoring assumes it away by construction. Option {{1}} is true of all forecasts and identifies nothing specific to this one."
     },
     {
       "id": "lr-inf-088",
@@ -3129,7 +3126,7 @@
         "Growth is lower than 7 percent"
       ],
       "answer": 1,
-      "explanation": "The evidence is about the improbable smoothness of the series, which supports doubting the figures without establishing what the true numbers are or why they differ. The first, third, and fourth options each specify a conclusion the observation cannot reach."
+      "explanation": "The evidence is about the improbable smoothness of the series, which supports doubting the figures without establishing what the true numbers are or why they differ. Options {{0,2,3}} each specify a conclusion the observation cannot reach."
     },
     {
       "id": "lr-inf-090",
@@ -3144,7 +3141,7 @@
         "The department has brought few cases"
       ],
       "answer": 0,
-      "explanation": "Selective case selection produces a perfect record regardless of the quality of the underlying positions — the unbrought cases are exactly the weak ones. The third and fourth options gesture at the same territory but do not name the mechanism that makes the record uninformative."
+      "explanation": "Selective case selection produces a perfect record regardless of the quality of the underlying positions — the unbrought cases are exactly the weak ones. Options {{2,3}} gesture at the same territory but do not name the mechanism that makes the record uninformative."
     },
     {
       "id": "lr-inf-091",
@@ -3174,7 +3171,7 @@
         "Overlooks the interests of third countries"
       ],
       "answer": 0,
-      "explanation": "The inference slides from 'each government believed it was benefiting' to 'the agreement is beneficial' — governments can misjudge, and the interests they pursue may not be those of their populations. The third and fourth options are real considerations but neither closes the gap the argument depends on."
+      "explanation": "The inference slides from 'each government believed it was benefiting' to 'the agreement is beneficial' — governments can misjudge, and the interests they pursue may not be those of their populations. Options {{2,3}} are real considerations but neither closes the gap the argument depends on."
     },
     {
       "id": "lr-inf-093",
@@ -3186,7 +3183,7 @@
         "The number of agreements concluded reflects the value of an embassy's work",
         "All embassies have equal opportunity to conclude agreements",
         "Agreements are always implemented",
-        "Both A and B"
+        "Both {{0,1}}"
       ],
       "answer": 3,
       "explanation": "A count-based metric requires both that agreements track value and that posts are comparable on the dimension being counted — an embassy in a small state with few bilateral questions will score poorly however well it performs. Either assumption alone leaves the measure open to the other objection."
@@ -3204,7 +3201,7 @@
         "Non-participating villages may have received other assistance"
       ],
       "answer": 0,
-      "explanation": "The cost-share requirement screens for exactly the characteristics that independently predict better sanitation, so the two groups were never comparable. The fourth option would weaken the finding but is speculative; the selection mechanism is stated in the stimulus."
+      "explanation": "The cost-share requirement screens for exactly the characteristics that independently predict better sanitation, so the two groups were never comparable. Option {{3}} would weaken the finding but is speculative; the selection mechanism is stated in the stimulus."
     },
     {
       "id": "lr-inf-095",
@@ -3264,7 +3261,7 @@
         "The donor should fund only large organizations"
       ],
       "answer": 1,
-      "explanation": "A requirement that the smallest organizations cannot afford filters by capacity to comply, not by quality of work. The first and fourth options leap to policy recommendations the observation alone does not justify, and the third reverses the point."
+      "explanation": "A requirement that the smallest organizations cannot afford filters by capacity to comply, not by quality of work. Options {{0,3}} leap to policy recommendations the observation alone does not justify, and the third reverses the point."
     },
     {
       "id": "lr-inf-099",
@@ -3309,7 +3306,7 @@
         "Respondents may have forgotten the initiative"
       ],
       "answer": 0,
-      "explanation": "Respondents answer sensitive questions differently by telephone than face to face, so any part of the 9-point movement may be an artifact of measurement. The second option overstates it — the problem is that the two waves are not comparable, not that one method is inferior."
+      "explanation": "Respondents answer sensitive questions differently by telephone than face to face, so any part of the 9-point movement may be an artifact of measurement. Option {{1}} overstates it — the problem is that the two waves are not comparable, not that one method is inferior."
     },
     {
       "id": "lr-inf-102",
@@ -3339,7 +3336,7 @@
         "Donors should support a diverse portfolio of grantees"
       ],
       "answer": 0,
-      "explanation": "The proposal rests entirely on an administrative cost ratio, so a principle subordinating cost to accomplishment removes its only support. The fourth option also cuts against the proposal but on narrower grounds — it would permit concentration if diversity were otherwise satisfied."
+      "explanation": "The proposal rests entirely on an administrative cost ratio, so a principle subordinating cost to accomplishment removes its only support. Option {{3}} also cuts against the proposal but on narrower grounds — it would permit concentration if diversity were otherwise satisfied."
     },
     {
       "id": "lr-inf-104",
@@ -3354,7 +3351,7 @@
         "Household income is the best measure of development impact"
       ],
       "answer": 0,
-      "explanation": "The commentator treats the absence of demonstrated effect as sufficient for a verdict of failure, which only a principle placing the burden of proof on the program can license. The second option states the opposite presumption, and the fourth supports the choice of outcome without addressing the burden."
+      "explanation": "The commentator treats the absence of demonstrated effect as sufficient for a verdict of failure, which only a principle placing the burden of proof on the program can license. Option {{1}} states the opposite presumption, and the fourth supports the choice of outcome without addressing the burden."
     },
     {
       "id": "lr-inf-105",
@@ -3369,7 +3366,7 @@
         "Career satisfaction should be measured annually"
       ],
       "answer": 0,
-      "explanation": "The proposal would compel service that officers might not choose, so it needs a principle permitting aggregate benefit to override individual preference. The second option would obstruct the proposal, and the third and fourth are administrative measures that leave the mandate unjustified."
+      "explanation": "The proposal would compel service that officers might not choose, so it needs a principle permitting aggregate benefit to override individual preference. Option {{1}} would obstruct the proposal, and the third and fourth are administrative measures that leave the mandate unjustified."
     },
     {
       "id": "lr-inf-106",
@@ -3399,7 +3396,7 @@
         "The security service acted unlawfully"
       ],
       "answer": 1,
-      "explanation": "The civil liberties group disputes what the four disruptions prove, not that they occurred, so what remains open is necessity. The first, third, and fourth options each assert something neither party has established."
+      "explanation": "The civil liberties group disputes what the four disruptions prove, not that they occurred, so what remains open is necessity. Options {{0,2,3}} each assert something neither party has established."
     },
     {
       "id": "lr-inf-108",
@@ -3444,7 +3441,7 @@
         "Traffic fatalities will rise again next year"
       ],
       "answer": 1,
-      "explanation": "Registrations fell 22 percent while fatalities fell 18 percent, so the ratio moved unfavorably. The first option overstates the case — a modest campaign effect could still be hidden inside these aggregates, which is exactly why the raw decline proves nothing."
+      "explanation": "Registrations fell 22 percent while fatalities fell 18 percent, so the ratio moved unfavorably. Option {{0}} overstates the case — a modest campaign effect could still be hidden inside these aggregates, which is exactly why the raw decline proves nothing."
     }
   ]
 }

@@ -40,7 +40,12 @@
       "subtopic": "grammar",
       "difficulty": 2,
       "stem": "Neither the ambassador nor her deputies ___ available to comment on the negotiations.",
-      "choices": ["was", "were", "is", "has been"],
+      "choices": [
+        "was",
+        "were",
+        "is",
+        "has been"
+      ],
       "answer": 1,
       "explanation": "With 'neither...nor,' the verb agrees with the nearer subject — here the plural 'deputies' — so 'were' is correct. 'Was' would be right if the order were reversed ('neither the deputies nor the ambassador was')."
     },
@@ -49,7 +54,12 @@
       "subtopic": "grammar",
       "difficulty": 2,
       "stem": "The report was circulated to the delegates, all of ___ had requested advance copies.",
-      "choices": ["who", "whom", "which", "whose"],
+      "choices": [
+        "who",
+        "whom",
+        "which",
+        "whose"
+      ],
       "answer": 1,
       "explanation": "'Whom' is the object of the preposition 'of.' A quick test: substitute a pronoun — 'all of them had requested' takes the objective form, so 'whom' is right. 'Which' is wrong because delegates are people."
     },
@@ -58,7 +68,12 @@
       "subtopic": "grammar",
       "difficulty": 2,
       "stem": "The committee ___ its findings last Thursday, after months of deliberation.",
-      "choices": ["release", "released", "have released", "were released"],
+      "choices": [
+        "release",
+        "released",
+        "have released",
+        "were released"
+      ],
       "answer": 1,
       "explanation": "'Committee' is a collective noun taking a singular verb in American usage, and 'last Thursday' requires the simple past. 'Were released' is passive and would need the findings, not the committee, as subject."
     },
@@ -67,7 +82,12 @@
       "subtopic": "grammar",
       "difficulty": 3,
       "stem": "If the treaty ___ ratified before the recess, the implementing legislation could have moved forward this session.",
-      "choices": ["was", "were", "had been", "would have been"],
+      "choices": [
+        "was",
+        "were",
+        "had been",
+        "would have been"
+      ],
       "answer": 2,
       "explanation": "The main clause uses 'could have moved,' signaling a past counterfactual, which requires the past perfect 'had been' in the if-clause. 'Would have been' in the if-clause is a common error — the conditional auxiliary belongs in the result clause only."
     },
@@ -76,7 +96,12 @@
       "subtopic": "grammar",
       "difficulty": 2,
       "stem": "Each of the participating countries ___ submitted a national implementation plan.",
-      "choices": ["have", "has", "were", "are"],
+      "choices": [
+        "have",
+        "has",
+        "were",
+        "are"
+      ],
       "answer": 1,
       "explanation": "The subject is 'each,' which is singular, so the verb is 'has.' The intervening prepositional phrase 'of the participating countries' does not change the number of the subject — this is the most common subject-verb agreement trap in formal prose."
     },
@@ -85,7 +110,12 @@
       "subtopic": "grammar",
       "difficulty": 2,
       "stem": "The delegation from Brazil, along with representatives from Chile and Peru, ___ expected to arrive Tuesday.",
-      "choices": ["are", "is", "have been", "were"],
+      "choices": [
+        "are",
+        "is",
+        "have been",
+        "were"
+      ],
       "answer": 1,
       "explanation": "'Along with' introduces a parenthetical phrase and does not create a compound subject; the subject remains the singular 'delegation.' Only 'and' compounds subjects — 'as well as,' 'together with,' and 'in addition to' do not."
     },
@@ -94,7 +124,12 @@
       "subtopic": "grammar",
       "difficulty": 2,
       "stem": "Between you and ___, the proposal is unlikely to survive committee.",
-      "choices": ["I", "me", "myself", "we"],
+      "choices": [
+        "I",
+        "me",
+        "myself",
+        "we"
+      ],
       "answer": 1,
       "explanation": "'Between' is a preposition and takes the objective case, so 'me' is correct. 'Between you and I' is a hypercorrection so widespread it sounds formal, but it is ungrammatical."
     },
@@ -103,7 +138,12 @@
       "subtopic": "grammar",
       "difficulty": 3,
       "stem": "The Secretary insisted that the report ___ submitted before the end of the fiscal year.",
-      "choices": ["is", "was", "be", "will be"],
+      "choices": [
+        "is",
+        "was",
+        "be",
+        "will be"
+      ],
       "answer": 2,
       "explanation": "Verbs of demand, insistence, and recommendation trigger the subjunctive mood, which uses the bare infinitive 'be' regardless of the subject. The same pattern applies to 'require that he attend' and 'propose that she resign.'"
     },
@@ -112,7 +152,12 @@
       "subtopic": "grammar",
       "difficulty": 2,
       "stem": "Neither of the proposed amendments ___ enough support to advance.",
-      "choices": ["have", "has", "were having", "are having"],
+      "choices": [
+        "have",
+        "has",
+        "were having",
+        "are having"
+      ],
       "answer": 1,
       "explanation": "'Neither' is singular when used as a pronoun, so it takes 'has.' The plural 'amendments' inside the prepositional phrase is a distractor — it is not the subject."
     },
@@ -121,7 +166,12 @@
       "subtopic": "grammar",
       "difficulty": 2,
       "stem": "The economist argued that austerity had done more harm to the region ___ any external shock.",
-      "choices": ["then", "than", "as", "like"],
+      "choices": [
+        "then",
+        "than",
+        "as",
+        "like"
+      ],
       "answer": 1,
       "explanation": "'Than' introduces comparisons; 'then' indicates sequence in time. The two are homophone-adjacent and among the most frequently confused pairs in written English."
     },
@@ -137,14 +187,19 @@
         "it was clear that objections existed."
       ],
       "answer": 1,
-      "explanation": "The introductory participial phrase must modify the subject of the main clause, and only the legal adviser can have reviewed the draft. In the first option, 'objections' becomes the reviewer — a dangling modifier."
+      "explanation": "The introductory participial phrase must modify the subject of the main clause, and only the legal adviser can have reviewed the draft. In option {{0}}, 'objections' becomes the reviewer — a dangling modifier."
     },
     {
       "id": "euc-gra-012",
       "subtopic": "grammar",
       "difficulty": 3,
       "stem": "The number of applications ___ risen sharply, though the number approved ___ remained flat.",
-      "choices": ["have / have", "has / has", "has / have", "have / has"],
+      "choices": [
+        "have / have",
+        "has / has",
+        "has / have",
+        "have / has"
+      ],
       "answer": 1,
       "explanation": "'The number of' is singular and takes 'has'; 'a number of' is plural and takes 'have.' Both subjects here are 'the number,' so both verbs are singular — a distinction worth memorizing because it is counterintuitive."
     },
@@ -153,7 +208,12 @@
       "subtopic": "grammar",
       "difficulty": 2,
       "stem": "The ministry announced that it would review ___ procedures for handling classified material.",
-      "choices": ["it's", "its", "their", "there"],
+      "choices": [
+        "it's",
+        "its",
+        "their",
+        "there"
+      ],
       "answer": 1,
       "explanation": "'Its' is the possessive pronoun; 'it's' is the contraction of 'it is.' Since the subject 'ministry' was already treated as singular ('it would review'), 'their' would break agreement."
     },
@@ -162,7 +222,12 @@
       "subtopic": "grammar",
       "difficulty": 2,
       "stem": "The delegates were asked to state whether they ___ to the amended text.",
-      "choices": ["objected", "object", "had objected", "would have objected"],
+      "choices": [
+        "objected",
+        "object",
+        "had objected",
+        "would have objected"
+      ],
       "answer": 0,
       "explanation": "The reporting verb 'were asked' is past, so the subordinate clause shifts to the simple past 'objected.' 'Had objected' would place the objection before the asking, which reverses the intended sequence."
     },
@@ -171,7 +236,12 @@
       "subtopic": "grammar",
       "difficulty": 2,
       "stem": "Of the two candidates for the post, she is clearly the ___.",
-      "choices": ["most qualified", "more qualified", "much qualified", "qualified most"],
+      "choices": [
+        "most qualified",
+        "more qualified",
+        "much qualified",
+        "qualified most"
+      ],
       "answer": 1,
       "explanation": "Comparisons between exactly two items take the comparative form, 'more qualified.' The superlative 'most qualified' requires three or more — 'of the two' is the signal the item is testing."
     },
@@ -180,7 +250,12 @@
       "subtopic": "grammar",
       "difficulty": 3,
       "stem": "The agreement, which ___ signed in Geneva, has not yet entered into force.",
-      "choices": ["was", "were", "is being", "had been"],
+      "choices": [
+        "was",
+        "were",
+        "is being",
+        "had been"
+      ],
       "answer": 0,
       "explanation": "The relative pronoun 'which' refers to the singular 'agreement,' so the verb is singular. The present perfect in the main clause ('has not yet entered') pairs naturally with a completed past signing."
     },
@@ -189,7 +264,12 @@
       "subtopic": "grammar",
       "difficulty": 2,
       "stem": "The ambassador spoke ___ about the deteriorating security situation.",
-      "choices": ["candid", "candidly", "more candid", "candidness"],
+      "choices": [
+        "candid",
+        "candidly",
+        "more candid",
+        "candidness"
+      ],
       "answer": 1,
       "explanation": "The word modifies the verb 'spoke' and so must be an adverb. Using the adjective form after an action verb is among the most common errors in spoken English, which is why it persists in writing."
     },
@@ -198,7 +278,12 @@
       "subtopic": "grammar",
       "difficulty": 2,
       "stem": "Every one of the reports ___ been reviewed by the front office.",
-      "choices": ["have", "has", "were", "are"],
+      "choices": [
+        "have",
+        "has",
+        "were",
+        "are"
+      ],
       "answer": 1,
       "explanation": "'Every one' is singular. Note the two-word form: 'everyone' (one word) refers to people, while 'every one' singles out individual items from a set — both are singular, but they are not interchangeable."
     },
@@ -207,7 +292,12 @@
       "subtopic": "grammar",
       "difficulty": 3,
       "stem": "The policy applies to whoever ___ a valid residence permit.",
-      "choices": ["holds", "hold", "holding", "held"],
+      "choices": [
+        "holds",
+        "hold",
+        "holding",
+        "held"
+      ],
       "answer": 0,
       "explanation": "'Whoever' is the subject of the clause 'whoever holds a valid residence permit,' and that entire clause is the object of 'to.' The subject case is correct even after a preposition, because the preposition governs the whole clause, not the pronoun alone."
     },
@@ -216,7 +306,12 @@
       "subtopic": "grammar",
       "difficulty": 2,
       "stem": "The mission's staff ___ divided over how to interpret the new guidance.",
-      "choices": ["is", "are", "has", "were being"],
+      "choices": [
+        "is",
+        "are",
+        "has",
+        "were being"
+      ],
       "answer": 0,
       "explanation": "In American usage collective nouns take singular verbs. British usage would accept 'are,' particularly where the members act individually — but the FSOT follows American conventions."
     },
@@ -225,7 +320,12 @@
       "subtopic": "grammar",
       "difficulty": 2,
       "stem": "She has worked at three overseas posts, ___ she speaks four languages fluently.",
-      "choices": ["and", "but", "or", "for"],
+      "choices": [
+        "and",
+        "but",
+        "or",
+        "for"
+      ],
       "answer": 0,
       "explanation": "The two clauses are complementary rather than contrasting, so the additive 'and' fits. 'But' would imply tension between overseas service and language ability, which the sentence does not support."
     },
@@ -248,7 +348,12 @@
       "subtopic": "grammar",
       "difficulty": 2,
       "stem": "Neither the analysis nor the recommendations ___ persuasive to the reviewing officer.",
-      "choices": ["was", "were", "has been", "is"],
+      "choices": [
+        "was",
+        "were",
+        "has been",
+        "is"
+      ],
       "answer": 1,
       "explanation": "With 'neither...nor,' the verb matches the nearer subject — the plural 'recommendations' — so 'were' is correct. This is the mirror image of the earlier item where the singular came second."
     },
@@ -257,7 +362,12 @@
       "subtopic": "grammar",
       "difficulty": 2,
       "stem": "The provisions of the agreement, ___ were negotiated over eighteen months, take effect immediately.",
-      "choices": ["that", "which", "who", "whom"],
+      "choices": [
+        "that",
+        "which",
+        "who",
+        "whom"
+      ],
       "answer": 1,
       "explanation": "The clause is non-restrictive — set off by commas and adding supplementary information — which requires 'which' rather than 'that.' 'That' introduces restrictive clauses and is not preceded by a comma."
     },
@@ -266,7 +376,12 @@
       "subtopic": "grammar",
       "difficulty": 2,
       "stem": "Fewer than half the applicants met the ___ criteria.",
-      "choices": ["eligibility", "eligible", "eligibly", "eligibleness"],
+      "choices": [
+        "eligibility",
+        "eligible",
+        "eligibly",
+        "eligibleness"
+      ],
       "answer": 0,
       "explanation": "'Eligibility criteria' uses a noun as an attributive modifier, the standard construction. 'Eligible criteria' would nonsensically describe the criteria themselves as eligible."
     },
@@ -275,17 +390,26 @@
       "subtopic": "grammar",
       "difficulty": 3,
       "stem": "The data ___ inconclusive, so the working group deferred its recommendation.",
-      "choices": ["is", "are", "has been", "was"],
+      "choices": [
+        "is",
+        "are",
+        "has been",
+        "was"
+      ],
       "answer": 1,
       "explanation": "In formal and scientific writing 'data' is treated as a plural, taking 'are.' Singular usage has become widespread in general prose, but standardized tests of formal English still expect the plural."
     },
-
     {
       "id": "euc-usa-001",
       "subtopic": "usage_diction",
       "difficulty": 2,
       "stem": "The new visa regulations will ___ every mission in the region.",
-      "choices": ["affect", "effect", "affectation", "effectual"],
+      "choices": [
+        "affect",
+        "effect",
+        "affectation",
+        "effectual"
+      ],
       "answer": 0,
       "explanation": "'Affect' is the verb meaning to influence or have an impact on. 'Effect' is normally the noun ('the regulations had an effect'); as a verb it means to bring into being, so 'effect every mission' would mean creating the missions themselves."
     },
@@ -294,7 +418,12 @@
       "subtopic": "usage_diction",
       "difficulty": 2,
       "stem": "The ambassador's remarks had a notable ___ on the tone of the negotiations.",
-      "choices": ["affect", "effect", "affectation", "efficacy"],
+      "choices": [
+        "affect",
+        "effect",
+        "affectation",
+        "efficacy"
+      ],
       "answer": 1,
       "explanation": "A noun is required after 'a notable,' and the noun form is 'effect.' 'Affect' exists as a noun in psychology, meaning observable emotional expression, but that is a technical usage and not what the sentence calls for."
     },
@@ -303,7 +432,12 @@
       "subtopic": "usage_diction",
       "difficulty": 2,
       "stem": "The number of staff at post is ___ than it was five years ago.",
-      "choices": ["fewer", "less", "lesser", "little"],
+      "choices": [
+        "fewer",
+        "less",
+        "lesser",
+        "little"
+      ],
       "answer": 1,
       "explanation": "'The number' is a singular quantity, and quantities take 'less.' 'Fewer' modifies count nouns directly — 'fewer staff' would be correct, but 'the number' itself is a single measurable value."
     },
@@ -312,7 +446,12 @@
       "subtopic": "usage_diction",
       "difficulty": 3,
       "stem": "The report's conclusions were ___ from a limited sample and should be treated cautiously.",
-      "choices": ["inferred", "implied", "imputed", "insinuated"],
+      "choices": [
+        "inferred",
+        "implied",
+        "imputed",
+        "insinuated"
+      ],
       "answer": 0,
       "explanation": "To infer is to draw a conclusion from evidence; to imply is to suggest something without stating it. The reader infers, the speaker implies — reversing these is one of the most common diction errors in analytical writing."
     },
@@ -321,7 +460,12 @@
       "subtopic": "usage_diction",
       "difficulty": 2,
       "stem": "The delegation was ___ by the sudden change in the agenda.",
-      "choices": ["disinterested", "uninterested", "disconcerted", "unconcerned"],
+      "choices": [
+        "disinterested",
+        "uninterested",
+        "disconcerted",
+        "unconcerned"
+      ],
       "answer": 2,
       "explanation": "'Disconcerted' means thrown off balance, which fits a sudden change. 'Disinterested' means impartial rather than bored — a distinction worth preserving, since it names a quality with no good synonym."
     },
@@ -330,7 +474,12 @@
       "subtopic": "usage_diction",
       "difficulty": 2,
       "stem": "An arbitrator must remain ___ regardless of which party's case appears stronger.",
-      "choices": ["uninterested", "disinterested", "indifferent", "apathetic"],
+      "choices": [
+        "uninterested",
+        "disinterested",
+        "indifferent",
+        "apathetic"
+      ],
       "answer": 1,
       "explanation": "'Disinterested' means having no stake in the outcome — precisely the quality an arbitrator needs. 'Uninterested' would mean bored by the proceedings, and 'indifferent' and 'apathetic' both suggest a failure to care rather than a freedom from bias."
     },
@@ -339,7 +488,12 @@
       "subtopic": "usage_diction",
       "difficulty": 2,
       "stem": "The two ministries agreed to ___ their positions before the summit.",
-      "choices": ["reconcile", "reconciliate", "reconciliation", "reconciled"],
+      "choices": [
+        "reconcile",
+        "reconciliate",
+        "reconciliation",
+        "reconciled"
+      ],
       "answer": 0,
       "explanation": "'Reconcile' is the verb required after 'to.' 'Reconciliation' is the noun, and 'reconciliate' is not a standard English word — a back-formation that occasionally appears in official prose but should be avoided."
     },
@@ -348,7 +502,12 @@
       "subtopic": "usage_diction",
       "difficulty": 3,
       "stem": "The minister's statement was widely read as a ___ of the government's earlier position.",
-      "choices": ["repudiation", "reputation", "refutation", "reparation"],
+      "choices": [
+        "repudiation",
+        "reputation",
+        "refutation",
+        "reparation"
+      ],
       "answer": 0,
       "explanation": "'Repudiation' means formal rejection or disavowal, which fits abandoning an earlier position. 'Refutation' is the close distractor: it means disproving a claim through argument, which is a narrower and more specific act."
     },
@@ -357,7 +516,12 @@
       "subtopic": "usage_diction",
       "difficulty": 2,
       "stem": "Please ___ the attached memorandum to the working group.",
-      "choices": ["forward", "foreword", "forwards", "afford"],
+      "choices": [
+        "forward",
+        "foreword",
+        "forwards",
+        "afford"
+      ],
       "answer": 0,
       "explanation": "'Forward' is the verb meaning to send onward. 'Foreword' is the introductory section of a book — the two are homophones, and confusing them is a persistent spelling error in written correspondence."
     },
@@ -366,7 +530,12 @@
       "subtopic": "usage_diction",
       "difficulty": 2,
       "stem": "The proposal represents a significant ___ from established practice.",
-      "choices": ["departure", "deviance", "diversion", "divergence"],
+      "choices": [
+        "departure",
+        "deviance",
+        "diversion",
+        "divergence"
+      ],
       "answer": 0,
       "explanation": "'Departure from established practice' is the idiomatic collocation. 'Divergence' is the near-synonym but usually describes two things moving apart rather than one thing breaking with a norm; 'deviance' carries pejorative connotations of social transgression."
     },
@@ -375,7 +544,12 @@
       "subtopic": "usage_diction",
       "difficulty": 3,
       "stem": "The committee's mandate is to ___ compliance, not to impose penalties.",
-      "choices": ["insure", "ensure", "assure", "reassure"],
+      "choices": [
+        "insure",
+        "ensure",
+        "assure",
+        "reassure"
+      ],
       "answer": 1,
       "explanation": "'Ensure' means to make certain. 'Insure' relates to financial indemnity, and 'assure' means to remove someone's doubt — you assure a person, but you ensure an outcome."
     },
@@ -384,7 +558,12 @@
       "subtopic": "usage_diction",
       "difficulty": 2,
       "stem": "The two countries maintain ___ diplomatic relations despite periodic tensions.",
-      "choices": ["continual", "continuous", "continued", "contiguous"],
+      "choices": [
+        "continual",
+        "continuous",
+        "continued",
+        "contiguous"
+      ],
       "answer": 1,
       "explanation": "'Continuous' means unbroken, which fits relations that persist despite tension. 'Continual' means repeatedly recurring with interruptions — which would imply relations that lapse and resume, the opposite of the intended sense."
     },
@@ -393,7 +572,12 @@
       "subtopic": "usage_diction",
       "difficulty": 2,
       "stem": "The findings ___ that additional resources would improve outcomes.",
-      "choices": ["allude", "elude", "suggest", "illude"],
+      "choices": [
+        "allude",
+        "elude",
+        "suggest",
+        "illude"
+      ],
       "answer": 2,
       "explanation": "'Suggest' is the natural verb for what findings do. 'Allude' means to refer indirectly and requires the preposition 'to'; 'elude' means to escape — the two are frequently swapped."
     },
@@ -402,7 +586,12 @@
       "subtopic": "usage_diction",
       "difficulty": 3,
       "stem": "The delegation adopted a ___ approach, refusing to concede on any point.",
-      "choices": ["intransigent", "intractable", "insurgent", "indigent"],
+      "choices": [
+        "intransigent",
+        "intractable",
+        "insurgent",
+        "indigent"
+      ],
       "answer": 0,
       "explanation": "'Intransigent' describes a person or party refusing to compromise. 'Intractable' is the close distractor but typically describes problems rather than negotiators — an intractable dispute, an intransigent counterpart."
     },
@@ -411,7 +600,12 @@
       "subtopic": "usage_diction",
       "difficulty": 2,
       "stem": "The embassy will ___ the visiting delegation during their stay.",
-      "choices": ["accommodate", "accomodate", "acommodate", "accommadate"],
+      "choices": [
+        "accommodate",
+        "accomodate",
+        "acommodate",
+        "accommadate"
+      ],
       "answer": 0,
       "explanation": "'Accommodate' takes double c and double m. It appears consistently on lists of the most frequently misspelled English words, and the three distractors here are its three most common misspellings."
     },
@@ -420,7 +614,12 @@
       "subtopic": "usage_diction",
       "difficulty": 2,
       "stem": "The consequences of the decision were more far-reaching than anyone had ___.",
-      "choices": ["anticipated", "anticipating", "anticipate", "anticipation"],
+      "choices": [
+        "anticipated",
+        "anticipating",
+        "anticipate",
+        "anticipation"
+      ],
       "answer": 0,
       "explanation": "The past perfect construction 'had' requires a past participle, giving 'anticipated.' The other forms produce ungrammatical combinations with the auxiliary."
     },
@@ -429,7 +628,12 @@
       "subtopic": "usage_diction",
       "difficulty": 3,
       "stem": "The agreement's language was deliberately ___, allowing each party to claim vindication.",
-      "choices": ["ambiguous", "ambivalent", "amorphous", "ambitious"],
+      "choices": [
+        "ambiguous",
+        "ambivalent",
+        "amorphous",
+        "ambitious"
+      ],
       "answer": 0,
       "explanation": "'Ambiguous' means open to more than one interpretation — exactly what permits competing claims of vindication. 'Ambivalent' describes a person holding contradictory feelings and cannot properly describe text."
     },
@@ -438,7 +642,12 @@
       "subtopic": "usage_diction",
       "difficulty": 2,
       "stem": "The officer was ___ for her handling of the crisis.",
-      "choices": ["commended", "commanded", "comprehended", "commenced"],
+      "choices": [
+        "commended",
+        "commanded",
+        "comprehended",
+        "commenced"
+      ],
       "answer": 0,
       "explanation": "'Commended' means praised formally, which fits recognition for handling a crisis. 'Commanded' would mean ordered — a near-homograph that changes the sentence entirely."
     },
@@ -447,7 +656,12 @@
       "subtopic": "usage_diction",
       "difficulty": 2,
       "stem": "Economic sanctions had a ___ effect on the country's export sector.",
-      "choices": ["deleterious", "delirious", "dilatory", "desultory"],
+      "choices": [
+        "deleterious",
+        "delirious",
+        "dilatory",
+        "desultory"
+      ],
       "answer": 0,
       "explanation": "'Deleterious' means harmful. 'Dilatory' means causing delay and 'desultory' means lacking a plan or purpose — all four words share a vaguely negative register, which is what makes them plausible together."
     },
@@ -456,11 +670,15 @@
       "subtopic": "usage_diction",
       "difficulty": 3,
       "stem": "The report cited a ___ of evidence supporting the allegation.",
-      "choices": ["paucity", "plethora", "plurality", "paradigm"],
+      "choices": [
+        "paucity",
+        "plethora",
+        "plurality",
+        "paradigm"
+      ],
       "answer": 0,
       "explanation": "'Paucity' means scarcity, which suits a report questioning an allegation. 'Plethora' means excess and is often misused to mean simply 'many' — but its actual sense is an unhealthy overabundance."
     },
-
     {
       "id": "euc-str-001",
       "subtopic": "sentence_structure",
@@ -473,7 +691,7 @@
         "The negotiations concluded on Friday, and, the agreement was signed Monday."
       ],
       "answer": 1,
-      "explanation": "Two independent clauses require a semicolon, a period, or a comma plus coordinating conjunction. The first option is a comma splice, the third a run-on, and the fourth adds a stray comma after the conjunction."
+      "explanation": "Two independent clauses require a semicolon, a period, or a comma plus coordinating conjunction. Option {{0}} is a comma splice, the third a run-on, and the fourth adds a stray comma after the conjunction."
     },
     {
       "id": "euc-str-002",
@@ -501,7 +719,7 @@
         "The consular officer, damaged by the storm, inspected the roof."
       ],
       "answer": 1,
-      "explanation": "The relative clause attaches unambiguously to 'roof.' In the first and fourth options the modifier lands on the officer, and in the third it lands on the inspection — all three produce sentences that say something the writer did not mean."
+      "explanation": "The relative clause attaches unambiguously to 'roof.' In options {{0,3}} the modifier lands on the officer, and in the third it lands on the inspection — all three produce sentences that say something the writer did not mean."
     },
     {
       "id": "euc-str-004",
@@ -515,7 +733,7 @@
         "Although, the delegation arrived on schedule, the meeting began late."
       ],
       "answer": 0,
-      "explanation": "The subordinating conjunction 'although' makes the clause dependent, so it must attach to an independent clause with a comma. The second option misuses a semicolon, which joins independent clauses only, and the third simply relocates the fragment."
+      "explanation": "The subordinating conjunction 'although' makes the clause dependent, so it must attach to an independent clause with a comma. Option {{1}} misuses a semicolon, which joins independent clauses only, and the third simply relocates the fragment."
     },
     {
       "id": "euc-str-005",
@@ -529,7 +747,7 @@
         "The report; which was thorough, contained vague recommendations."
       ],
       "answer": 1,
-      "explanation": "A semicolon joins two independent clauses, and 'however' as a conjunctive adverb sits comfortably inside the second. Pairing a semicolon with a coordinating conjunction like 'but' or 'and' is redundant, and the fourth option severs a subject from its verb."
+      "explanation": "A semicolon joins two independent clauses, and 'however' as a conjunctive adverb sits comfortably inside the second. Pairing a semicolon with a coordinating conjunction like 'but' or 'and' is redundant, and option {{3}} severs a subject from its verb."
     },
     {
       "id": "euc-str-006",
@@ -571,7 +789,7 @@
         "The delegation included three specialists, two economists: and one lawyer."
       ],
       "answer": 1,
-      "explanation": "A colon must follow a complete independent clause. The first option interrupts the clause between verb and object — a common error in lists introduced by 'included,' 'are,' or 'such as.'"
+      "explanation": "A colon must follow a complete independent clause. Option {{0}} interrupts the clause between verb and object — a common error in lists introduced by 'included,' 'are,' or 'such as.'"
     },
     {
       "id": "euc-str-009",
@@ -599,7 +817,7 @@
         "The committee approved two of the only six recommendations."
       ],
       "answer": 1,
-      "explanation": "'Only' should sit immediately before the element it limits — here the number two. The first option technically limits the verb, implying the committee approved but did nothing else, and the third implies no other body approved them."
+      "explanation": "'Only' should sit immediately before the element it limits — here the number two. Option {{0}} technically limits the verb, implying the committee approved but did nothing else, and the third implies no other body approved them."
     },
     {
       "id": "euc-str-011",
@@ -627,7 +845,7 @@
         "Drafting of the report was by the political section, review by the economic section."
       ],
       "answer": 1,
-      "explanation": "Two active clauses with parallel structure read most clearly. The first option shifts from passive to active mid-sentence, and the fourth strips out the verbs entirely in a telegraphic style unsuited to formal prose."
+      "explanation": "Two active clauses with parallel structure read most clearly. Option {{0}} shifts from passive to active mid-sentence, and the fourth strips out the verbs entirely in a telegraphic style unsuited to formal prose."
     },
     {
       "id": "euc-str-013",
@@ -641,7 +859,7 @@
         "Either the ambassador and the deputy chief of mission were briefed separately."
       ],
       "answer": 1,
-      "explanation": "Two subjects joined by 'and' form a plural compound requiring 'were.' The fourth option is ungrammatical for a different reason: 'either' pairs with 'or,' never with 'and.'"
+      "explanation": "Two subjects joined by 'and' form a plural compound requiring 'were.' Option {{3}} is ungrammatical for a different reason: 'either' pairs with 'or,' never with 'and.'"
     },
     {
       "id": "euc-str-014",
@@ -683,7 +901,7 @@
         "Compared to Thailand, Vietnam's economy was faster growing than it."
       ],
       "answer": 1,
-      "explanation": "The comparison must be between like things — one economy and another. The first option compares an economy to a country. 'That of' is the standard device for making the second term parallel without repeating the noun."
+      "explanation": "The comparison must be between like things — one economy and another. Option {{0}} compares an economy to a country. 'That of' is the standard device for making the second term parallel without repeating the noun."
     },
     {
       "id": "euc-str-017",
@@ -697,7 +915,7 @@
         "The — three principal obstacles funding, staffing, and political will — remain unresolved."
       ],
       "answer": 0,
-      "explanation": "Paired dashes must open and close the interrupting element. Mixing a comma with a dash, as the second and third options do, leaves the interruption unbalanced and the sentence hard to parse."
+      "explanation": "Paired dashes must open and close the interrupting element. Mixing a comma with a dash, as options {{1,2}} do, leaves the interruption unbalanced and the sentence hard to parse."
     },
     {
       "id": "euc-str-018",
@@ -741,13 +959,17 @@
       "answer": 1,
       "explanation": "A comma follows an introductory participial phrase and signals where the main clause begins. Without it, the reader may briefly attach 'the officer' to 'reviewing' before backtracking."
     },
-
     {
       "id": "euc-org-001",
       "subtopic": "organization_clarity",
       "difficulty": 2,
       "stem": "Which transition best links these sentences? 'The initial assessment recommended a phased withdrawal. ___ the situation deteriorated faster than anticipated, forcing an accelerated timeline.'",
-      "choices": ["Consequently,", "However,", "Similarly,", "Furthermore,"],
+      "choices": [
+        "Consequently,",
+        "However,",
+        "Similarly,",
+        "Furthermore,"
+      ],
       "answer": 1,
       "explanation": "The second sentence contradicts the expectation set by the first, so a contrastive transition is required. 'Consequently' would imply the deterioration resulted from the recommendation, and 'similarly' and 'furthermore' both signal continuity rather than reversal."
     },
@@ -784,7 +1006,12 @@
       "subtopic": "organization_clarity",
       "difficulty": 2,
       "stem": "Which transition best fits? 'The first round of talks produced no agreement. ___, both delegations agreed to reconvene the following month.'",
-      "choices": ["Therefore", "Nevertheless", "Likewise", "In contrast"],
+      "choices": [
+        "Therefore",
+        "Nevertheless",
+        "Likewise",
+        "In contrast"
+      ],
       "answer": 1,
       "explanation": "Agreeing to reconvene despite failure is a concession, calling for 'nevertheless.' 'Therefore' would make reconvening the logical consequence of failure, which reverses the relationship the sentence expresses."
     },
@@ -800,7 +1027,7 @@
         "The outcome of the negotiations was a mutually agreed compromise agreement."
       ],
       "answer": 1,
-      "explanation": "'Final outcome,' 'ultimately,' 'compromise agreement,' and 'both sides mutually' each say the same thing twice. Only the second option removes all four redundancies."
+      "explanation": "'Final outcome,' 'ultimately,' 'compromise agreement,' and 'both sides mutually' each say the same thing twice. Only option {{1}} removes all four redundancies."
     },
     {
       "id": "euc-org-006",
@@ -814,14 +1041,19 @@
         "Staffing shortages have affected consular operations at several posts."
       ],
       "answer": 1,
-      "explanation": "A topic sentence should frame what follows, and this one announces both the subject and the number of items. The first option jumps into a single example, and the other two introduce subjects the paragraph does not develop."
+      "explanation": "A topic sentence should frame what follows, and this one announces both the subject and the number of items. Option {{0}} jumps into a single example, and the other two introduce subjects the paragraph does not develop."
     },
     {
       "id": "euc-org-007",
       "subtopic": "organization_clarity",
       "difficulty": 2,
       "stem": "Which transition best fits? 'The program exceeded its enrollment targets. ___, participant completion rates fell short of projections.'",
-      "choices": ["Accordingly", "At the same time", "As a result", "For this reason"],
+      "choices": [
+        "Accordingly",
+        "At the same time",
+        "As a result",
+        "For this reason"
+      ],
       "answer": 1,
       "explanation": "The sentence pairs a success with a shortfall, so a transition marking simultaneous contrast is needed. The other three all assert causation, which would nonsensically make high enrollment the cause of low completion."
     },
@@ -844,7 +1076,12 @@
       "subtopic": "organization_clarity",
       "difficulty": 3,
       "stem": "Four sentences are to be arranged into a paragraph. Which should come first? (1) This has produced a backlog of roughly eleven thousand cases. (2) Applications rose 40 percent last year. (3) Staffing levels, meanwhile, remained flat. (4) The section has requested three additional adjudicators.",
-      "choices": ["Sentence 1", "Sentence 2", "Sentence 3", "Sentence 4"],
+      "choices": [
+        "Sentence 1",
+        "Sentence 2",
+        "Sentence 3",
+        "Sentence 4"
+      ],
       "answer": 1,
       "explanation": "Sentence 2 introduces the causal chain without depending on anything prior. Sentence 3's 'meanwhile' and sentence 1's 'this' both point backward, and sentence 4 is the response to a problem not yet stated."
     },
@@ -853,7 +1090,12 @@
       "subtopic": "organization_clarity",
       "difficulty": 2,
       "stem": "Which transition best fits? 'The treaty text was finalized in March. ___, ratification is not expected before the end of the year.'",
-      "choices": ["Consequently", "However", "Moreover", "Similarly"],
+      "choices": [
+        "Consequently",
+        "However",
+        "Moreover",
+        "Similarly"
+      ],
       "answer": 1,
       "explanation": "Finalizing a text would normally suggest prompt ratification; the sentence defeats that expectation, so 'however' is required. 'Consequently' would make the delay a consequence of finalization, which is incoherent."
     },
@@ -890,7 +1132,12 @@
       "subtopic": "organization_clarity",
       "difficulty": 2,
       "stem": "Which transition best fits? 'Bilateral trade has grown steadily for a decade. ___, investment flows have remained modest.'",
-      "choices": ["Consequently", "By contrast", "In addition", "Therefore"],
+      "choices": [
+        "Consequently",
+        "By contrast",
+        "In addition",
+        "Therefore"
+      ],
       "answer": 1,
       "explanation": "The sentence opposes strong trade growth to weak investment, requiring a contrastive transition. 'In addition' would suggest investment flows reinforce the trade story rather than complicating it."
     },
@@ -908,7 +1155,6 @@
       "answer": 2,
       "explanation": "A building renovation bears no evident relationship to a policy reversal. The other three each supply a plausible cause — fiscal, personnel, and political — which is what the paragraph is meant to explain."
     },
-
     {
       "id": "euc-rc-p1-1",
       "subtopic": "reading_comprehension",
@@ -922,7 +1168,7 @@
         "The papacy required permanent representation at Rome"
       ],
       "answer": 1,
-      "explanation": "The passage states that an envoy departed once his matter was settled, taking his understanding with him, and that his successor 'began again from nothing.' The first option describes the later dynamic by which the institution spread across Europe, not Venice's original motive."
+      "explanation": "The passage states that an envoy departed once his matter was settled, taking his understanding with him, and that his successor 'began again from nothing.' Option {{0}} describes the later dynamic by which the institution spread across Europe, not Venice's original motive."
     },
     {
       "id": "euc-rc-p1-2",
@@ -997,7 +1243,7 @@
         "Citizens in resource-rich states are less politically engaged by disposition"
       ],
       "answer": 1,
-      "explanation": "The passage refers to 'the fiscal bargain that historically underwrote representative institutions' — the idea that a government dependent on taxes must answer to taxpayers. The third and fourth options reverse or psychologize a mechanism the passage describes as structural."
+      "explanation": "The passage refers to 'the fiscal bargain that historically underwrote representative institutions' — the idea that a government dependent on taxes must answer to taxpayers. Options {{2,3}} reverse or psychologize a mechanism the passage describes as structural."
     },
     {
       "id": "euc-rc-p2-3",
@@ -1012,7 +1258,7 @@
         "Dutch disease is less common than the political mechanism"
       ],
       "answer": 1,
-      "explanation": "The passage introduces the three as evidence that 'neither mechanism is deterministic' and concludes that the curse is 'institutional rather than geological.' The third option overstates the claim — sovereign funds are mentioned as one measure among others, alongside constraining official discretion."
+      "explanation": "The passage introduces the three as evidence that 'neither mechanism is deterministic' and concludes that the curse is 'institutional rather than geological.' Option {{2}} overstates the claim — sovereign funds are mentioned as one measure among others, alongside constraining official discretion."
     },
     {
       "id": "euc-rc-p2-4",
@@ -1027,7 +1273,7 @@
         "Suggest that geology determines which institutions develop"
       ],
       "answer": 1,
-      "explanation": "The line 'what matters is not what lies beneath the ground but what governs its extraction' places causation in institutions. The fourth option inverts the claim, and the first misreads a qualified explanation as a denial."
+      "explanation": "The line 'what matters is not what lies beneath the ground but what governs its extraction' places causation in institutions. Option {{3}} inverts the claim, and the first misreads a qualified explanation as a denial."
     },
     {
       "id": "euc-rc-p3-1",
@@ -1057,7 +1303,7 @@
         "Divide France among the victorious powers"
       ],
       "answer": 1,
-      "explanation": "France was 'neither dismembered nor humiliated, but was surrounded by strengthened neighbors' — a deliberate combination of restraint and containment. The first option describes the approach taken at Versailles in 1919, a contrast the passage implies without stating."
+      "explanation": "France was 'neither dismembered nor humiliated, but was surrounded by strengthened neighbors' — a deliberate combination of restraint and containment. Option {{0}} describes the approach taken at Versailles in 1919, a contrast the passage implies without stating."
     },
     {
       "id": "euc-rc-p3-3",
@@ -1087,7 +1333,7 @@
         "Metternich's declining influence after 1848"
       ],
       "answer": 0,
-      "explanation": "The clause modifies 'later architects of international order' who tried to remedy the Vienna system's silence on internal conflict. Reading it back onto Vienna itself, as the second and third options do, misattributes the assessment."
+      "explanation": "The clause modifies 'later architects of international order' who tried to remedy the Vienna system's silence on internal conflict. Reading it back onto Vienna itself, as options {{1,2}} do, misattributes the assessment."
     },
     {
       "id": "euc-rc-p4-1",
@@ -1102,7 +1348,7 @@
         "Extended interviews conducted in the applicant's native language"
       ],
       "answer": 1,
-      "explanation": "The second paragraph states directly that what makes the task tractable 'is not any single piece of evidence but the accumulation of small consistencies.' The fourth option describes a condition the passage explicitly says does not obtain."
+      "explanation": "The second paragraph states directly that what makes the task tractable 'is not any single piece of evidence but the accumulation of small consistencies.' Option {{3}} describes a condition the passage explicitly says does not obtain."
     },
     {
       "id": "euc-rc-p4-2",
@@ -1132,7 +1378,7 @@
         "Concerned primarily with its inefficiency"
       ],
       "answer": 1,
-      "explanation": "The passage calls intuition 'valuable and dangerous in equal measure,' giving a specific reason for each. Options one and three take only half the assessment."
+      "explanation": "The passage calls intuition 'valuable and dangerous in equal measure,' giving a specific reason for each. Options {{0,2}} take only half the assessment."
     },
     {
       "id": "euc-rc-p4-4",
@@ -1147,7 +1393,7 @@
         "Interview times have lengthened at several high-volume posts"
       ],
       "answer": 1,
-      "explanation": "The argument is that the system builds judgment without validating it; a demonstrated gap between confidence and accuracy is exactly the evidence that would confirm it. The first option, taken alone, is consistent with intuition being either reliable or merely self-reinforcing — which is precisely the ambiguity the author identifies."
+      "explanation": "The argument is that the system builds judgment without validating it; a demonstrated gap between confidence and accuracy is exactly the evidence that would confirm it. Option {{0}}, taken alone, is consistent with intuition being either reliable or merely self-reinforcing — which is precisely the ambiguity the author identifies."
     },
     {
       "id": "euc-rc-p5-1",
@@ -1177,7 +1423,7 @@
         "Reputational costs always exceed the costs of compliance"
       ],
       "answer": 1,
-      "explanation": "The examples show compliance occurring 'for no better reason' than reputational cost — evidence that the fiction has purchase. The fourth option converts an occasional occurrence into an invariant rule, which the passage's hedged phrasing does not support."
+      "explanation": "The examples show compliance occurring 'for no better reason' than reputational cost — evidence that the fiction has purchase. Option {{3}} converts an occasional occurrence into an invariant rule, which the passage's hedged phrasing does not support."
     },
     {
       "id": "euc-rc-p5-3",
@@ -1222,7 +1468,7 @@
         "A concession demanded by a single bloc of states"
       ],
       "answer": 1,
-      "explanation": "The author acknowledges the charge of evasion, sides at least partly with 'prudence,' and closes by framing the choice as a trade: agreement in 1948 for argument afterward. The third option is contradicted by the passage's description of a deliberate compromise."
+      "explanation": "The author acknowledges the charge of evasion, sides at least partly with 'prudence,' and closes by framing the choice as a trade: agreement in 1948 for argument afterward. Option {{2}} is contradicted by the passage's description of a deliberate compromise."
     },
     {
       "id": "euc-rc-p6-2",
@@ -1252,7 +1498,7 @@
         "Prevented the Declaration's adoption for several years"
       ],
       "answer": 1,
-      "explanation": "The passage says the dispute 'split the implementing covenants into two separate instruments and has never been resolved.' The first option gets the causal direction backwards — the split was a symptom, not a settlement."
+      "explanation": "The passage says the dispute 'split the implementing covenants into two separate instruments and has never been resolved.' Option {{0}} gets the causal direction backwards — the split was a symptom, not a settlement."
     },
     {
       "id": "euc-rc-p7-1",
@@ -1282,7 +1528,7 @@
         "Deliberate misrepresentation by implementing partners"
       ],
       "answer": 1,
-      "explanation": "The passage says no methodological sophistication has dislodged the tendency 'because the underlying incentive to report success is built into the funding relationship itself.' The third option is what the author explicitly rules out as a sufficient explanation."
+      "explanation": "The passage says no methodological sophistication has dislodged the tendency 'because the underlying incentive to report success is built into the funding relationship itself.' Option {{2}} is what the author explicitly rules out as a sufficient explanation."
     },
     {
       "id": "euc-rc-p7-3",
@@ -1305,7 +1551,12 @@
       "difficulty": 3,
       "passageId": "euc-p7",
       "stem": "The author's tone toward the domestic-interest constraint on aid is best described as:",
-      "choices": ["Indignant", "Matter-of-fact", "Approving", "Alarmed"],
+      "choices": [
+        "Indignant",
+        "Matter-of-fact",
+        "Approving",
+        "Alarmed"
+      ],
       "answer": 1,
       "explanation": "The author notes the constraint is 'often described as cynical' but declines to endorse that judgment, calling it 'simply the ordinary condition of democratic budgeting.' That is description without evident approval or complaint."
     },
@@ -1322,7 +1573,7 @@
         "Applies only to democratic states"
       ],
       "answer": 1,
-      "explanation": "The second paragraph states that the imprecision 'obscures a genuine analytical distinction' between coercive and attractive power. The first option is a consequence the author discusses, not the core complaint."
+      "explanation": "The second paragraph states that the imprecision 'obscures a genuine analytical distinction' between coercive and attractive power. Option {{0}} is a consequence the author discusses, not the core complaint."
     },
     {
       "id": "euc-rc-p8-2",
@@ -1337,7 +1588,7 @@
         "Short timescales, while attraction is instantaneous"
       ],
       "answer": 1,
-      "explanation": "The passage draws the line precisely there: coercion changes what a policy costs, attraction changes what the target wants. The fourth option reverses the timescale claim — the passage says attraction is the slower mechanism."
+      "explanation": "The passage draws the line precisely there: coercion changes what a policy costs, attraction changes what the target wants. Option {{3}} reverses the timescale claim — the passage says attraction is the slower mechanism."
     },
     {
       "id": "euc-rc-p8-3",
@@ -1427,9 +1678,8 @@
         "Plain language mandates would solve the problem"
       ],
       "answer": 0,
-      "explanation": "The line separates the question of style from the question of candor: prose that conceals inconvenient facts remains evasive however well it is written. The second option overgeneralizes an argument the passage has just spent two paragraphs qualifying."
+      "explanation": "The line separates the question of style from the question of candor: prose that conceals inconvenient facts remains evasive however well it is written. Option {{1}} overgeneralizes an argument the passage has just spent two paragraphs qualifying."
     },
-
     {
       "id": "euc-rc-p10-1",
       "subtopic": "reading_comprehension",
@@ -1488,7 +1738,7 @@
         "Strategic motives should be concealed from the public"
       ],
       "answer": 1,
-      "explanation": "The final paragraph explicitly declines to diminish the achievement and instead questions the sharpness of the generous/self-interested distinction, noting that durable programs tend to be those where the two coincide. The first and third options take the argument further than the author does."
+      "explanation": "The final paragraph explicitly declines to diminish the achievement and instead questions the sharpness of the generous/self-interested distinction, noting that durable programs tend to be those where the two coincide. Options {{0,2}} take the argument further than the author does."
     },
     {
       "id": "euc-rc-p11-1",
@@ -1503,7 +1753,7 @@
         "Bengal's 1943 famine was less severe than previously believed"
       ],
       "answer": 1,
-      "explanation": "The passage reports that famines occurred in years when availability per head 'was no lower than in neighboring non-famine years, and in some instances higher.' The third option overstates the policy implication — the passage says cash transfers *may* be more efficient, not that food aid is never appropriate."
+      "explanation": "The passage reports that famines occurred in years when availability per head 'was no lower than in neighboring non-famine years, and in some instances higher.' Option {{2}} overstates the policy implication — the passage says cash transfers *may* be more efficient, not that food aid is never appropriate."
     },
     {
       "id": "euc-rc-p11-2",
@@ -1518,7 +1768,7 @@
         "A moral claim on the international community"
       ],
       "answer": 1,
-      "explanation": "The passage defines the term in place. The first option is the ordinary political usage of the word, which is precisely why the technical sense needs stating — Sen's entitlement is about economic command, not legal claim."
+      "explanation": "The passage defines the term in place. Option {{0}} is the ordinary political usage of the word, which is precisely why the technical sense needs stating — Sen's entitlement is about economic command, not legal claim."
     },
     {
       "id": "euc-rc-p11-3",
@@ -1548,7 +1798,7 @@
         "Been shown to apply only to the Bengal case"
       ],
       "answer": 1,
-      "explanation": "The passage says the argument has been 'refined and in places contested' but that the methodological point — aggregate availability says little about who eats — has not been seriously challenged. Reporting a mixed reception accurately means rejecting both the first and third options."
+      "explanation": "The passage says the argument has been 'refined and in places contested' but that the methodological point — aggregate availability says little about who eats — has not been seriously challenged. Reporting a mixed reception accurately means rejecting both options {{0,2}}."
     },
     {
       "id": "euc-rc-p12-1",
@@ -1593,7 +1843,7 @@
         "Has never been attempted in practice"
       ],
       "answer": 1,
-      "explanation": "The passage credits the remedy with helping 'at the margin' but notes it is 'easily gamed by choosing a range wide enough to be unfalsifiable.' The fourth option contradicts the passage, which lists it among remedies already tried."
+      "explanation": "The passage credits the remedy with helping 'at the margin' but notes it is 'easily gamed by choosing a range wide enough to be unfalsifiable.' Option {{3}} contradicts the passage, which lists it among remedies already tried."
     },
     {
       "id": "euc-rc-p12-4",
@@ -1713,7 +1963,7 @@
         "Distribute authority equally among all member states"
       ],
       "answer": 1,
-      "explanation": "The final paragraph describes exactly this design and frames it as addressing the League's actual defect. The first option describes what the veto does *not* do — it is the mechanism by which a single state can block action, deliberately."
+      "explanation": "The final paragraph describes exactly this design and frames it as addressing the League's actual defect. Option {{0}} describes what the veto does *not* do — it is the mechanism by which a single state can block action, deliberately."
     },
     {
       "id": "euc-rc-p14-4",
@@ -1758,7 +2008,7 @@
         "Communiqués should be drafted in a single language"
       ],
       "answer": 1,
-      "explanation": "The passage stresses that 'every word will be rendered correctly' and yet the resulting text 'misinforms its reader about the only thing that mattered.' The failure is at the level of convention, not vocabulary — which is why the third option misses."
+      "explanation": "The passage stresses that 'every word will be rendered correctly' and yet the resulting text 'misinforms its reader about the only thing that mattered.' The failure is at the level of convention, not vocabulary — which is why option {{2}} misses."
     },
     {
       "id": "euc-rc-p15-3",
@@ -1773,7 +2023,7 @@
         "The translator's familiarity with the subject matter"
       ],
       "answer": 1,
-      "explanation": "The final paragraph states that difficulty tracks 'not linguistic complexity but the density of convention.' The first and third options name precisely the factors the passage rules out."
+      "explanation": "The final paragraph states that difficulty tracks 'not linguistic complexity but the density of convention.' Options {{0,2}} name precisely the factors the passage rules out."
     },
     {
       "id": "euc-rc-p15-4",
@@ -1790,7 +2040,6 @@
       "answer": 1,
       "explanation": "The concession strengthens the author's later argument by showing the position is not defended reflexively. Reading a candid concession as hostility mistakes intellectual honesty for an attack."
     },
-
     {
       "id": "euc-rc-p16-1",
       "subtopic": "reading_comprehension",
@@ -2224,7 +2473,7 @@
         "Identical to states"
       ],
       "answer": 1,
-      "explanation": "The passage assigns this view to the second camp and notes it has dominated academic writing since the 1980s. The first option describes the rival primordialist position."
+      "explanation": "The passage assigns this view to the second camp and notes it has dominated academic writing since the 1980s. Option {{0}} describes the rival primordialist position."
     },
     {
       "id": "euc-rc-p23-2",
@@ -2389,7 +2638,7 @@
         "More detailed than existing treaty law"
       ],
       "answer": 1,
-      "explanation": "The passage explicitly says 'these statements are not empty' and identifies their function as providing a measuring standard. That is a limited but genuine role, which the first option denies."
+      "explanation": "The passage explicitly says 'these statements are not empty' and identifies their function as providing a measuring standard. That is a limited but genuine role, which option {{0}} denies."
     },
     {
       "id": "euc-rc-p26-1",
@@ -2554,7 +2803,7 @@
         "The theory has been abandoned by scholars"
       ],
       "answer": 1,
-      "explanation": "The final paragraph draws exactly this contrast, adding that spillover has repeatedly occurred but produced technical coordination among governments rather than shared identity. The third option contradicts the text directly."
+      "explanation": "The final paragraph draws exactly this contrast, adding that spillover has repeatedly occurred but produced technical coordination among governments rather than shared identity. Option {{2}} contradicts the text directly."
     },
     {
       "id": "euc-rc-p28-4",
@@ -2811,13 +3060,17 @@
       "answer": 1,
       "explanation": "The closing states that none of the analysis argues against liberalization, while calling the treatment of compensation as a footnote 'a serious and repeated mistake.' The criticism is of framing, not of the policy."
     },
-
     {
       "id": "euc-gra-027",
       "subtopic": "grammar",
       "difficulty": 2,
       "stem": "The working group presented ___ findings to the assembled delegations.",
-      "choices": ["it's", "its", "their's", "its'"],
+      "choices": [
+        "it's",
+        "its",
+        "their's",
+        "its'"
+      ],
       "answer": 1,
       "explanation": "'Its' is the possessive form of 'it,' and possessive pronouns never take an apostrophe. 'It's' is the contraction of 'it is,' while 'its'' and 'their's' are not words in standard English."
     },
@@ -2826,7 +3079,12 @@
       "subtopic": "grammar",
       "difficulty": 3,
       "stem": "The ambassador, together with her senior staff, ___ scheduled to depart Thursday.",
-      "choices": ["are", "is", "were", "have been"],
+      "choices": [
+        "are",
+        "is",
+        "were",
+        "have been"
+      ],
       "answer": 1,
       "explanation": "'Together with' introduces a parenthetical phrase rather than compounding the subject, which remains the singular 'ambassador.' Only 'and' creates a plural compound subject."
     },
@@ -2835,7 +3093,12 @@
       "subtopic": "grammar",
       "difficulty": 2,
       "stem": "The report described the negotiations as tense but ultimately ___.",
-      "choices": ["productive", "productively", "production", "producing"],
+      "choices": [
+        "productive",
+        "productively",
+        "production",
+        "producing"
+      ],
       "answer": 0,
       "explanation": "The word is a predicate adjective paired with 'tense,' so it must be an adjective for the parallel to hold. 'Productively' is an adverb and would have nothing to modify in this construction."
     },
@@ -2844,7 +3107,12 @@
       "subtopic": "grammar",
       "difficulty": 3,
       "stem": "It was she ___ drafted the original language of the annex.",
-      "choices": ["whom", "who", "which", "whose"],
+      "choices": [
+        "whom",
+        "who",
+        "which",
+        "whose"
+      ],
       "answer": 1,
       "explanation": "'Who' is the subject of the verb 'drafted,' so the subjective case is required. The preceding 'It was she' is itself a clue: the sentence has already used the subjective 'she' rather than 'her.'"
     },
@@ -2867,17 +3135,26 @@
       "subtopic": "grammar",
       "difficulty": 3,
       "stem": "Neither the drafting committee nor the legal advisers ___ willing to reopen the text.",
-      "choices": ["was", "is", "were", "has been"],
+      "choices": [
+        "was",
+        "is",
+        "were",
+        "has been"
+      ],
       "answer": 2,
       "explanation": "With 'neither...nor,' the verb agrees with the nearer subject — the plural 'legal advisers' — giving 'were.' Reversing the two subjects would make 'was' correct instead."
     },
-
     {
       "id": "euc-usa-021",
       "subtopic": "usage_diction",
       "difficulty": 2,
       "stem": "The ministry declined to comment, citing the ___ nature of the negotiations.",
-      "choices": ["sensitive", "sensible", "sensory", "sensational"],
+      "choices": [
+        "sensitive",
+        "sensible",
+        "sensory",
+        "sensational"
+      ],
       "answer": 0,
       "explanation": "'Sensitive' means requiring discretion, which fits ongoing negotiations. 'Sensible' means showing good judgment — the two share a root and are among the most commonly confused adjectives in formal writing."
     },
@@ -2886,7 +3163,12 @@
       "subtopic": "usage_diction",
       "difficulty": 3,
       "stem": "The report's recommendations were largely ___, repeating conclusions reached in three earlier studies.",
-      "choices": ["redundant", "abundant", "resurgent", "reluctant"],
+      "choices": [
+        "redundant",
+        "abundant",
+        "resurgent",
+        "reluctant"
+      ],
       "answer": 0,
       "explanation": "'Redundant' means superfluous through repetition, which the clause after the comma defines. 'Abundant' means plentiful and carries no implication of needless duplication, which is the sentence's actual point."
     },
@@ -2895,7 +3177,12 @@
       "subtopic": "usage_diction",
       "difficulty": 3,
       "stem": "The delegation sought to ___ the dispute before it reached arbitration.",
-      "choices": ["defuse", "diffuse", "refuse", "confuse"],
+      "choices": [
+        "defuse",
+        "diffuse",
+        "refuse",
+        "confuse"
+      ],
       "answer": 0,
       "explanation": "'Defuse' means to remove the danger from, as with a bomb. 'Diffuse' means to spread out — the two are near-homophones and the wrong one appears often enough in published prose to have become a standard usage note."
     },
@@ -2904,7 +3191,12 @@
       "subtopic": "usage_diction",
       "difficulty": 2,
       "stem": "The officer's account differed ___ that of the other witnesses.",
-      "choices": ["than", "from", "to", "with"],
+      "choices": [
+        "than",
+        "from",
+        "to",
+        "with"
+      ],
       "answer": 1,
       "explanation": "The idiom is 'differ from' when contrasting things. 'Differ with' exists but means to disagree with a person, which does not fit an account being contrasted with other accounts."
     },
@@ -2913,11 +3205,15 @@
       "subtopic": "usage_diction",
       "difficulty": 3,
       "stem": "The agreement was signed by the parties ___ to the dispute.",
-      "choices": ["principle", "principal", "principled", "principally"],
+      "choices": [
+        "principle",
+        "principal",
+        "principled",
+        "principally"
+      ],
       "answer": 1,
       "explanation": "'Principal' as an adjective means main or primary. 'Principle' is only ever a noun meaning a fundamental rule — the mnemonic is that a principle is a rule, and every other sense takes the -pal spelling."
     },
-
     {
       "id": "euc-str-021",
       "subtopic": "sentence_structure",
@@ -2944,7 +3240,7 @@
         "The treaty which was signed in 1998, remains in force."
       ],
       "answer": 1,
-      "explanation": "A nonrestrictive clause introduced by 'which' takes commas on both sides. Options three and four supply only one comma, which strands the clause and leaves the sentence unbalanced."
+      "explanation": "A nonrestrictive clause introduced by 'which' takes commas on both sides. Options {{2,3}} supply only one comma, which strands the clause and leaves the sentence unbalanced."
     },
     {
       "id": "euc-str-023",
@@ -2958,7 +3254,7 @@
         "The report, reviewed and revised by the section, and forwarded to the front office."
       ],
       "answer": 0,
-      "explanation": "Naming the actor once and giving it three parallel active verbs cuts the sentence roughly in half. The third option dangles the participial phrase on 'forwarding,' and the fourth has no main verb at all."
+      "explanation": "Naming the actor once and giving it three parallel active verbs cuts the sentence roughly in half. Option {{2}} dangles the participial phrase on 'forwarding,' and the fourth has no main verb at all."
     },
     {
       "id": "euc-str-024",
@@ -2972,15 +3268,19 @@
         "The vote was postponed, therefore the delegates could not reach quorum."
       ],
       "answer": 1,
-      "explanation": "Subordinating with 'because' resolves the fusion and states the causal relationship. The fourth option both splices and reverses the causation — the quorum failure caused the postponement, not the reverse."
+      "explanation": "Subordinating with 'because' resolves the fusion and states the causal relationship. Option {{3}} both splices and reverses the causation — the quorum failure caused the postponement, not the reverse."
     },
-
     {
       "id": "euc-org-015",
       "subtopic": "organization_clarity",
       "difficulty": 2,
       "stem": "Which transition best fits? 'The pilot program met all of its stated targets. ___, the ministry declined to expand it.'",
-      "choices": ["Accordingly", "Even so", "Consequently", "As a result"],
+      "choices": [
+        "Accordingly",
+        "Even so",
+        "Consequently",
+        "As a result"
+      ],
       "answer": 1,
       "explanation": "Declining to expand a successful program defeats the expectation the first sentence creates, so a concessive transition is required. The other three all assert that the decision followed logically from the success, which inverts the relationship."
     },
@@ -2989,7 +3289,12 @@
       "subtopic": "organization_clarity",
       "difficulty": 3,
       "stem": "Four sentences are to form a paragraph. Which should come last? (1) The section has since recovered most of the delay. (2) A software migration in March disabled the case-tracking system for nine days. (3) Adjudications fell to roughly a third of their normal rate during the outage. (4) Backlogs accumulated across all visa categories.",
-      "choices": ["Sentence 1", "Sentence 2", "Sentence 3", "Sentence 4"],
+      "choices": [
+        "Sentence 1",
+        "Sentence 2",
+        "Sentence 3",
+        "Sentence 4"
+      ],
       "answer": 0,
       "explanation": "Sentence 1's 'since' marks it as the resolution, which must follow the problem it resolves. Sentence 2 supplies the cause, and 3 and 4 describe consequences that must precede any recovery."
     },
@@ -3021,13 +3326,17 @@
       "answer": 2,
       "explanation": "The false-positive rate is a technical performance statistic, and citing it as within tolerance neither supports nor advances a claim about institutional failure. The other three all describe organizational breakdowns despite the technology working."
     },
-
     {
       "id": "euc-gra-033",
       "subtopic": "grammar",
       "difficulty": 2,
       "stem": "The minister, as well as her two deputies, ___ attending the reception.",
-      "choices": ["are", "is", "were", "have been"],
+      "choices": [
+        "are",
+        "is",
+        "were",
+        "have been"
+      ],
       "answer": 1,
       "explanation": "'As well as' introduces a parenthetical phrase and does not compound the subject, which remains the singular 'minister.' Only 'and' creates a plural compound subject."
     },
@@ -3036,7 +3345,12 @@
       "subtopic": "grammar",
       "difficulty": 3,
       "stem": "The consul asked the applicants to submit ___ documents before the deadline.",
-      "choices": ["there", "their", "they're", "theirs"],
+      "choices": [
+        "there",
+        "their",
+        "they're",
+        "theirs"
+      ],
       "answer": 1,
       "explanation": "'Their' is the possessive determiner modifying 'documents.' 'There' indicates place, 'they're' is the contraction of 'they are,' and 'theirs' is a possessive pronoun that cannot precede a noun."
     },
@@ -3045,7 +3359,12 @@
       "subtopic": "grammar",
       "difficulty": 2,
       "stem": "The economic section reported that inflation ___ steadily since March.",
-      "choices": ["rises", "has risen", "rose", "will rise"],
+      "choices": [
+        "rises",
+        "has risen",
+        "rose",
+        "will rise"
+      ],
       "answer": 1,
       "explanation": "'Since March' marks a period continuing to the present, which requires the present perfect. The simple past 'rose' would describe a completed event rather than an ongoing trend."
     },
@@ -3054,7 +3373,12 @@
       "subtopic": "grammar",
       "difficulty": 3,
       "stem": "It is essential that every officer ___ the security briefing before departure.",
-      "choices": ["attends", "attend", "attended", "will attend"],
+      "choices": [
+        "attends",
+        "attend",
+        "attended",
+        "will attend"
+      ],
       "answer": 1,
       "explanation": "'It is essential that' triggers the subjunctive, which takes the bare infinitive regardless of subject. The same construction governs 'it is imperative that he be present' and 'we ask that she remain.'"
     },
@@ -3063,7 +3387,12 @@
       "subtopic": "grammar",
       "difficulty": 2,
       "stem": "The delegation could not agree on ___ should lead the working group.",
-      "choices": ["whom", "who", "whomever", "which"],
+      "choices": [
+        "whom",
+        "who",
+        "whomever",
+        "which"
+      ],
       "answer": 1,
       "explanation": "'Who' is the subject of 'should lead' within the noun clause; the preposition 'on' governs the entire clause rather than the pronoun alone. Substituting 'he should lead' confirms the subjective case."
     },
@@ -3072,7 +3401,12 @@
       "subtopic": "grammar",
       "difficulty": 2,
       "stem": "Each of the three sections ___ submitted its portion of the report.",
-      "choices": ["have", "has", "were", "are"],
+      "choices": [
+        "have",
+        "has",
+        "were",
+        "are"
+      ],
       "answer": 1,
       "explanation": "'Each' is singular, so the verb is 'has'; the intervening 'of the three sections' does not change the subject's number. The singular 'its' later in the sentence confirms the agreement."
     },
@@ -3081,7 +3415,12 @@
       "subtopic": "grammar",
       "difficulty": 3,
       "stem": "Were the treaty ___ today, ratification would still take months.",
-      "choices": ["signed", "sign", "signing", "signs"],
+      "choices": [
+        "signed",
+        "sign",
+        "signing",
+        "signs"
+      ],
       "answer": 0,
       "explanation": "The inverted 'were... signed' is a present counterfactual requiring the past participle, paired with 'would' in the result clause. This construction is the formal equivalent of 'if the treaty were signed today.'"
     },
@@ -3090,7 +3429,12 @@
       "subtopic": "grammar",
       "difficulty": 2,
       "stem": "The report was more thorough than ___ the previous year.",
-      "choices": ["them", "they", "it was", "those"],
+      "choices": [
+        "them",
+        "they",
+        "it was",
+        "those"
+      ],
       "answer": 2,
       "explanation": "The comparison is between two reports, so the second term needs a matching singular clause. 'Them' and 'those' are plural and would have no antecedent in the sentence."
     },
@@ -3099,7 +3443,12 @@
       "subtopic": "grammar",
       "difficulty": 3,
       "stem": "Neither of the two proposals ___ the committee's stated criteria.",
-      "choices": ["meet", "meets", "have met", "are meeting"],
+      "choices": [
+        "meet",
+        "meets",
+        "have met",
+        "are meeting"
+      ],
       "answer": 1,
       "explanation": "'Neither' used as a pronoun is singular and takes 'meets.' The plural 'proposals' inside the prepositional phrase is a distractor rather than the subject."
     },
@@ -3108,7 +3457,12 @@
       "subtopic": "grammar",
       "difficulty": 2,
       "stem": "The ambassador spoke to the press ___ than her predecessor had.",
-      "choices": ["more frequent", "more frequently", "most frequently", "frequenter"],
+      "choices": [
+        "more frequent",
+        "more frequently",
+        "most frequently",
+        "frequenter"
+      ],
       "answer": 1,
       "explanation": "The word modifies the verb 'spoke,' so it must be an adverb, and a two-item comparison requires the comparative rather than the superlative form."
     },
@@ -3117,7 +3471,12 @@
       "subtopic": "grammar",
       "difficulty": 3,
       "stem": "The officer, along with several colleagues, ___ been reassigned.",
-      "choices": ["have", "has", "were", "are"],
+      "choices": [
+        "have",
+        "has",
+        "were",
+        "are"
+      ],
       "answer": 1,
       "explanation": "'Along with' is parenthetical, leaving 'officer' as the singular subject. The pattern matches 'together with,' 'as well as,' and 'in addition to' — none of which compound the subject."
     },
@@ -3126,7 +3485,12 @@
       "subtopic": "grammar",
       "difficulty": 2,
       "stem": "The committee will announce ___ decision on Friday.",
-      "choices": ["their", "its", "it's", "there"],
+      "choices": [
+        "their",
+        "its",
+        "it's",
+        "there"
+      ],
       "answer": 1,
       "explanation": "'Committee' is a collective noun taking singular agreement in American usage, so the possessive is 'its.' British usage often prefers 'their,' but the FSOT follows American conventions."
     },
@@ -3135,7 +3499,12 @@
       "subtopic": "grammar",
       "difficulty": 3,
       "stem": "The analyst recommended that the finding ___ withheld pending verification.",
-      "choices": ["is", "was", "be", "would be"],
+      "choices": [
+        "is",
+        "was",
+        "be",
+        "would be"
+      ],
       "answer": 2,
       "explanation": "'Recommend that' takes the subjunctive, using the bare infinitive 'be.' Verbs of demanding, insisting, proposing, and requiring all govern this construction."
     },
@@ -3144,7 +3513,12 @@
       "subtopic": "grammar",
       "difficulty": 2,
       "stem": "Statistics on migration ___ published annually by the ministry.",
-      "choices": ["is", "are", "has been", "was"],
+      "choices": [
+        "is",
+        "are",
+        "has been",
+        "was"
+      ],
       "answer": 1,
       "explanation": "Here 'statistics' means numerical data and takes a plural verb. The word is singular only when it names the academic discipline, as in 'statistics is a demanding field.'"
     },
@@ -3167,7 +3541,12 @@
       "subtopic": "grammar",
       "difficulty": 2,
       "stem": "The two governments settled the dispute ___ themselves without mediation.",
-      "choices": ["among", "between", "amongst", "within"],
+      "choices": [
+        "among",
+        "between",
+        "amongst",
+        "within"
+      ],
       "answer": 1,
       "explanation": "'Between' governs two parties; 'among' is used for three or more. The distinction is worth preserving because it silently tells the reader how many parties are involved."
     },
@@ -3176,7 +3555,12 @@
       "subtopic": "grammar",
       "difficulty": 3,
       "stem": "Not only ___ the deadline missed, but the revised text was also incomplete.",
-      "choices": ["the section was", "was the section", "the section", "had the section"],
+      "choices": [
+        "the section was",
+        "was the section",
+        "the section",
+        "had the section"
+      ],
       "answer": 1,
       "explanation": "A sentence opening with 'not only' requires subject-verb inversion in that clause. The uninverted 'not only the section was' is a common error in otherwise careful writing."
     },
@@ -3185,7 +3569,12 @@
       "subtopic": "grammar",
       "difficulty": 2,
       "stem": "The findings were shared with the ambassador and ___.",
-      "choices": ["I", "me", "myself", "mine"],
+      "choices": [
+        "I",
+        "me",
+        "myself",
+        "mine"
+      ],
       "answer": 1,
       "explanation": "The pronoun is the object of the preposition 'with,' so the objective 'me' is required. 'Myself' is reflexive and needs an antecedent in the same clause, which this sentence does not supply."
     },
@@ -3194,7 +3583,12 @@
       "subtopic": "grammar",
       "difficulty": 3,
       "stem": "The cable, which ___ drafted overnight, reached Washington by morning.",
-      "choices": ["were", "was", "have been", "are"],
+      "choices": [
+        "were",
+        "was",
+        "have been",
+        "are"
+      ],
       "answer": 1,
       "explanation": "'Which' refers to the singular 'cable,' so the verb is singular. Relative pronouns take the number of their antecedent, not of any nearer noun."
     },
@@ -3203,7 +3597,12 @@
       "subtopic": "grammar",
       "difficulty": 2,
       "stem": "The number of pending applications ___ fallen sharply.",
-      "choices": ["have", "has", "were", "are"],
+      "choices": [
+        "have",
+        "has",
+        "were",
+        "are"
+      ],
       "answer": 1,
       "explanation": "'The number of' is singular; 'a number of' is plural. The difference turns entirely on the article, which is why the pair is worth memorizing rather than reasoning through."
     },
@@ -3226,7 +3625,12 @@
       "subtopic": "grammar",
       "difficulty": 2,
       "stem": "The policy affects everyone ___ holds a diplomatic passport.",
-      "choices": ["whom", "who", "which", "whose"],
+      "choices": [
+        "whom",
+        "who",
+        "which",
+        "whose"
+      ],
       "answer": 1,
       "explanation": "'Who' is the subject of 'holds' in the relative clause. A quick test is substitution: 'he holds a diplomatic passport' takes the subjective form."
     },
@@ -3235,7 +3639,12 @@
       "subtopic": "grammar",
       "difficulty": 3,
       "stem": "The delegation had hoped to have completed the review, but the schedule ___ it impossible.",
-      "choices": ["make", "made", "makes", "had made"],
+      "choices": [
+        "make",
+        "made",
+        "makes",
+        "had made"
+      ],
       "answer": 1,
       "explanation": "The main clause is in the past ('had hoped'), so the coordinated clause takes the simple past 'made.' The past perfect 'had made' would place the schedule's effect before the hoping, reversing the sequence."
     },
@@ -3244,7 +3653,12 @@
       "subtopic": "grammar",
       "difficulty": 2,
       "stem": "Politics ___ an unavoidable element of every posting.",
-      "choices": ["are", "is", "were", "have been"],
+      "choices": [
+        "are",
+        "is",
+        "were",
+        "have been"
+      ],
       "answer": 1,
       "explanation": "'Politics' takes a singular verb when it denotes the general subject or activity. It is plural only in constructions like 'his politics are unclear,' where it means someone's particular views."
     },
@@ -3253,7 +3667,12 @@
       "subtopic": "grammar",
       "difficulty": 3,
       "stem": "The report identified three risks, ___ of which had been anticipated.",
-      "choices": ["none", "no one", "nothing", "neither"],
+      "choices": [
+        "none",
+        "no one",
+        "nothing",
+        "neither"
+      ],
       "answer": 0,
       "explanation": "'None of which' is the correct partitive with three items. 'Neither' applies only to exactly two, and 'no one' and 'nothing' cannot take the 'of which' construction."
     },
@@ -3262,7 +3681,12 @@
       "subtopic": "grammar",
       "difficulty": 2,
       "stem": "The consul general, together with the section chiefs, ___ the visiting delegation.",
-      "choices": ["greet", "greets", "have greeted", "are greeting"],
+      "choices": [
+        "greet",
+        "greets",
+        "have greeted",
+        "are greeting"
+      ],
       "answer": 1,
       "explanation": "'Together with' does not compound the subject, so the singular 'consul general' governs the verb. Replacing the phrase with a comma-free reading makes the agreement obvious."
     },
@@ -3271,7 +3695,12 @@
       "subtopic": "grammar",
       "difficulty": 3,
       "stem": "If the ministry ___ more transparent, public confidence might improve.",
-      "choices": ["was", "were", "is", "had been"],
+      "choices": [
+        "was",
+        "were",
+        "is",
+        "had been"
+      ],
       "answer": 1,
       "explanation": "A present hypothetical contrary to fact takes the subjunctive 'were' regardless of subject number, paired with 'might' in the result clause. 'Was' would state a past fact rather than a hypothetical."
     },
@@ -3280,7 +3709,12 @@
       "subtopic": "grammar",
       "difficulty": 2,
       "stem": "Every one of the recommendations ___ been implemented.",
-      "choices": ["have", "has", "were", "are"],
+      "choices": [
+        "have",
+        "has",
+        "were",
+        "are"
+      ],
       "answer": 1,
       "explanation": "'Every one' singles out individual items and is singular. Note the two-word spelling: 'everyone' as one word refers to people and would not fit this sentence."
     },
@@ -3289,7 +3723,12 @@
       "subtopic": "grammar",
       "difficulty": 3,
       "stem": "The section chief prefers that reporting cables ___ concise.",
-      "choices": ["are", "be", "were", "will be"],
+      "choices": [
+        "are",
+        "be",
+        "were",
+        "will be"
+      ],
       "answer": 1,
       "explanation": "'Prefer that' belongs to the family of verbs governing the subjunctive, which uses the bare infinitive. The indicative 'are' would report a fact rather than express a preference."
     },
@@ -3298,7 +3737,12 @@
       "subtopic": "grammar",
       "difficulty": 2,
       "stem": "The embassy has fewer local staff ___ it did a decade ago.",
-      "choices": ["then", "than", "as", "that"],
+      "choices": [
+        "then",
+        "than",
+        "as",
+        "that"
+      ],
       "answer": 1,
       "explanation": "'Than' introduces the second term of a comparison; 'then' marks sequence in time. The pair is among the most frequently confused in written English precisely because they are near-homophones."
     },
@@ -3307,17 +3751,26 @@
       "subtopic": "grammar",
       "difficulty": 3,
       "stem": "The delegates, most of ___ had traveled overnight, requested a later start.",
-      "choices": ["who", "whom", "which", "them"],
+      "choices": [
+        "who",
+        "whom",
+        "which",
+        "them"
+      ],
       "answer": 1,
       "explanation": "'Whom' is the object of the preposition 'of.' 'Them' would create a comma splice by making the clause independent, and 'which' cannot refer to people."
     },
-
     {
       "id": "euc-usa-026",
       "subtopic": "usage_diction",
       "difficulty": 2,
       "stem": "The ministry's response had little ___ on the outcome of the talks.",
-      "choices": ["affect", "effect", "effected", "affective"],
+      "choices": [
+        "affect",
+        "effect",
+        "effected",
+        "affective"
+      ],
       "answer": 1,
       "explanation": "A noun follows 'little,' and the noun form is 'effect.' 'Affect' is the ordinary verb meaning to influence; its noun use is confined to psychology."
     },
@@ -3326,7 +3779,12 @@
       "subtopic": "usage_diction",
       "difficulty": 3,
       "stem": "The negotiator's position was ___ — she would not move regardless of the inducement offered.",
-      "choices": ["adamant", "adamantine", "ardent", "arduous"],
+      "choices": [
+        "adamant",
+        "adamantine",
+        "ardent",
+        "arduous"
+      ],
       "answer": 0,
       "explanation": "'Adamant' means unyielding, which the clause after the dash defines. 'Arduous' means difficult and describes a task rather than a stance; 'ardent' means passionate, which is not the same as immovable."
     },
@@ -3335,7 +3793,12 @@
       "subtopic": "usage_diction",
       "difficulty": 2,
       "stem": "The two accounts of the meeting were largely ___, differing only in minor details.",
-      "choices": ["consistent", "consequent", "constant", "consonant"],
+      "choices": [
+        "consistent",
+        "consequent",
+        "constant",
+        "consonant"
+      ],
       "answer": 0,
       "explanation": "'Consistent' means free of contradiction, which the second clause confirms. 'Consonant' can mean in agreement but is used of things harmonizing with a principle rather than of two accounts matching."
     },
@@ -3344,7 +3807,12 @@
       "subtopic": "usage_diction",
       "difficulty": 3,
       "stem": "The ambassador sought to ___ concerns that the policy signaled a broader shift.",
-      "choices": ["allay", "alley", "ally", "alloy"],
+      "choices": [
+        "allay",
+        "alley",
+        "ally",
+        "alloy"
+      ],
       "answer": 0,
       "explanation": "'Allay' means to reduce or calm, and 'allay concerns' is the standard collocation. The other three are unrelated words that happen to be near-homophones."
     },
@@ -3353,7 +3821,12 @@
       "subtopic": "usage_diction",
       "difficulty": 2,
       "stem": "The agreement will ___ the existing memorandum of understanding.",
-      "choices": ["supersede", "supercede", "surpass", "suspend"],
+      "choices": [
+        "supersede",
+        "supercede",
+        "surpass",
+        "suspend"
+      ],
       "answer": 0,
       "explanation": "'Supersede' means to replace and take the place of; note the -sede ending, which is unique to this word in English. 'Surpass' means to exceed in degree, which is not what a replacing instrument does."
     },
@@ -3362,7 +3835,12 @@
       "subtopic": "usage_diction",
       "difficulty": 3,
       "stem": "The proposal was rejected on ___ grounds rather than for any substantive objection.",
-      "choices": ["procedural", "proceeding", "precedential", "preceding"],
+      "choices": [
+        "procedural",
+        "proceeding",
+        "precedential",
+        "preceding"
+      ],
       "answer": 0,
       "explanation": "'Procedural' refers to process, which the sentence contrasts with substance. 'Precedential' means establishing a precedent — a different concept that would not stand in opposition to substantive."
     },
@@ -3371,7 +3849,12 @@
       "subtopic": "usage_diction",
       "difficulty": 2,
       "stem": "The delegation's arrival was ___ by fog at the airport.",
-      "choices": ["delayed", "deluded", "diluted", "deluged"],
+      "choices": [
+        "delayed",
+        "deluded",
+        "diluted",
+        "deluged"
+      ],
       "answer": 0,
       "explanation": "'Delayed' means postponed, which fog plainly causes. The other options — deceived, weakened by dilution, and flooded — are near-homophones with unrelated meanings."
     },
@@ -3380,7 +3863,12 @@
       "subtopic": "usage_diction",
       "difficulty": 3,
       "stem": "The report drew a clear ___ between advocacy and analysis.",
-      "choices": ["distinction", "distinctive", "distraction", "discretion"],
+      "choices": [
+        "distinction",
+        "distinctive",
+        "distraction",
+        "discretion"
+      ],
       "answer": 0,
       "explanation": "'Draw a distinction' is the fixed idiom for marking a difference. 'Distinctive' is an adjective and cannot serve as the object of 'drew.'"
     },
@@ -3389,7 +3877,12 @@
       "subtopic": "usage_diction",
       "difficulty": 2,
       "stem": "The officer was asked to ___ the substance of a lengthy report for the ambassador.",
-      "choices": ["summarize", "surmise", "summon", "sublimate"],
+      "choices": [
+        "summarize",
+        "surmise",
+        "summon",
+        "sublimate"
+      ],
       "answer": 0,
       "explanation": "'Summarize' means to state concisely. 'Surmise' means to guess without evidence — the reverse of what a summary should do, which makes it the most tempting wrong answer."
     },
@@ -3398,7 +3891,12 @@
       "subtopic": "usage_diction",
       "difficulty": 3,
       "stem": "The minister's remarks were ___ enough to satisfy both factions.",
-      "choices": ["equivocal", "unequivocal", "equitable", "equivalent"],
+      "choices": [
+        "equivocal",
+        "unequivocal",
+        "equitable",
+        "equivalent"
+      ],
       "answer": 0,
       "explanation": "'Equivocal' means open to more than one interpretation, which is what permits both factions to be satisfied. 'Unequivocal' means precisely the opposite and would have forced a choice between them."
     },
@@ -3407,7 +3905,12 @@
       "subtopic": "usage_diction",
       "difficulty": 2,
       "stem": "The two ministries operate under ___ mandates that occasionally overlap.",
-      "choices": ["discrete", "discreet", "discretionary", "descriptive"],
+      "choices": [
+        "discrete",
+        "discreet",
+        "discretionary",
+        "descriptive"
+      ],
       "answer": 0,
       "explanation": "'Discrete' means separate and distinct. 'Discreet' means careful about revealing information — the two are homophones, and this pair appears on virtually every usage list."
     },
@@ -3416,7 +3919,12 @@
       "subtopic": "usage_diction",
       "difficulty": 3,
       "stem": "The consul was praised for her ___ in handling a sensitive family matter.",
-      "choices": ["discreet", "discrete", "decorous", "decorated"],
+      "choices": [
+        "discreet",
+        "discrete",
+        "decorous",
+        "decorated"
+      ],
       "answer": 0,
       "explanation": "Here the sense required is careful about disclosure, which is 'discreet.' This item is the deliberate mirror of the preceding one — the same homophone pair, with the other member correct."
     },
@@ -3425,7 +3933,12 @@
       "subtopic": "usage_diction",
       "difficulty": 2,
       "stem": "The new procedures are expected to ___ processing times considerably.",
-      "choices": ["reduce", "deduce", "induce", "seduce"],
+      "choices": [
+        "reduce",
+        "deduce",
+        "induce",
+        "seduce"
+      ],
       "answer": 0,
       "explanation": "'Reduce' means to decrease, which fits processing times. 'Deduce' means to infer from evidence and 'induce' to bring about — both plausible-looking but semantically wrong here."
     },
@@ -3434,7 +3947,12 @@
       "subtopic": "usage_diction",
       "difficulty": 3,
       "stem": "The evidence was ___ to the question before the panel and was therefore excluded.",
-      "choices": ["irrelevant", "irreverent", "irreparable", "irresolute"],
+      "choices": [
+        "irrelevant",
+        "irreverent",
+        "irreparable",
+        "irresolute"
+      ],
       "answer": 0,
       "explanation": "'Irrelevant' means not bearing on the matter, which is why evidence would be excluded. 'Irreverent' means disrespectful — a different word entirely that is nonetheless a frequent substitution error."
     },
@@ -3443,7 +3961,12 @@
       "subtopic": "usage_diction",
       "difficulty": 2,
       "stem": "The mission's staffing has been ___ reduced over three budget cycles.",
-      "choices": ["gradually", "gradual", "graduated", "gradation"],
+      "choices": [
+        "gradually",
+        "gradual",
+        "graduated",
+        "gradation"
+      ],
       "answer": 0,
       "explanation": "The word modifies the verb phrase 'has been reduced' and must be an adverb. 'Graduated' would suggest reduction in defined steps, a claim the sentence does not make."
     },
@@ -3452,7 +3975,12 @@
       "subtopic": "usage_diction",
       "difficulty": 3,
       "stem": "The commission's findings ___ the earlier account rather than confirming it.",
-      "choices": ["contradicted", "contraindicated", "contravened", "contrasted"],
+      "choices": [
+        "contradicted",
+        "contraindicated",
+        "contravened",
+        "contrasted"
+      ],
       "answer": 0,
       "explanation": "'Contradicted' means asserted the opposite of, which the sentence sets against confirming. 'Contravened' means violated a rule or law and takes rules rather than accounts as its object."
     },
@@ -3461,7 +3989,12 @@
       "subtopic": "usage_diction",
       "difficulty": 2,
       "stem": "She was appointed to the post ___ of her predecessor's resignation.",
-      "choices": ["because", "as a result", "on account", "in light"],
+      "choices": [
+        "because",
+        "as a result",
+        "on account",
+        "in light"
+      ],
       "answer": 2,
       "explanation": "'On account of' is the complete idiomatic phrase. 'Because' requires 'because of' before a noun phrase, and 'as a result' and 'in light' would need 'of' plus different phrasing to work."
     },
@@ -3470,7 +4003,12 @@
       "subtopic": "usage_diction",
       "difficulty": 3,
       "stem": "The delegation's proposal represented a ___ improvement over the previous draft.",
-      "choices": ["marked", "remarked", "marking", "markedly"],
+      "choices": [
+        "marked",
+        "remarked",
+        "marking",
+        "markedly"
+      ],
       "answer": 0,
       "explanation": "'Marked' as an adjective means noticeable or pronounced. 'Markedly' is the adverb and cannot modify the noun 'improvement.'"
     },
@@ -3479,7 +4017,12 @@
       "subtopic": "usage_diction",
       "difficulty": 2,
       "stem": "The officer's conduct was entirely ___ with department regulations.",
-      "choices": ["compliant", "complaint", "complacent", "complicit"],
+      "choices": [
+        "compliant",
+        "complaint",
+        "complacent",
+        "complicit"
+      ],
       "answer": 0,
       "explanation": "'Compliant' means conforming to rules. 'Complaint' is a noun differing by one transposed letter, and 'complacent' means self-satisfied — both are common typing and reading slips."
     },
@@ -3488,7 +4031,12 @@
       "subtopic": "usage_diction",
       "difficulty": 3,
       "stem": "The two positions are not merely different but ___.",
-      "choices": ["incompatible", "incomparable", "incomprehensible", "incontrovertible"],
+      "choices": [
+        "incompatible",
+        "incomparable",
+        "incomprehensible",
+        "incontrovertible"
+      ],
       "answer": 0,
       "explanation": "'Incompatible' means unable to coexist, which is the escalation from mere difference the sentence sets up. 'Incomparable' means without equal — a compliment rather than a statement of conflict."
     },
@@ -3497,7 +4045,12 @@
       "subtopic": "usage_diction",
       "difficulty": 2,
       "stem": "The ministry declined to ___ on the pending investigation.",
-      "choices": ["comment", "commend", "commence", "commit"],
+      "choices": [
+        "comment",
+        "commend",
+        "commence",
+        "commit"
+      ],
       "answer": 0,
       "explanation": "'Comment on' is the idiom for offering remarks about a subject. 'Commend' means to praise and 'commence' to begin — both near-homographs with entirely different meanings."
     },
@@ -3506,11 +4059,15 @@
       "subtopic": "usage_diction",
       "difficulty": 3,
       "stem": "The provision was included at the ___ of the smaller delegations.",
-      "choices": ["behest", "bequest", "behalf", "beset"],
+      "choices": [
+        "behest",
+        "bequest",
+        "behalf",
+        "beset"
+      ],
       "answer": 0,
       "explanation": "'At the behest of' means at the request or urging of. 'Bequest' is a gift left in a will, and 'on behalf of' — a different preposition — means acting for someone rather than at their request."
     },
-
     {
       "id": "euc-str-025",
       "subtopic": "sentence_structure",
@@ -3537,7 +4094,7 @@
         "Having been reviewed, the evidence made the conclusion inescapable."
       ],
       "answer": 0,
-      "explanation": "The participial phrase must modify the subject of the main clause, and only the panel can have reviewed evidence. The second and third options leave 'conclusion' as the reviewer, and the fourth changes the meaning by making the evidence the actor."
+      "explanation": "The participial phrase must modify the subject of the main clause, and only the panel can have reviewed evidence. Options {{1,2}} leave 'conclusion' as the reviewer, and the fourth changes the meaning by making the evidence the actor."
     },
     {
       "id": "euc-str-027",
@@ -3551,7 +4108,7 @@
         "The post issues visas, consular protection, and political reporting."
       ],
       "answer": 1,
-      "explanation": "Three gerund phrases after a single 'for' produce a clean parallel series. The fourth option is not merely unparallel but ungrammatical, since a post cannot 'issue' consular protection."
+      "explanation": "Three gerund phrases after a single 'for' produce a clean parallel series. Option {{3}} is not merely unparallel but ungrammatical, since a post cannot 'issue' consular protection."
     },
     {
       "id": "euc-str-028",
@@ -3565,7 +4122,7 @@
         "Compared to the political section, the consular workload is heavier than it."
       ],
       "answer": 1,
-      "explanation": "'That of' makes the second term a workload rather than a section, so like is compared with like. The first option compares a workload to a section, and the fourth is simply ungrammatical."
+      "explanation": "'That of' makes the second term a workload rather than a section, so like is compared with like. Option {{0}} compares a workload to a section, and the fourth is simply ungrammatical."
     },
     {
       "id": "euc-str-029",
@@ -3579,7 +4136,7 @@
         "Although the deadline had passed; the application was accepted."
       ],
       "answer": 1,
-      "explanation": "A subordinate clause preceding the main clause takes a comma after it. A semicolon cannot follow a dependent clause, and the comma after 'although' in the third option separates the conjunction from its own clause."
+      "explanation": "A subordinate clause preceding the main clause takes a comma after it. A semicolon cannot follow a dependent clause, and the comma after 'although' in option {{2}} separates the conjunction from its own clause."
     },
     {
       "id": "euc-str-030",
@@ -3593,7 +4150,7 @@
         "The report, commissioned last year, and that has still not been released, is overdue."
       ],
       "answer": 0,
-      "explanation": "One relative pronoun governs both verbs, and paired commas set off the nonrestrictive clause. Mixing 'which' and 'that' for coordinated clauses, as the original and third option do, breaks the parallel."
+      "explanation": "One relative pronoun governs both verbs, and paired commas set off the nonrestrictive clause. Mixing 'which' and 'that' for coordinated clauses, as the original and option {{2}} do, breaks the parallel."
     },
     {
       "id": "euc-str-031",
@@ -3607,7 +4164,7 @@
         "The section processed one thousand nearly cases."
       ],
       "answer": 1,
-      "explanation": "'Nearly' must sit immediately before the quantity it limits. The first option modifies the verb and implies the section came close to processing but did not — a genuinely different claim."
+      "explanation": "'Nearly' must sit immediately before the quantity it limits. Option {{0}} modifies the verb and implies the section came close to processing but did not — a genuinely different claim."
     },
     {
       "id": "euc-str-032",
@@ -3621,7 +4178,7 @@
         "The delegation not only accepted the text nor proposed an alternative."
       ],
       "answer": 1,
-      "explanation": "'Neither...nor' must be followed by grammatically parallel elements — here two past-tense verbs. 'Neither' pairs only with 'nor,' which rules out the third option, and the fourth mismatches 'not only' with 'nor.'"
+      "explanation": "'Neither...nor' must be followed by grammatically parallel elements — here two past-tense verbs. 'Neither' pairs only with 'nor,' which rules out option {{2}}, and the fourth mismatches 'not only' with 'nor.'"
     },
     {
       "id": "euc-str-033",
@@ -3635,7 +4192,7 @@
         "The minister arrived, late the meeting had already begun."
       ],
       "answer": 1,
-      "explanation": "Two independent clauses require a semicolon, a period, or a comma plus coordinating conjunction. The third and fourth options merely relocate the comma without addressing the fusion."
+      "explanation": "Two independent clauses require a semicolon, a period, or a comma plus coordinating conjunction. Options {{2,3}} merely relocate the comma without addressing the fusion."
     },
     {
       "id": "euc-str-034",
@@ -3663,7 +4220,7 @@
         "The mission has three priorities, security: prosperity and values."
       ],
       "answer": 1,
-      "explanation": "A colon must follow a complete independent clause. The first option breaks the clause between the linking verb and its complement, a very common error in lists introduced by 'are' or 'include.'"
+      "explanation": "A colon must follow a complete independent clause. Option {{0}} breaks the clause between the linking verb and its complement, a very common error in lists introduced by 'are' or 'include.'"
     },
     {
       "id": "euc-str-036",
@@ -3691,7 +4248,7 @@
         "The delegation visited: Lima, Peru, Quito, Ecuador, Bogotá, Colombia."
       ],
       "answer": 1,
-      "explanation": "When list items themselves contain commas, semicolons separate the items. The first option produces a six-item list in which no reader can tell cities from countries."
+      "explanation": "When list items themselves contain commas, semicolons separate the items. Option {{0}} produces a six-item list in which no reader can tell cities from countries."
     },
     {
       "id": "euc-str-038",
@@ -3705,7 +4262,7 @@
         "While, the negotiations continued through the night, no agreement was reached."
       ],
       "answer": 0,
-      "explanation": "The subordinating conjunction 'while' makes the clause dependent, so it must attach to an independent clause with a comma. The third option relocates the fragment rather than repairing it."
+      "explanation": "The subordinating conjunction 'while' makes the clause dependent, so it must attach to an independent clause with a comma. Option {{2}} relocates the fragment rather than repairing it."
     },
     {
       "id": "euc-str-039",
@@ -3733,7 +4290,7 @@
         "Two issues—funding and staffing—remain, unresolved."
       ],
       "answer": 0,
-      "explanation": "Dashes setting off an interruption must be paired. Mixing a dash with a comma leaves the interruption unbalanced, and the fourth option adds a comma that severs the verb from its complement."
+      "explanation": "Dashes setting off an interruption must be paired. Mixing a dash with a comma leaves the interruption unbalanced, and option {{3}} adds a comma that severs the verb from its complement."
     },
     {
       "id": "euc-str-041",
@@ -3747,7 +4304,7 @@
         "The vote failed, three members, abstained."
       ],
       "answer": 1,
-      "explanation": "Subordinating with 'because' makes the second clause dependent and states the causal relation. The third option both splices and reverses the causation, since the abstentions caused the failure rather than the reverse."
+      "explanation": "Subordinating with 'because' makes the second clause dependent and states the causal relation. Option {{2}} both splices and reverses the causation, since the abstentions caused the failure rather than the reverse."
     },
     {
       "id": "euc-str-042",
@@ -3761,7 +4318,7 @@
         "Although the report identified a serious vulnerability, it was late."
       ],
       "answer": 1,
-      "explanation": "Subordination signals relative importance: placing the lateness in the dependent clause foregrounds the vulnerability. The fourth option inverts the emphasis, implying that lateness is the more significant fact."
+      "explanation": "Subordination signals relative importance: placing the lateness in the dependent clause foregrounds the vulnerability. Option {{3}} inverts the emphasis, implying that lateness is the more significant fact."
     },
     {
       "id": "euc-str-043",
@@ -3775,7 +4332,7 @@
         "The officer, who drafted the memorandum; has since departed post."
       ],
       "answer": 0,
-      "explanation": "The clause identifies which officer, making it restrictive and therefore unpunctuated. Options two and three supply only one comma, stranding the clause and separating the subject from its verb."
+      "explanation": "The clause identifies which officer, making it restrictive and therefore unpunctuated. Options {{1,2}} supply only one comma, stranding the clause and separating the subject from its verb."
     },
     {
       "id": "euc-str-044",
@@ -3789,7 +4346,7 @@
         "Both sides mutually agreed to jointly cooperate."
       ],
       "answer": 1,
-      "explanation": "Agreement between two sides is already mutual, cooperation is already joint, and repeating 'joint' before 'initiative' compounds it. Only the second option removes all three redundancies."
+      "explanation": "Agreement between two sides is already mutual, cooperation is already joint, and repeating 'joint' before 'initiative' compounds it. Only option {{1}} removes all three redundancies."
     },
     {
       "id": "euc-str-045",
@@ -3803,7 +4360,7 @@
         "Revised twice, the officer submitted the report to the ambassador."
       ],
       "answer": 2,
-      "explanation": "The relative clause must sit next to 'report,' which options two and three both achieve — but the third reads more naturally, keeping subject, verb, and object in order. The first attaches the revisions to the ambassador and the fourth to the officer."
+      "explanation": "The relative clause must sit next to 'report,' which options {{1,2}} both achieve — but the third reads more naturally, keeping subject, verb, and object in order. The first attaches the revisions to the ambassador and the fourth to the officer."
     },
     {
       "id": "euc-str-046",
@@ -3831,15 +4388,19 @@
         "The three ambassadors's residences were renovated."
       ],
       "answer": 0,
-      "explanation": "A plural noun ending in -s takes an apostrophe after the s. The second option is a singular possessive, which contradicts 'three,' and the remaining options misplace or double the marker."
+      "explanation": "A plural noun ending in -s takes an apostrophe after the s. Option {{1}} is a singular possessive, which contradicts 'three,' and the remaining options misplace or double the marker."
     },
-
     {
       "id": "euc-org-019",
       "subtopic": "organization_clarity",
       "difficulty": 2,
       "stem": "Which transition best fits? 'The agreement was signed in April. ___, implementing legislation has not been introduced.'",
-      "choices": ["Therefore", "To date", "Consequently", "As a result"],
+      "choices": [
+        "Therefore",
+        "To date",
+        "Consequently",
+        "As a result"
+      ],
       "answer": 1,
       "explanation": "The second sentence reports what has not yet happened, so a time-marking transition fits. The other three assert that the absence of legislation followed logically from the signing, which reverses the relationship."
     },
@@ -3848,7 +4409,12 @@
       "subtopic": "organization_clarity",
       "difficulty": 3,
       "stem": "Four sentences form a paragraph. Which should come second? (1) The ministry has since issued revised guidance. (2) Officers at three posts applied the standard inconsistently. (3) An internal review found the original guidance ambiguous. (4) Applicants in similar circumstances received different outcomes.",
-      "choices": ["Sentence 1", "Sentence 2", "Sentence 3", "Sentence 4"],
+      "choices": [
+        "Sentence 1",
+        "Sentence 2",
+        "Sentence 3",
+        "Sentence 4"
+      ],
       "answer": 3,
       "explanation": "Sentence 2 states the problem and sentence 4 gives its immediate consequence, which must precede the review that diagnosed the cause and the guidance that resolved it. Sentence 1's 'since' marks it as last."
     },
@@ -3885,7 +4451,12 @@
       "subtopic": "organization_clarity",
       "difficulty": 2,
       "stem": "Which transition best fits? 'Most member states supported the proposal. ___, two of the largest contributors opposed it.'",
-      "choices": ["Similarly", "However", "Furthermore", "Accordingly"],
+      "choices": [
+        "Similarly",
+        "However",
+        "Furthermore",
+        "Accordingly"
+      ],
       "answer": 1,
       "explanation": "The second sentence introduces a significant exception, requiring a contrastive transition. 'Similarly' and 'furthermore' both signal continuity, and 'accordingly' asserts consequence."
     },
@@ -3936,7 +4507,12 @@
       "subtopic": "organization_clarity",
       "difficulty": 2,
       "stem": "Which transition best fits? 'The pilot reduced processing times at every participating post. ___, the ministry plans to extend it nationwide.'",
-      "choices": ["Nevertheless", "Accordingly", "Conversely", "Although"],
+      "choices": [
+        "Nevertheless",
+        "Accordingly",
+        "Conversely",
+        "Although"
+      ],
       "answer": 1,
       "explanation": "Extension follows logically from success, so a consequential transition is required. 'Nevertheless' and 'conversely' both signal contrast, and 'although' is a subordinating conjunction that cannot open a sentence in this position."
     },
@@ -3973,7 +4549,12 @@
       "subtopic": "organization_clarity",
       "difficulty": 3,
       "stem": "Four sentences form a paragraph. Which should come first? (1) That assumption proved incorrect. (2) The forecast assumed commodity prices would remain stable. (3) Revenue fell 14 percent below projection. (4) Prices declined by nearly a third in the second quarter.",
-      "choices": ["Sentence 1", "Sentence 2", "Sentence 3", "Sentence 4"],
+      "choices": [
+        "Sentence 1",
+        "Sentence 2",
+        "Sentence 3",
+        "Sentence 4"
+      ],
       "answer": 1,
       "explanation": "Sentence 2 states the assumption without depending on anything prior. Sentence 1's 'that assumption' points backward, and sentences 4 and 3 give the falsification and its consequence in turn."
     },
@@ -3996,7 +4577,12 @@
       "subtopic": "organization_clarity",
       "difficulty": 3,
       "stem": "Which transition best fits? 'The two delegations reached agreement on tariffs. ___, the question of agricultural subsidies remains open.'",
-      "choices": ["Consequently", "That said", "Likewise", "Hence"],
+      "choices": [
+        "Consequently",
+        "That said",
+        "Likewise",
+        "Hence"
+      ],
       "answer": 1,
       "explanation": "The sentence qualifies the preceding success by naming what remains unresolved, which calls for a concessive transition. The other three all assert that the open question follows from the agreement."
     }

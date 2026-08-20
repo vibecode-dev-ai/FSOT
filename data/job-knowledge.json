@@ -21,7 +21,12 @@
       "subtopic": "us_government_history_society",
       "difficulty": 1,
       "stem": "What fraction of each chamber of Congress is required to override a presidential veto?",
-      "choices": ["A simple majority", "Three-fifths", "Two-thirds", "Three-fourths"],
+      "choices": [
+        "A simple majority",
+        "Three-fifths",
+        "Two-thirds",
+        "Three-fourths"
+      ],
       "answer": 2,
       "explanation": "Article I, Section 7 requires a two-thirds vote in both the House and the Senate to override a veto. Three-fifths is the tempting answer because it is the threshold for invoking cloture in the Senate; three-fourths is the threshold for state ratification of a constitutional amendment."
     },
@@ -37,7 +42,7 @@
         "Ratify the treaty, after which the President signs it"
       ],
       "answer": 1,
-      "explanation": "Article II, Section 2 gives the President the power to make treaties 'by and with the Advice and Consent of the Senate,' provided two-thirds of Senators present concur. The last option inverts the actual sequence: the Senate consents, but it is the President who ratifies — a distinction that matters in practice and is frequently reversed in casual usage."
+      "explanation": "Article II, Section 2 gives the President the power to make treaties 'by and with the Advice and Consent of the Senate,' provided two-thirds of Senators present concur. Option {{3}} inverts the actual sequence: the Senate consents, but it is the President who ratifies — a distinction that matters in practice and is frequently reversed in casual usage."
     },
     {
       "id": "jk-usg-004",
@@ -65,7 +70,7 @@
         "Secure United Nations Security Council approval before offensive operations"
       ],
       "answer": 1,
-      "explanation": "The Resolution imposes a 48-hour reporting requirement and a 60-day clock (extendable by 30 days for withdrawal) unless Congress authorizes continued action. The first option overstates it — the Resolution explicitly contemplates deployments without a declaration of war, which is why it creates a clock rather than a prohibition."
+      "explanation": "The Resolution imposes a 48-hour reporting requirement and a 60-day clock (extendable by 30 days for withdrawal) unless Congress authorizes continued action. Option {{0}} overstates it — the Resolution explicitly contemplates deployments without a declaration of war, which is why it creates a clock rather than a prohibition."
     },
     {
       "id": "jk-usg-006",
@@ -135,7 +140,7 @@
         "Defer to the President's interpretation of his own constitutional powers"
       ],
       "answer": 1,
-      "explanation": "Chevron U.S.A. v. NRDC (1984) established a two-step test: if a statute is ambiguous, courts defer to the administering agency's reasonable construction. The third option describes purposivism, a method of statutory interpretation rather than a deference doctrine."
+      "explanation": "Chevron U.S.A. v. NRDC (1984) established a two-step test: if a statute is ambiguous, courts defer to the administering agency's reasonable construction. Option {{2}} describes purposivism, a method of statutory interpretation rather than a deference doctrine."
     },
     {
       "id": "jk-usg-011",
@@ -205,7 +210,7 @@
         "Free navigation of the Mississippi was a vital national interest"
       ],
       "answer": 1,
-      "explanation": "Monroe warned against new European colonization or intervention in the Americas, pledging in return that the United States would not interfere in European affairs. The first option describes Manifest Destiny — a related expansionist current, but a distinct doctrine articulated two decades later."
+      "explanation": "Monroe warned against new European colonization or intervention in the Americas, pledging in return that the United States would not interfere in European affairs. Option {{0}} describes Manifest Destiny — a related expansionist current, but a distinct doctrine articulated two decades later."
     },
     {
       "id": "jk-usg-016",
@@ -275,7 +280,7 @@
         "Officers must rotate between overseas and domestic assignments"
       ],
       "answer": 1,
-      "explanation": "The Act established a competitive promotion system in which officers who fail to advance within their time-in-class window are separated. The fourth option describes the rotational assignment system, which is a real feature of the Service but a separate one."
+      "explanation": "The Act established a competitive promotion system in which officers who fail to advance within their time-in-class window are separated. Option {{3}} describes the rotational assignment system, which is a real feature of the Service but a separate one."
     },
     {
       "id": "jk-usg-021",
@@ -317,7 +322,7 @@
         "It created the diversity visa lottery"
       ],
       "answer": 1,
-      "explanation": "The Hart-Celler Act dismantled the 1924 national-origins quotas in favor of hemispheric caps and a preference system. The third option is partly true — the Act did introduce a Western Hemisphere ceiling — but that was a secondary provision, not the Act's defining change. The diversity lottery came with the Immigration Act of 1990."
+      "explanation": "The Hart-Celler Act dismantled the 1924 national-origins quotas in favor of hemispheric caps and a preference system. Option {{2}} is partly true — the Act did introduce a Western Hemisphere ceiling — but that was a secondary provision, not the Act's defining change. The diversity lottery came with the Immigration Act of 1990."
     },
     {
       "id": "jk-usg-024",
@@ -331,7 +336,7 @@
         "Decline to hear cases lacking a live controversy"
       ],
       "answer": 1,
-      "explanation": "Stare decisis — 'to stand by things decided' — is the presumption in favor of following precedent. The first option describes the political question doctrine, and the fourth describes mootness; both are separate judicial doctrines about when courts should not decide, rather than how."
+      "explanation": "Stare decisis — 'to stand by things decided' — is the presumption in favor of following precedent. Option {{0}} describes the political question doctrine, and the fourth describes mootness; both are separate judicial doctrines about when courts should not decide, rather than how."
     },
     {
       "id": "jk-usg-025",
@@ -366,7 +371,12 @@
       "subtopic": "us_government_history_society",
       "difficulty": 1,
       "stem": "How many members serve in the U.S. House of Representatives?",
-      "choices": ["100", "435", "538", "50"],
+      "choices": [
+        "100",
+        "435",
+        "538",
+        "50"
+      ],
       "answer": 1,
       "explanation": "The House has been fixed at 435 voting members since 1929. The 538 figure is the Electoral College total — 435 representatives plus 100 senators plus three electors for the District of Columbia — which is why it appears here as a distractor."
     },
@@ -382,7 +392,7 @@
         "Defend the Articles of Confederation against reform"
       ],
       "answer": 0,
-      "explanation": "Hamilton, Madison, and Jay wrote the essays under the pseudonym Publius to persuade New York to ratify the Constitution. The fourth option is precisely backwards — the Federalists were arguing that the Articles had failed."
+      "explanation": "Hamilton, Madison, and Jay wrote the essays under the pseudonym Publius to persuade New York to ratify the Constitution. Option {{3}} is precisely backwards — the Federalists were arguing that the Articles had failed."
     },
     {
       "id": "jk-usg-029",
@@ -438,7 +448,7 @@
         "Must be renewed annually by the Department of State"
       ],
       "answer": 1,
-      "explanation": "A sole executive agreement rests on the President's independent constitutional authority and bypasses the Senate. The first option describes a congressional-executive agreement, a distinct and more common instrument. Note that sole executive agreements are binding internationally — the distinction is domestic-procedural, not about legal effect."
+      "explanation": "A sole executive agreement rests on the President's independent constitutional authority and bypasses the Senate. Option {{0}} describes a congressional-executive agreement, a distinct and more common instrument. Note that sole executive agreements are binding internationally — the distinction is domestic-procedural, not about legal effect."
     },
     {
       "id": "jk-usg-033",
@@ -480,7 +490,7 @@
         "Consular officers only, with other agencies reporting to Washington directly"
       ],
       "answer": 1,
-      "explanation": "Chief of Mission authority extends across agencies at post — a defining feature of the American embassy model — with a carve-out for personnel under the command of a U.S. area military commander. The first option is the common misconception that the ambassador supervises only State Department staff."
+      "explanation": "Chief of Mission authority extends across agencies at post — a defining feature of the American embassy model — with a carve-out for personnel under the command of a U.S. area military commander. Option {{0}} is the common misconception that the ambassador supervises only State Department staff."
     },
     {
       "id": "jk-usg-036",
@@ -494,7 +504,7 @@
         "The working-age population is growing faster than the retired population"
       ],
       "answer": 1,
-      "explanation": "Declining fertility combined with longer life expectancy is raising the elderly share of the population, with significant fiscal implications for Social Security and Medicare. The fourth option describes the opposite of the trend and is what produces a 'demographic dividend' in younger societies."
+      "explanation": "Declining fertility combined with longer life expectancy is raising the elderly share of the population, with significant fiscal implications for Social Security and Medicare. Option {{3}} describes the opposite of the trend and is what produces a 'demographic dividend' in younger societies."
     },
     {
       "id": "jk-usg-037",
@@ -550,7 +560,7 @@
         "They permitted states to conduct independent foreign policy without limit"
       ],
       "answer": 1,
-      "explanation": "The Confederation Congress could requisition funds but not tax, could not regulate interstate or foreign commerce, and had no executive to enforce its decisions. The third option is only half right: the Articles did establish a unicameral Congress, though not a national judiciary."
+      "explanation": "The Confederation Congress could requisition funds but not tax, could not regulate interstate or foreign commerce, and had no executive to enforce its decisions. Option {{2}} is only half right: the Articles did establish a unicameral Congress, though not a national judiciary."
     },
     {
       "id": "jk-usg-041",
@@ -578,7 +588,7 @@
         "International treaties become domestic law"
       ],
       "answer": 1,
-      "explanation": "Selective incorporation applied most Bill of Rights guarantees against the states via the Fourteenth Amendment's Due Process Clause, case by case over the twentieth century. The fourth option describes the self-executing versus non-self-executing treaty distinction, a genuinely separate doctrine."
+      "explanation": "Selective incorporation applied most Bill of Rights guarantees against the states via the Fourteenth Amendment's Due Process Clause, case by case over the twentieth century. Option {{3}} describes the self-executing versus non-self-executing treaty distinction, a genuinely separate doctrine."
     },
     {
       "id": "jk-usg-043",
@@ -599,7 +609,12 @@
       "subtopic": "us_government_history_society",
       "difficulty": 2,
       "stem": "Which term describes a legislative provision attached to an unrelated bill to secure its passage?",
-      "choices": ["A cloture motion", "A rider", "A quorum call", "A discharge petition"],
+      "choices": [
+        "A cloture motion",
+        "A rider",
+        "A quorum call",
+        "A discharge petition"
+      ],
       "answer": 1,
       "explanation": "A rider is unrelated language attached to a bill likely to pass, often an appropriations measure. A discharge petition is the tempting procedural distractor, but it forces a bill out of committee rather than attaching provisions to another bill."
     },
@@ -615,7 +630,7 @@
         "Executive privilege is absolute in matters of national security"
       ],
       "answer": 1,
-      "explanation": "The Court struck down Truman's seizure of the steel mills. Justice Jackson's influential concurrence set out a three-tier framework in which presidential power is at its lowest ebb when acting contrary to congressional will — which is the exact inverse of the first option."
+      "explanation": "The Court struck down Truman's seizure of the steel mills. Justice Jackson's influential concurrence set out a three-tier framework in which presidential power is at its lowest ebb when acting contrary to congressional will — which is the exact inverse of option {{0}}."
     },
     {
       "id": "jk-usg-046",
@@ -643,7 +658,7 @@
         "Reauthorize an expiring federal program permanently"
       ],
       "answer": 1,
-      "explanation": "A CR provides stopgap funding, usually at prior-year levels, when Congress has not passed the regular appropriations bills. The fourth option is nearly the opposite: a CR is by definition temporary, not permanent."
+      "explanation": "A CR provides stopgap funding, usually at prior-year levels, when Congress has not passed the regular appropriations bills. Option {{3}} is nearly the opposite: a CR is by definition temporary, not permanent."
     },
     {
       "id": "jk-usg-048",
@@ -671,7 +686,7 @@
         "Provide records only to U.S. citizens"
       ],
       "answer": 1,
-      "explanation": "FOIA creates a presumption of disclosure subject to nine enumerated exemptions, including national security and deliberative process. Any person may request records — citizenship is not a requirement, which makes the fourth option a common misconception."
+      "explanation": "FOIA creates a presumption of disclosure subject to nine enumerated exemptions, including national security and deliberative process. Any person may request records — citizenship is not a requirement, which makes option {{3}} a common misconception."
     },
     {
       "id": "jk-usg-050",
@@ -699,7 +714,7 @@
         "Former officials from lobbying their agencies for a set period"
       ],
       "answer": 1,
-      "explanation": "The 1799 Logan Act criminalizes unauthorized private diplomacy. The first option describes the Hatch Act and the fourth describes post-employment restrictions under federal ethics law — a cluster of statutes about the boundaries of official conduct."
+      "explanation": "The 1799 Logan Act criminalizes unauthorized private diplomacy. Option {{0}} describes the Hatch Act and the fourth describes post-employment restrictions under federal ethics law — a cluster of statutes about the boundaries of official conduct."
     },
     {
       "id": "jk-usg-052",
@@ -713,7 +728,7 @@
         "The theory that free states and slave states should be admitted in pairs"
       ],
       "answer": 0,
-      "explanation": "Coined in 1845, Manifest Destiny expressed a providential justification for continental expansion. The third option describes isolationism and the fourth describes the balance-rule practice under the Missouri Compromise — both nineteenth-century concepts, but distinct ones."
+      "explanation": "Coined in 1845, Manifest Destiny expressed a providential justification for continental expansion. Option {{2}} describes isolationism and the fourth describes the balance-rule practice under the Missouri Compromise — both nineteenth-century concepts, but distinct ones."
     },
     {
       "id": "jk-usg-053",
@@ -741,7 +756,7 @@
         "Permit foreign consuls to try their nationals under home-country law"
       ],
       "answer": 1,
-      "explanation": "Article 36 requires consular notification upon the detention of a foreign national. The first option confuses consular relations with diplomatic immunity under the Vienna Convention on Diplomatic Relations, which covers accredited diplomats rather than all foreign nationals."
+      "explanation": "Article 36 requires consular notification upon the detention of a foreign national. Option {{0}} confuses consular relations with diplomatic immunity under the Vienna Convention on Diplomatic Relations, which covers accredited diplomats rather than all foreign nationals."
     },
     {
       "id": "jk-usg-055",
@@ -771,7 +786,6 @@
       "answer": 1,
       "explanation": "GAO is Congress's audit and investigative arm. Agency Inspectors General also audit, but they sit within their executive agencies rather than working for Congress; CRS provides policy research and analysis rather than audits."
     },
-
     {
       "id": "jk-whg-001",
       "subtopic": "world_history_geography",
@@ -819,7 +833,12 @@
       "subtopic": "world_history_geography",
       "difficulty": 3,
       "stem": "Which country does NOT border the Caspian Sea?",
-      "choices": ["Azerbaijan", "Turkmenistan", "Uzbekistan", "Kazakhstan"],
+      "choices": [
+        "Azerbaijan",
+        "Turkmenistan",
+        "Uzbekistan",
+        "Kazakhstan"
+      ],
       "answer": 2,
       "explanation": "The five Caspian littoral states are Russia, Kazakhstan, Turkmenistan, Iran, and Azerbaijan. Uzbekistan is doubly landlocked — it borders only other landlocked countries — which makes it a natural trap for anyone reasoning loosely from 'Central Asian republic.'"
     },
@@ -842,7 +861,12 @@
       "subtopic": "world_history_geography",
       "difficulty": 2,
       "stem": "Which river flows through Cairo and empties into the Mediterranean Sea?",
-      "choices": ["The Tigris", "The Nile", "The Euphrates", "The Jordan"],
+      "choices": [
+        "The Tigris",
+        "The Nile",
+        "The Euphrates",
+        "The Jordan"
+      ],
       "answer": 1,
       "explanation": "The Nile flows north from East Africa through Egypt into the Mediterranean. The Tigris and Euphrates flow through Iraq into the Persian Gulf, and the Jordan empties into the Dead Sea, which has no outlet."
     },
@@ -858,14 +882,19 @@
         "The partition of Japan among European powers"
       ],
       "answer": 1,
-      "explanation": "The Restoration ended shogunal rule and launched an aggressive modernization program that made Japan the first non-Western industrial power. The third option is exactly inverted — Meiji Japan ended the sakoku isolation policy the Tokugawa had maintained."
+      "explanation": "The Restoration ended shogunal rule and launched an aggressive modernization program that made Japan the first non-Western industrial power. Option {{2}} is exactly inverted — Meiji Japan ended the sakoku isolation policy the Tokugawa had maintained."
     },
     {
       "id": "jk-whg-008",
       "subtopic": "world_history_geography",
       "difficulty": 2,
       "stem": "Which of these is the world's largest country by land area?",
-      "choices": ["China", "Canada", "Russia", "The United States"],
+      "choices": [
+        "China",
+        "Canada",
+        "Russia",
+        "The United States"
+      ],
       "answer": 2,
       "explanation": "Russia covers roughly 17 million square kilometers, nearly twice the area of second-place Canada. Its span across eleven time zones and two continents is a persistent factor in its strategic outlook."
     },
@@ -916,7 +945,12 @@
       "subtopic": "world_history_geography",
       "difficulty": 2,
       "stem": "Which mountain range separates the Indian subcontinent from the Tibetan Plateau?",
-      "choices": ["The Andes", "The Himalayas", "The Urals", "The Caucasus"],
+      "choices": [
+        "The Andes",
+        "The Himalayas",
+        "The Urals",
+        "The Caucasus"
+      ],
       "answer": 1,
       "explanation": "The Himalayas form the boundary between South Asia and the Tibetan Plateau. The Urals are the conventional Europe-Asia divide within Russia, and the Caucasus separates Russia from Georgia, Armenia, and Azerbaijan."
     },
@@ -939,7 +973,12 @@
       "subtopic": "world_history_geography",
       "difficulty": 2,
       "stem": "Which country is the world's most populous?",
-      "choices": ["China", "India", "The United States", "Indonesia"],
+      "choices": [
+        "China",
+        "India",
+        "The United States",
+        "Indonesia"
+      ],
       "answer": 1,
       "explanation": "India surpassed China in population in 2023 according to UN estimates, with both above 1.4 billion. China is the tempting answer for anyone relying on a mental snapshot more than a few years old."
     },
@@ -962,7 +1001,12 @@
       "subtopic": "world_history_geography",
       "difficulty": 3,
       "stem": "Which of the following countries was NOT a founding member of the European Economic Community in 1957?",
-      "choices": ["France", "Italy", "The United Kingdom", "The Netherlands"],
+      "choices": [
+        "France",
+        "Italy",
+        "The United Kingdom",
+        "The Netherlands"
+      ],
       "answer": 2,
       "explanation": "The six founders were France, West Germany, Italy, Belgium, the Netherlands, and Luxembourg. The United Kingdom declined to join initially, applied twice in the 1960s, was vetoed by de Gaulle both times, and finally acceded in 1973."
     },
@@ -992,7 +1036,7 @@
         "India and Ceylon"
       ],
       "answer": 1,
-      "explanation": "Partition produced India and Pakistan, the latter comprising two territorially separate wings. East Pakistan became independent Bangladesh in 1971 — which makes the first option a chronological trap."
+      "explanation": "Partition produced India and Pakistan, the latter comprising two territorially separate wings. East Pakistan became independent Bangladesh in 1971 — which makes option {{0}} a chronological trap."
     },
     {
       "id": "jk-whg-019",
@@ -1027,7 +1071,12 @@
       "subtopic": "world_history_geography",
       "difficulty": 2,
       "stem": "The Cuban Missile Crisis occurred in which year?",
-      "choices": ["1959", "1962", "1968", "1973"],
+      "choices": [
+        "1959",
+        "1962",
+        "1968",
+        "1973"
+      ],
       "answer": 1,
       "explanation": "The thirteen-day crisis unfolded in October 1962. 1959 is the year of the Cuban Revolution itself, which makes it the most plausible wrong answer for anyone anchoring on Castro's rise rather than the missile confrontation."
     },
@@ -1043,14 +1092,19 @@
         "Franco-British competition for control of the Nile Valley"
       ],
       "answer": 0,
-      "explanation": "The Great Game denotes the strategic contest between the British and Russian empires over Central Asia, with Afghanistan as the buffer state. The fourth option describes the Fashoda Incident and its context — real, but a different rivalry in a different region."
+      "explanation": "The Great Game denotes the strategic contest between the British and Russian empires over Central Asia, with Afghanistan as the buffer state. Option {{3}} describes the Fashoda Incident and its context — real, but a different rivalry in a different region."
     },
     {
       "id": "jk-whg-023",
       "subtopic": "world_history_geography",
       "difficulty": 2,
       "stem": "Which country's capital is Canberra?",
-      "choices": ["New Zealand", "Australia", "Canada", "South Africa"],
+      "choices": [
+        "New Zealand",
+        "Australia",
+        "Canada",
+        "South Africa"
+      ],
       "answer": 1,
       "explanation": "Canberra was purpose-built as Australia's capital to resolve the rivalry between Sydney and Melbourne. Sydney is the more commonly assumed answer for the same reason that Toronto is often mistaken for Canada's capital, which is Ottawa."
     },
@@ -1066,7 +1120,7 @@
         "The Caribbean and West Africa"
       ],
       "answer": 1,
-      "explanation": "The Silk Road was a network of overland routes linking China to the Mediterranean via Central Asia and Persia. The first option describes the trans-Saharan trade routes and the third the Varangian river routes — both real long-distance networks, neither the Silk Road."
+      "explanation": "The Silk Road was a network of overland routes linking China to the Mediterranean via Central Asia and Persia. Option {{0}} describes the trans-Saharan trade routes and the third the Varangian river routes — both real long-distance networks, neither the Silk Road."
     },
     {
       "id": "jk-whg-025",
@@ -1122,7 +1176,7 @@
         "Ended the Boxer Rebellion"
       ],
       "answer": 1,
-      "explanation": "Nanking is the first of the 'unequal treaties' that defined China's century of humiliation. The first option describes the Convention of Kanagawa (1854) with Japan, and the Boxer Protocol came in 1901 — both part of the same broader story of Western pressure on East Asia."
+      "explanation": "Nanking is the first of the 'unequal treaties' that defined China's century of humiliation. Option {{0}} describes the Convention of Kanagawa (1854) with Japan, and the Boxer Protocol came in 1901 — both part of the same broader story of Western pressure on East Asia."
     },
     {
       "id": "jk-whg-029",
@@ -1143,7 +1197,12 @@
       "subtopic": "world_history_geography",
       "difficulty": 2,
       "stem": "Decolonization in Africa reached its peak in which decade?",
-      "choices": ["The 1930s", "The 1960s", "The 1980s", "The 1990s"],
+      "choices": [
+        "The 1930s",
+        "The 1960s",
+        "The 1980s",
+        "The 1990s"
+      ],
       "answer": 1,
       "explanation": "1960 alone is called the Year of Africa, with seventeen countries gaining independence. The 1990s distractor is tempting because it saw the end of apartheid in South Africa and Namibian independence — significant events, but the tail of the process rather than its peak."
     },
@@ -1159,14 +1218,19 @@
         "The separation of church and state"
       ],
       "answer": 0,
-      "explanation": "Augsburg allowed each prince to choose Lutheranism or Catholicism for his territory. The second option is the tempting modern reading — the settlement recognized no individual right of conscience, and subjects who dissented were expected to emigrate."
+      "explanation": "Augsburg allowed each prince to choose Lutheranism or Catholicism for his territory. Option {{1}} is the tempting modern reading — the settlement recognized no individual right of conscience, and subjects who dissented were expected to emigrate."
     },
     {
       "id": "jk-whg-032",
       "subtopic": "world_history_geography",
       "difficulty": 2,
       "stem": "Which South American country has the largest land area?",
-      "choices": ["Argentina", "Brazil", "Peru", "Colombia"],
+      "choices": [
+        "Argentina",
+        "Brazil",
+        "Peru",
+        "Colombia"
+      ],
       "answer": 1,
       "explanation": "Brazil covers roughly half of South America and borders every South American country except Chile and Ecuador. Argentina is second and is the natural distractor given its own considerable size."
     },
@@ -1182,7 +1246,7 @@
         "They are United Nations trust territories administered by the United States"
       ],
       "answer": 1,
-      "explanation": "The three are independent states bound to the United States by Compacts of Free Association, which grant U.S. defense responsibility and economic assistance in exchange for strategic access. They were formerly UN trust territories, which makes the fourth option a chronological trap."
+      "explanation": "The three are independent states bound to the United States by Compacts of Free Association, which grant U.S. defense responsibility and economic assistance in exchange for strategic access. They were formerly UN trust territories, which makes option {{3}} a chronological trap."
     },
     {
       "id": "jk-whg-034",
@@ -1203,11 +1267,15 @@
       "subtopic": "world_history_geography",
       "difficulty": 2,
       "stem": "Which of the following is a permanent member of the UN Security Council?",
-      "choices": ["Germany", "India", "France", "Japan"],
+      "choices": [
+        "Germany",
+        "India",
+        "France",
+        "Japan"
+      ],
       "answer": 2,
       "explanation": "The five permanent members are China, France, Russia, the United Kingdom, and the United States. Germany, India, and Japan are all long-standing candidates for permanent seats under proposed Council reform, which is exactly why they appear here as distractors."
     },
-
     {
       "id": "jk-eco-001",
       "subtopic": "economics",
@@ -1220,7 +1288,7 @@
         "The greatest natural resource endowment"
       ],
       "answer": 1,
-      "explanation": "Ricardo's insight is that gains from trade depend on relative, not absolute, cost. A country less efficient at producing everything still benefits by specializing where its opportunity cost is lowest. Confusing comparative with absolute advantage — the first option — is the single most common error in trade economics."
+      "explanation": "Ricardo's insight is that gains from trade depend on relative, not absolute, cost. A country less efficient at producing everything still benefits by specializing where its opportunity cost is lowest. Confusing comparative with absolute advantage — option {{0}} — is the single most common error in trade economics."
     },
     {
       "id": "jk-eco-002",
@@ -1234,7 +1302,7 @@
         "Unaffected, since prices are set in domestic currency"
       ],
       "answer": 1,
-      "explanation": "A weaker currency buys less foreign goods (imports cost more in domestic terms) while foreign buyers get more domestic currency per unit of theirs (exports become cheaper abroad). The two effects always move in opposite directions, which rules out the third option immediately."
+      "explanation": "A weaker currency buys less foreign goods (imports cost more in domestic terms) while foreign buyers get more domestic currency per unit of theirs (exports become cheaper abroad). The two effects always move in opposite directions, which rules out option {{2}} immediately."
     },
     {
       "id": "jk-eco-003",
@@ -1262,7 +1330,7 @@
         "Reducing tax rates"
       ],
       "answer": 1,
-      "explanation": "Contractionary monetary policy raises the cost of borrowing to cool demand and inflation. The third and fourth options describe fiscal policy — a Treasury and congressional function, not a central bank one — and both are expansionary rather than contractionary."
+      "explanation": "Contractionary monetary policy raises the cost of borrowing to cool demand and inflation. Options {{2,3}} describe fiscal policy — a Treasury and congressional function, not a central bank one — and both are expansionary rather than contractionary."
     },
     {
       "id": "jk-eco-005",
@@ -1290,7 +1358,7 @@
         "Government revenue plus private investment"
       ],
       "answer": 1,
-      "explanation": "GDP is production within borders regardless of producer nationality. The first option defines Gross National Income, which counts citizens' income wherever earned — a distinction that matters greatly for economies with large remittance flows or foreign-owned production."
+      "explanation": "GDP is production within borders regardless of producer nationality. Option {{0}} defines Gross National Income, which counts citizens' income wherever earned — a distinction that matters greatly for economies with large remittance flows or foreign-owned production."
     },
     {
       "id": "jk-eco-007",
@@ -1304,7 +1372,7 @@
         "Domestic automobile manufacturers"
       ],
       "answer": 1,
-      "explanation": "The tariff raises the price of imports, letting domestic producers charge more and sell more. Domestic manufacturers who use steel as an input — automakers among them — are harmed, which is why the fourth option is a trap for anyone reasoning that 'domestic industry benefits.'"
+      "explanation": "The tariff raises the price of imports, letting domestic producers charge more and sell more. Domestic manufacturers who use steel as an input — automakers among them — are harmed, which is why option {{3}} is a trap for anyone reasoning that 'domestic industry benefits.'"
     },
     {
       "id": "jk-eco-008",
@@ -1318,7 +1386,7 @@
         "Account for differences in population growth"
       ],
       "answer": 1,
-      "explanation": "PPP conversion accounts for the fact that a dollar buys more in low-income countries, giving a better cross-country comparison of real consumption. The first option describes deflating by a price index, which is a within-country over-time adjustment — a genuinely different operation."
+      "explanation": "PPP conversion accounts for the fact that a dollar buys more in low-income countries, giving a better cross-country comparison of real consumption. Option {{0}} describes deflating by a price index, which is a within-country over-time adjustment — a genuinely different operation."
     },
     {
       "id": "jk-eco-009",
@@ -1339,7 +1407,12 @@
       "subtopic": "economics",
       "difficulty": 2,
       "stem": "The 'invisible hand' concept is associated with which economist?",
-      "choices": ["John Maynard Keynes", "Adam Smith", "Karl Marx", "Milton Friedman"],
+      "choices": [
+        "John Maynard Keynes",
+        "Adam Smith",
+        "Karl Marx",
+        "Milton Friedman"
+      ],
       "answer": 1,
       "explanation": "Smith used the phrase in The Wealth of Nations (1776) to describe how self-interested action can produce socially beneficial outcomes through market coordination. Friedman is the tempting distractor as a later champion of markets, but the phrase is Smith's."
     },
@@ -1355,7 +1428,7 @@
         "Maintain persistently undervalued currencies"
       ],
       "answer": 1,
-      "explanation": "Resource windfalls can crowd out other tradable sectors through currency appreciation (Dutch disease), concentrate rents that invite corruption and capture, and finance conflict. The fourth option gets the currency mechanism backwards — resource booms tend to cause overvaluation, not undervaluation."
+      "explanation": "Resource windfalls can crowd out other tradable sectors through currency appreciation (Dutch disease), concentrate rents that invite corruption and capture, and finance conflict. Option {{3}} gets the currency mechanism backwards — resource booms tend to cause overvaluation, not undervaluation."
     },
     {
       "id": "jk-eco-012",
@@ -1369,7 +1442,7 @@
         "Eliminate demand entirely"
       ],
       "answer": 1,
-      "explanation": "With inelastic demand, quantity falls proportionally less than price rises, so revenue increases. The first option is what happens with elastic demand — getting this backwards is the classic elasticity error, and it is why taxes on necessities raise revenue efficiently but regressively."
+      "explanation": "With inelastic demand, quantity falls proportionally less than price rises, so revenue increases. Option {{0}} is what happens with elastic demand — getting this backwards is the classic elasticity error, and it is why taxes on necessities raise revenue efficiently but regressively."
     },
     {
       "id": "jk-eco-013",
@@ -1397,7 +1470,7 @@
         "A trade deficit caused by consumer preference for imported goods"
       ],
       "answer": 1,
-      "explanation": "Named for the effect of North Sea gas on Dutch manufacturing, the term describes how a resource windfall appreciates the currency and renders other tradable sectors uncompetitive. The first option evokes tulip mania, which is Dutch but a different phenomenon entirely."
+      "explanation": "Named for the effect of North Sea gas on Dutch manufacturing, the term describes how a resource windfall appreciates the currency and renders other tradable sectors uncompetitive. Option {{0}} evokes tulip mania, which is Dutch but a different phenomenon entirely."
     },
     {
       "id": "jk-eco-015",
@@ -1411,7 +1484,7 @@
         "The tax rate falls as income rises"
       ],
       "answer": 1,
-      "explanation": "Progressivity means higher-income taxpayers pay a larger share of income. The third option describes a flat or proportional tax and the fourth a regressive one — sales taxes are the common example of the latter, since lower earners spend a larger share of income."
+      "explanation": "Progressivity means higher-income taxpayers pay a larger share of income. Option {{2}} describes a flat or proportional tax and the fourth a regressive one — sales taxes are the common example of the latter, since lower earners spend a larger share of income."
     },
     {
       "id": "jk-eco-016",
@@ -1439,7 +1512,7 @@
         "A multilateral development bank owned by member states"
       ],
       "answer": 1,
-      "explanation": "Sovereign wealth funds are state-owned pools of capital — Norway's fund is the largest — typically capitalized by commodity revenues or excess reserves and invested abroad. The fourth option describes institutions like the Asian Development Bank, which lend rather than invest for return."
+      "explanation": "Sovereign wealth funds are state-owned pools of capital — Norway's fund is the largest — typically capitalized by commodity revenues or excess reserves and invested abroad. Option {{3}} describes institutions like the Asian Development Bank, which lend rather than invest for return."
     },
     {
       "id": "jk-eco-018",
@@ -1481,7 +1554,7 @@
         "A decline in the money supply"
       ],
       "answer": 1,
-      "explanation": "With no slack in the economy, additional demand pushes up prices rather than output, and government borrowing can raise interest rates and displace private investment. The first option describes the outcome in a deeply depressed economy — the condition that makes fiscal stimulus effective and that is stipulated away here."
+      "explanation": "With no slack in the economy, additional demand pushes up prices rather than output, and government borrowing can raise interest rates and displace private investment. Option {{0}} describes the outcome in a deeply depressed economy — the condition that makes fiscal stimulus effective and that is stipulated away here."
     },
     {
       "id": "jk-eco-021",
@@ -1551,7 +1624,7 @@
         "Seasonal fluctuations in demand"
       ],
       "answer": 1,
-      "explanation": "Structural unemployment reflects a durable mismatch, often driven by technological change or shifting trade patterns, and does not resolve with recovery. The first option describes cyclical unemployment and the third frictional — a three-way distinction the question is testing directly."
+      "explanation": "Structural unemployment reflects a durable mismatch, often driven by technological change or shifting trade patterns, and does not resolve with recovery. Option {{0}} describes cyclical unemployment and the third frictional — a three-way distinction the question is testing directly."
     },
     {
       "id": "jk-eco-026",
@@ -1565,7 +1638,7 @@
         "The issuance of new currency to finance government deficits directly"
       ],
       "answer": 1,
-      "explanation": "QE is unconventional monetary policy: with short rates at the zero lower bound, the central bank buys longer-dated securities to compress term premia. The fourth option describes monetary financing of deficits, which is a legally and economically distinct practice that QE is deliberately structured to avoid."
+      "explanation": "QE is unconventional monetary policy: with short rates at the zero lower bound, the central bank buys longer-dated securities to compress term premia. Option {{3}} describes monetary financing of deficits, which is a legally and economically distinct practice that QE is deliberately structured to avoid."
     },
     {
       "id": "jk-eco-027",
@@ -1579,7 +1652,7 @@
         "Applies equally to all trading partners"
       ],
       "answer": 1,
-      "explanation": "A tariff raises the cost of trade; an embargo bans it. Embargoes are typically targeted at a specific country rather than applied universally, which makes the fourth option doubly wrong."
+      "explanation": "A tariff raises the cost of trade; an embargo bans it. Embargoes are typically targeted at a specific country rather than applied universally, which makes option {{3}} doubly wrong."
     },
     {
       "id": "jk-eco-028",
@@ -1595,13 +1668,17 @@
       "answer": 1,
       "explanation": "The World Bank finances development. Exchange rate stabilization belongs to the IMF, trade adjudication to the WTO, and capital standards to the Basel Committee at the Bank for International Settlements — four institutions frequently confused with one another."
     },
-
     {
       "id": "jk-mat-001",
       "subtopic": "math_statistics",
       "difficulty": 1,
       "stem": "A country's exports rose from $250 million to $300 million. What was the percentage increase?",
-      "choices": ["16.7%", "20%", "25%", "50%"],
+      "choices": [
+        "16.7%",
+        "20%",
+        "25%",
+        "50%"
+      ],
       "answer": 1,
       "explanation": "The increase is $50 million on a base of $250 million: 50/250 = 0.20, or 20%. The 16.7% distractor comes from dividing by the new value ($50/$300) instead of the original — the single most common percentage-change error."
     },
@@ -1631,14 +1708,19 @@
         "That the variables are independent"
       ],
       "answer": 1,
-      "explanation": "Correlation measures the strength and direction of linear association only. The causal reading is the classic error, and the third option misreads the coefficient as a percentage — 0.85 is not '85% of cases,' though r-squared would give the share of variance explained."
+      "explanation": "Correlation measures the strength and direction of linear association only. The causal reading is the classic error, and option {{2}} misreads the coefficient as a percentage — 0.85 is not '85% of cases,' though r-squared would give the share of variance explained."
     },
     {
       "id": "jk-mat-004",
       "subtopic": "math_statistics",
       "difficulty": 2,
       "stem": "If a nation's population grows at 3% annually, approximately how many years will it take to double?",
-      "choices": ["12 years", "23 years", "33 years", "50 years"],
+      "choices": [
+        "12 years",
+        "23 years",
+        "33 years",
+        "50 years"
+      ],
       "answer": 1,
       "explanation": "The rule of 70 gives doubling time as 70 divided by the growth rate: 70/3 ≈ 23 years. The 33-year distractor comes from using 100/3, a plausible but incorrect shortcut that ignores the logarithmic basis of the rule."
     },
@@ -1654,7 +1736,7 @@
         "The survey is invalid because the margin includes 50%"
       ],
       "answer": 1,
-      "explanation": "The interval spans 49% to 55%, which includes values below a majority, so the result is consistent with but does not establish majority support. The fourth option is wrong in a different direction: a confidence interval straddling a threshold is an ordinary result, not evidence of invalidity."
+      "explanation": "The interval spans 49% to 55%, which includes values below a majority, so the result is consistent with but does not establish majority support. Option {{3}} is wrong in a different direction: a confidence interval straddling a threshold is an ordinary result, not evidence of invalidity."
     },
     {
       "id": "jk-mat-006",
@@ -1668,14 +1750,19 @@
         "The most frequently occurring value"
       ],
       "answer": 1,
-      "explanation": "Standard deviation summarizes dispersion around the mean. The third option describes the range, which also measures spread but is determined entirely by the two extreme values and so is far more sensitive to outliers."
+      "explanation": "Standard deviation summarizes dispersion around the mean. Option {{2}} describes the range, which also measures spread but is determined entirely by the two extreme values and so is far more sensitive to outliers."
     },
     {
       "id": "jk-mat-007",
       "subtopic": "math_statistics",
       "difficulty": 2,
       "stem": "A budget of $4.2 million is allocated 35% to programs, 25% to personnel, and the remainder to operations. How much goes to operations?",
-      "choices": ["$1.26 million", "$1.68 million", "$1.05 million", "$2.52 million"],
+      "choices": [
+        "$1.26 million",
+        "$1.68 million",
+        "$1.05 million",
+        "$2.52 million"
+      ],
       "answer": 1,
       "explanation": "Operations receive 100% − 35% − 25% = 40%, and 0.40 × $4.2 million = $1.68 million. The $1.47 million distractor pattern comes from misreading the remainder; $1.26 million is 30%, and $1.05 million is 25% — the personnel share."
     },
@@ -1684,7 +1771,12 @@
       "subtopic": "math_statistics",
       "difficulty": 3,
       "stem": "A country's GDP grows 10% in year one and falls 10% in year two. Compared with its starting level, GDP at the end of year two is:",
-      "choices": ["Unchanged", "1% lower", "1% higher", "2% lower"],
+      "choices": [
+        "Unchanged",
+        "1% lower",
+        "1% higher",
+        "2% lower"
+      ],
       "answer": 1,
       "explanation": "Starting at 100: 100 × 1.10 = 110, then 110 × 0.90 = 99. The result is 1% below the start because the decline applies to a larger base than the increase did. Assuming the changes cancel is the intuitive but incorrect answer."
     },
@@ -1693,7 +1785,12 @@
       "subtopic": "math_statistics",
       "difficulty": 2,
       "stem": "In a normal distribution, approximately what percentage of observations fall within one standard deviation of the mean?",
-      "choices": ["50%", "68%", "95%", "99.7%"],
+      "choices": [
+        "50%",
+        "68%",
+        "95%",
+        "99.7%"
+      ],
       "answer": 1,
       "explanation": "The empirical rule gives roughly 68% within one standard deviation, 95% within two, and 99.7% within three. The 95% figure is the most commonly misremembered because of its association with confidence intervals, which conventionally use about two standard deviations."
     },
@@ -1702,7 +1799,12 @@
       "subtopic": "math_statistics",
       "difficulty": 2,
       "stem": "If 3 out of every 8 visa applications at a post require additional review, and the post receives 2,400 applications, how many require additional review?",
-      "choices": ["300", "800", "900", "1,200"],
+      "choices": [
+        "300",
+        "800",
+        "900",
+        "1,200"
+      ],
       "answer": 2,
       "explanation": "3/8 × 2,400 = 900. The 800 distractor is 1/3 of the total — the result of misreading 'three out of eight' as a ratio of 3 to 8 remaining rather than 3 of 8 total."
     },
@@ -1725,7 +1827,12 @@
       "subtopic": "math_statistics",
       "difficulty": 2,
       "stem": "A country's debt is 90% of its GDP of $500 billion. What is the debt in dollars?",
-      "choices": ["$45 billion", "$450 billion", "$550 billion", "$90 billion"],
+      "choices": [
+        "$45 billion",
+        "$450 billion",
+        "$550 billion",
+        "$90 billion"
+      ],
       "answer": 1,
       "explanation": "0.90 × $500 billion = $450 billion. The $45 billion answer results from treating the ratio as 9%, a decimal-place slip that is easy to make under time pressure."
     },
@@ -1755,7 +1862,7 @@
         "The error rates cannot be compared without knowing case complexity"
       ],
       "answer": 1,
-      "explanation": "Section A's rate is 96/1,200 = 8%; section B's is 40/400 = 10%. The first option is the trap: absolute error counts say nothing about rates when denominators differ. The fourth option raises a real analytical caveat, but the question asks which statement is accurate, and the rates are directly computable."
+      "explanation": "Section A's rate is 96/1,200 = 8%; section B's is 40/400 = 10%. Option {{0}} is the trap: absolute error counts say nothing about rates when denominators differ. Option {{3}} raises a real analytical caveat, but the question asks which statement is accurate, and the rates are directly computable."
     },
     {
       "id": "jk-mat-015",
@@ -1776,7 +1883,12 @@
       "subtopic": "math_statistics",
       "difficulty": 2,
       "stem": "If an aid program's budget is cut from $80 million to $60 million, what is the percentage decrease?",
-      "choices": ["20%", "25%", "33%", "75%"],
+      "choices": [
+        "20%",
+        "25%",
+        "33%",
+        "75%"
+      ],
       "answer": 1,
       "explanation": "The decrease of $20 million on a base of $80 million is 25%. The 33% distractor comes from dividing by the new figure ($20/$60), and 75% is the remaining share rather than the reduction."
     },
@@ -1792,14 +1904,19 @@
         "The relationship warrants further investigation"
       ],
       "answer": 1,
-      "explanation": "The causal claim is the weakest inference because economic size plausibly drives both variables — a textbook confounder, described in the third option. Association, the possibility of confounding, and a call for further study are all warranted by the finding; causation is not."
+      "explanation": "The causal claim is the weakest inference because economic size plausibly drives both variables — a textbook confounder, described in option {{2}}. Association, the possibility of confounding, and a call for further study are all warranted by the finding; causation is not."
     },
     {
       "id": "jk-mat-018",
       "subtopic": "math_statistics",
       "difficulty": 2,
       "stem": "A post's staff is 40% locally employed, 35% Foreign Service, and the rest Civil Service. If the post has 200 staff, how many are Civil Service?",
-      "choices": ["40", "50", "70", "80"],
+      "choices": [
+        "40",
+        "50",
+        "70",
+        "80"
+      ],
       "answer": 1,
       "explanation": "Civil Service accounts for 100% − 40% − 35% = 25%, and 0.25 × 200 = 50. The 80 distractor is the 40% locally employed figure, and 70 is the 35% Foreign Service figure."
     },
@@ -1829,18 +1946,22 @@
         "The economy has entered deflation"
       ],
       "answer": 1,
-      "explanation": "A lower positive inflation rate means prices continue to rise, just at a reduced pace — this is disinflation, not deflation. Deflation requires a negative rate, which is what the first and fourth options incorrectly describe."
+      "explanation": "A lower positive inflation rate means prices continue to rise, just at a reduced pace — this is disinflation, not deflation. Deflation requires a negative rate, which is what options {{0,3}} incorrectly describe."
     },
     {
       "id": "jk-mat-021",
       "subtopic": "math_statistics",
       "difficulty": 2,
       "stem": "If two events are independent and each has a probability of 0.5, the probability that both occur is:",
-      "choices": ["1.0", "0.25", "0.5", "0.75"],
+      "choices": [
+        "1.0",
+        "0.25",
+        "0.5",
+        "0.75"
+      ],
       "answer": 1,
       "explanation": "For independent events, the joint probability is the product: 0.5 × 0.5 = 0.25. The 0.75 distractor is the probability that at least one occurs, and 1.0 comes from adding the probabilities — a valid operation only for mutually exclusive events."
     },
-
     {
       "id": "jk-usg-057",
       "subtopic": "us_government_history_society",
@@ -1853,7 +1974,7 @@
         "France lacked clear title to the territory"
       ],
       "answer": 0,
-      "explanation": "Jefferson, a strict constructionist, doubted his authority to acquire territory since no enumerated power covered it, and he proceeded anyway on treaty-power grounds. The Senate did consent, which makes the second option factually wrong — the difficulty was philosophical rather than procedural."
+      "explanation": "Jefferson, a strict constructionist, doubted his authority to acquire territory since no enumerated power covered it, and he proceeded anyway on treaty-power grounds. The Senate did consent, which makes option {{1}} factually wrong — the difficulty was philosophical rather than procedural."
     },
     {
       "id": "jk-usg-058",
@@ -1867,7 +1988,7 @@
         "Established popular sovereignty as the rule for all new territories"
       ],
       "answer": 1,
-      "explanation": "The Compromise preserved the Senate balance by pairing admissions and drew a line at 36°30′ across the remaining Louisiana Purchase lands. The first option reverses the two states, and popular sovereignty was the Kansas-Nebraska Act's approach three decades later — the very measure that repealed this line."
+      "explanation": "The Compromise preserved the Senate balance by pairing admissions and drew a line at 36°30′ across the remaining Louisiana Purchase lands. Option {{0}} reverses the two states, and popular sovereignty was the Kansas-Nebraska Act's approach three decades later — the very measure that repealed this line."
     },
     {
       "id": "jk-usg-059",
@@ -1881,7 +2002,7 @@
         "A prohibition on federal employees joining political parties"
       ],
       "answer": 1,
-      "explanation": "Passed after Garfield's assassination by a disappointed office seeker, the Act began the replacement of the spoils system with merit hiring. The fourth option overstates the restriction: the Hatch Act (1939) later limited partisan *activity* by federal employees, but never party membership."
+      "explanation": "Passed after Garfield's assassination by a disappointed office seeker, the Act began the replacement of the spoils system with merit hiring. Option {{3}} overstates the restriction: the Hatch Act (1939) later limited partisan *activity* by federal employees, but never party membership."
     },
     {
       "id": "jk-usg-060",
@@ -1951,7 +2072,7 @@
         "Reliance on the United Nations to arbitrate disputes"
       ],
       "answer": 1,
-      "explanation": "Kennan called for 'long-term, patient but firm and vigilant containment.' Rollback was the more aggressive alternative urged by others in the period, and Kennan himself later objected that containment had been read too militarily — a nuance that makes the first option the sharpest distractor."
+      "explanation": "Kennan called for 'long-term, patient but firm and vigilant containment.' Rollback was the more aggressive alternative urged by others in the period, and Kennan himself later objected that containment had been read too militarily — a nuance that makes option {{0}} the sharpest distractor."
     },
     {
       "id": "jk-usg-065",
@@ -1965,7 +2086,7 @@
         "Impeachment is the sole remedy for presidential misconduct"
       ],
       "answer": 1,
-      "explanation": "The Court recognized executive privilege as constitutionally grounded but held it not absolute, requiring the tapes be produced. The decision is a landmark precisely because it did both things at once — acknowledging the privilege while subordinating it, which the absolutist first option misses."
+      "explanation": "The Court recognized executive privilege as constitutionally grounded but held it not absolute, requiring the tapes be produced. The decision is a landmark precisely because it did both things at once — acknowledging the privilege while subordinating it, which the absolutist option {{0}} misses."
     },
     {
       "id": "jk-usg-066",
@@ -1979,7 +2100,7 @@
         "The right to counsel in state criminal proceedings"
       ],
       "answer": 0,
-      "explanation": "Baker held legislative apportionment justiciable, opening the way to the one-person-one-vote rule of Reynolds v. Sims. The fourth option is Gideon v. Wainwright, decided the following year — the two are often conflated as Warren Court landmarks of the early 1960s."
+      "explanation": "Baker held legislative apportionment justiciable, opening the way to the one-person-one-vote rule of Reynolds v. Sims. Option {{3}} is Gideon v. Wainwright, decided the following year — the two are often conflated as Warren Court landmarks of the early 1960s."
     },
     {
       "id": "jk-usg-067",
@@ -1993,7 +2114,7 @@
         "Defendants have a right to a speedy trial"
       ],
       "answer": 1,
-      "explanation": "Gideon incorporated the Sixth Amendment right to counsel against the states. The first option is Miranda (1966) and the third is Mapp v. Ohio (1961) — a trio of criminal-procedure incorporation cases decided within five years of one another."
+      "explanation": "Gideon incorporated the Sixth Amendment right to counsel against the states. Option {{0}} is Miranda (1966) and the third is Mapp v. Ohio (1961) — a trio of criminal-procedure incorporation cases decided within five years of one another."
     },
     {
       "id": "jk-usg-068",
@@ -2035,7 +2156,7 @@
         "Accessibility standards for federal buildings only"
       ],
       "answer": 1,
-      "explanation": "The ADA bars discrimination and requires reasonable accommodation absent undue hardship. The fourth option describes the narrower Architectural Barriers Act of 1968, and the ADA deliberately imposes no quotas — an accommodation requirement is not a numerical one."
+      "explanation": "The ADA bars discrimination and requires reasonable accommodation absent undue hardship. Option {{3}} describes the narrower Architectural Barriers Act of 1968, and the ADA deliberately imposes no quotas — an accommodation requirement is not a numerical one."
     },
     {
       "id": "jk-usg-071",
@@ -2063,9 +2184,8 @@
         "Giving each state one vote in a unicameral congress"
       ],
       "answer": 1,
-      "explanation": "The Connecticut Compromise paired a population-based House with a Senate of equal state representation. The three-fifths clause is a separate compromise addressing how enslaved persons would count toward House apportionment, and the fourth option describes the Articles of Confederation the Convention was replacing."
+      "explanation": "The Connecticut Compromise paired a population-based House with a Senate of equal state representation. The three-fifths clause is a separate compromise addressing how enslaved persons would count toward House apportionment, and option {{3}} describes the Articles of Confederation the Convention was replacing."
     },
-
     {
       "id": "jk-whg-036",
       "subtopic": "world_history_geography",
@@ -2092,7 +2212,7 @@
         "Roosevelt, Churchill, and Chiang Kai-shek"
       ],
       "answer": 0,
-      "explanation": "Yalta was the last of the wartime Big Three meetings with Roosevelt, who died two months later. The second option describes Potsdam in July 1945, after Roosevelt's death and Churchill's electoral defeat — the substitution of leaders mid-conference is what makes the two easy to confuse."
+      "explanation": "Yalta was the last of the wartime Big Three meetings with Roosevelt, who died two months later. Option {{1}} describes Potsdam in July 1945, after Roosevelt's death and Churchill's electoral defeat — the substitution of leaders mid-conference is what makes the two easy to confuse."
     },
     {
       "id": "jk-whg-038",
@@ -2134,7 +2254,7 @@
         "Syria and Israel, mediated by the United Nations"
       ],
       "answer": 1,
-      "explanation": "Carter mediated between Sadat and Begin, producing a framework that led to the 1979 Egypt-Israel peace treaty. The third option describes the Oslo Accords of 1993, and Israel-Jordan peace came in 1994 — three separate tracks spread across sixteen years."
+      "explanation": "Carter mediated between Sadat and Begin, producing a framework that led to the 1979 Egypt-Israel peace treaty. Option {{2}} describes the Oslo Accords of 1993, and Israel-Jordan peace came in 1994 — three separate tracks spread across sixteen years."
     },
     {
       "id": "jk-whg-041",
@@ -2148,7 +2268,7 @@
         "Its rapid conversion of subject peoples to a single state religion"
       ],
       "answer": 0,
-      "explanation": "The Mongol Empire stretched from Korea to Hungary as the largest contiguous land empire ever assembled. The third option inverts a defining feature: Mongol control secured the overland trade routes, and the resulting Pax Mongolica intensified Eurasian exchange."
+      "explanation": "The Mongol Empire stretched from Korea to Hungary as the largest contiguous land empire ever assembled. Option {{2}} inverts a defining feature: Mongol control secured the overland trade routes, and the resulting Pax Mongolica intensified Eurasian exchange."
     },
     {
       "id": "jk-whg-042",
@@ -2162,7 +2282,7 @@
         "Northeast Asia"
       ],
       "answer": 1,
-      "explanation": "The Association of Southeast Asian Nations, founded in 1967, includes Indonesia, Thailand, Vietnam, the Philippines, and others. SAARC is the South Asian body — the near-identical naming pattern makes the first option the standard trap."
+      "explanation": "The Association of Southeast Asian Nations, founded in 1967, includes Indonesia, Thailand, Vietnam, the Philippines, and others. SAARC is the South Asian body — the near-identical naming pattern makes option {{0}} the standard trap."
     },
     {
       "id": "jk-whg-043",
@@ -2183,7 +2303,12 @@
       "subtopic": "world_history_geography",
       "difficulty": 2,
       "stem": "The Danube River flows through more countries than any other river in the world and empties into:",
-      "choices": ["The Baltic Sea", "The Black Sea", "The Adriatic Sea", "The North Sea"],
+      "choices": [
+        "The Baltic Sea",
+        "The Black Sea",
+        "The Adriatic Sea",
+        "The North Sea"
+      ],
       "answer": 1,
       "explanation": "The Danube runs from Germany's Black Forest through ten countries to a delta on the Black Sea. The Rhine is the river that flows to the North Sea — the two are the classic pairing of major European waterways running in opposite directions."
     },
@@ -2201,7 +2326,6 @@
       "answer": 1,
       "explanation": "The Agreement established power-sharing institutions in Northern Ireland and reframed the constitutional question through consent. It is frequently cited as a model for other divided societies, which is why the other long-running European disputes appear here as distractors."
     },
-
     {
       "id": "jk-eco-029",
       "subtopic": "economics",
@@ -2214,7 +2338,7 @@
         "The difference between projected and actual cost"
       ],
       "answer": 1,
-      "explanation": "Opportunity cost is the single best forgone alternative, not the sum of all of them — the third option is the most common overstatement. Note also that it need not involve money at all: time spent is the classic example."
+      "explanation": "Opportunity cost is the single best forgone alternative, not the sum of all of them — option {{2}} is the most common overstatement. Note also that it need not involve money at all: time spent is the classic example."
     },
     {
       "id": "jk-eco-030",
@@ -2228,7 +2352,7 @@
         "Essential to basic human welfare"
       ],
       "answer": 1,
-      "explanation": "The definition is technical: one person's use does not diminish another's, and non-payers cannot be excluded — national defense being the standard example. The first option confuses the definition with the provider, which is why many public goods are government-supplied without government provision being what makes them public goods."
+      "explanation": "The definition is technical: one person's use does not diminish another's, and non-payers cannot be excluded — national defense being the standard example. Option {{0}} confuses the definition with the provider, which is why many public goods are government-supplied without government provision being what makes them public goods."
     },
     {
       "id": "jk-eco-031",
@@ -2242,7 +2366,7 @@
         "Consumers lack information about product quality"
       ],
       "answer": 1,
-      "explanation": "Pollution is the canonical case: the price of the good omits the cost borne by others, so the market overproduces it. The fourth option describes information asymmetry, a separate category of market failure with different remedies."
+      "explanation": "Pollution is the canonical case: the price of the good omits the cost borne by others, so the market overproduces it. Option {{3}} describes information asymmetry, a separate category of market failure with different remedies."
     },
     {
       "id": "jk-eco-032",
@@ -2284,7 +2408,7 @@
         "Has been more successful in East Asia than in Latin America"
       ],
       "answer": 0,
-      "explanation": "ISI builds domestic industry behind trade barriers; export-led growth orients production toward world markets. The fourth option inverts the historical record — East Asia is the export-led exemplar, and Latin America the region most associated with ISI's disappointing results."
+      "explanation": "ISI builds domestic industry behind trade barriers; export-led growth orients production toward world markets. Option {{3}} inverts the historical record — East Asia is the export-led exemplar, and Latin America the region most associated with ISI's disappointing results."
     },
     {
       "id": "jk-eco-035",
@@ -2298,7 +2422,7 @@
         "Direct control over other countries' monetary policy"
       ],
       "answer": 1,
-      "explanation": "Reserve status generates persistent foreign demand for dollar assets, lowering U.S. borrowing costs — the 'exorbitant privilege.' The first option is nearly the opposite: supplying the world's reserve asset tends to accompany trade deficits, a tension known as the Triffin dilemma."
+      "explanation": "Reserve status generates persistent foreign demand for dollar assets, lowering U.S. borrowing costs — the 'exorbitant privilege.' Option {{0}} is nearly the opposite: supplying the world's reserve asset tends to accompany trade deficits, a tension known as the Triffin dilemma."
     },
     {
       "id": "jk-eco-036",
@@ -2312,15 +2436,19 @@
         "Government spending crowds out private investment"
       ],
       "answer": 1,
-      "explanation": "Moral hazard is about altered incentives after protection is in place — the argument against bank bailouts rests on it. The first option describes adverse selection, which concerns hidden information *before* a transaction; the two are companion concepts and routinely swapped."
+      "explanation": "Moral hazard is about altered incentives after protection is in place — the argument against bank bailouts rests on it. Option {{0}} describes adverse selection, which concerns hidden information *before* a transaction; the two are companion concepts and routinely swapped."
     },
-
     {
       "id": "jk-mat-022",
       "subtopic": "math_statistics",
       "difficulty": 3,
       "stem": "A post processes 300 cases at an average of 4 days each and 100 cases at an average of 12 days each. What is the overall average processing time?",
-      "choices": ["6 days", "8 days", "7 days", "5 days"],
+      "choices": [
+        "6 days",
+        "8 days",
+        "7 days",
+        "5 days"
+      ],
       "answer": 0,
       "explanation": "Total days are (300 × 4) + (100 × 12) = 2,400 over 400 cases, giving 6 days. The 8-day answer comes from averaging 4 and 12 without weighting by volume — the single most common error with averages of averages."
     },
@@ -2336,14 +2464,19 @@
         "GDP per capita cannot be compared without exchange rates"
       ],
       "answer": 1,
-      "explanation": "Country A is $600B/40M = $15,000; Country B is $300B/15M = $20,000. The first option is the trap: larger total output says nothing about output per person, which is why population must always be checked before drawing welfare comparisons."
+      "explanation": "Country A is $600B/40M = $15,000; Country B is $300B/15M = $20,000. Option {{0}} is the trap: larger total output says nothing about output per person, which is why population must always be checked before drawing welfare comparisons."
     },
     {
       "id": "jk-mat-024",
       "subtopic": "math_statistics",
       "difficulty": 3,
       "stem": "An economy grows 5% per year for three consecutive years. Total growth over the period is approximately:",
-      "choices": ["15%", "15.8%", "16.5%", "14.2%"],
+      "choices": [
+        "15%",
+        "15.8%",
+        "16.5%",
+        "14.2%"
+      ],
       "answer": 1,
       "explanation": "Compounding gives 1.05³ = 1.1576, or about 15.8%. Simply adding the rates yields 15% and understates the result because each year's growth applies to a larger base — the gap widens sharply over longer horizons."
     },
@@ -2359,7 +2492,7 @@
         "Equal numbers approved means equal approval rates"
       ],
       "answer": 1,
-      "explanation": "Renewals: 60/80 = 75%. First-time: 60/120 = 50%. The fourth option states the error the question is built around — equal numerators mean nothing when the denominators differ."
+      "explanation": "Renewals: 60/80 = 75%. First-time: 60/120 = 50%. Option {{3}} states the error the question is built around — equal numerators mean nothing when the denominators differ."
     },
     {
       "id": "jk-mat-026",
@@ -2389,7 +2522,6 @@
       "answer": 1,
       "explanation": "The nominal increase is 5%; subtracting 4% inflation leaves about 1% real growth. Reporting the nominal figure alone is the standard way wage changes are made to look better or worse than they are."
     },
-
     {
       "id": "jk-usg-073",
       "subtopic": "us_government_history_society",
@@ -2402,7 +2534,7 @@
         "Federal authority over interstate navigation"
       ],
       "answer": 1,
-      "explanation": "Marshall upheld the national bank under the necessary and proper clause and held that Maryland could not tax it, reasoning that the power to tax involves the power to destroy. The fourth option describes Gibbons v. Ogden, decided five years later."
+      "explanation": "Marshall upheld the national bank under the necessary and proper clause and held that Maryland could not tax it, reasoning that the power to tax involves the power to destroy. Option {{3}} describes Gibbons v. Ogden, decided five years later."
     },
     {
       "id": "jk-usg-074",
@@ -2640,7 +2772,7 @@
         "Dust Bowl migration to California"
       ],
       "answer": 1,
-      "explanation": "Roughly six million Black Americans left the South between 1916 and 1970, reshaping the demography and politics of northern cities. The fourth option describes a distinct 1930s migration associated with Steinbeck's fiction."
+      "explanation": "Roughly six million Black Americans left the South between 1916 and 1970, reshaping the demography and politics of northern cities. Option {{3}} describes a distinct 1930s migration associated with Steinbeck's fiction."
     },
     {
       "id": "jk-usg-091",
@@ -2682,7 +2814,7 @@
         "An agreement between the President and a foreign state"
       ],
       "answer": 0,
-      "explanation": "Executive orders direct federal agencies and carry legal force within the executive branch, but they cannot exceed statutory or constitutional authority and can be revoked by a successor. The fourth option describes an executive agreement."
+      "explanation": "Executive orders direct federal agencies and carry legal force within the executive branch, but they cannot exceed statutory or constitutional authority and can be revoked by a successor. Option {{3}} describes an executive agreement."
     },
     {
       "id": "jk-usg-094",
@@ -2808,7 +2940,7 @@
         "Federal courts defer to state interpretations of federal law"
       ],
       "answer": 0,
-      "explanation": "Article IV requires interstate recognition of judgments and records, which is why a judgment obtained in one state is enforceable in another. The second option confuses it with the Fourteenth Amendment's public debt clause."
+      "explanation": "Article IV requires interstate recognition of judgments and records, which is why a judgment obtained in one state is enforceable in another. Option {{1}} confuses it with the Fourteenth Amendment's public debt clause."
     },
     {
       "id": "jk-usg-103",
@@ -2836,7 +2968,7 @@
         "Regulate activity that occurs entirely within one state"
       ],
       "answer": 1,
-      "explanation": "The federal government may regulate directly or offer inducements, but it cannot conscript state officials into enforcing federal law. Conditional spending remains permissible within limits, which is why the first option is wrong."
+      "explanation": "The federal government may regulate directly or offer inducements, but it cannot conscript state officials into enforcing federal law. Conditional spending remains permissible within limits, which is why option {{0}} is wrong."
     },
     {
       "id": "jk-usg-105",
@@ -3032,7 +3164,7 @@
         "The expulsion of a foreign diplomat"
       ],
       "answer": 1,
-      "explanation": "A démarche conveys an instructed position to a host government, often supported by talking points. The third and fourth options describe distinct diplomatic signals — recall and expulsion — that escalate well beyond an ordinary representation."
+      "explanation": "A démarche conveys an instructed position to a host government, often supported by talking points. Options {{2,3}} describe distinct diplomatic signals — recall and expulsion — that escalate well beyond an ordinary representation."
     },
     {
       "id": "jk-usg-119",
@@ -3102,7 +3234,7 @@
         "Most Americans now report no religious background at all"
       ],
       "answer": 0,
-      "explanation": "The religiously unaffiliated — often called the 'nones' — have grown from a small minority to roughly a quarter or more of adults. The fourth option overstates the trend: a large majority still report a religious background even when currently unaffiliated."
+      "explanation": "The religiously unaffiliated — often called the 'nones' — have grown from a small minority to roughly a quarter or more of adults. Option {{3}} overstates the trend: a large majority still report a religious background even when currently unaffiliated."
     },
     {
       "id": "jk-usg-124",
@@ -3118,7 +3250,6 @@
       "answer": 1,
       "explanation": "Standard measures show rising concentration of income at the top since about 1980, reversing the postwar compression. The causes are contested — technology, trade, institutions, and tax policy are all argued — but the direction is not."
     },
-
     {
       "id": "jk-whg-046",
       "subtopic": "world_history_geography",
@@ -3152,7 +3283,12 @@
       "subtopic": "world_history_geography",
       "difficulty": 2,
       "stem": "Which country is landlocked?",
-      "choices": ["Bolivia", "Peru", "Colombia", "Venezuela"],
+      "choices": [
+        "Bolivia",
+        "Peru",
+        "Colombia",
+        "Venezuela"
+      ],
       "answer": 0,
       "explanation": "Bolivia lost its Pacific coastline to Chile in the War of the Pacific (1879-83) and remains landlocked — a grievance that still shapes Bolivian foreign policy and has been litigated at the International Court of Justice."
     },
@@ -3175,7 +3311,12 @@
       "subtopic": "world_history_geography",
       "difficulty": 2,
       "stem": "Which sea is bordered by Turkey, Ukraine, Russia, Georgia, Romania, and Bulgaria?",
-      "choices": ["The Caspian Sea", "The Black Sea", "The Aegean Sea", "The Adriatic Sea"],
+      "choices": [
+        "The Caspian Sea",
+        "The Black Sea",
+        "The Aegean Sea",
+        "The Adriatic Sea"
+      ],
       "answer": 1,
       "explanation": "Those six states are the Black Sea's littoral. The Caspian is bordered by a different set including Iran and Kazakhstan, and the Aegean and Adriatic lie within the Mediterranean basin."
     },
@@ -3198,7 +3339,12 @@
       "subtopic": "world_history_geography",
       "difficulty": 2,
       "stem": "The Marshall Islands, Kiribati, and Tuvalu are located in which region?",
-      "choices": ["The Caribbean", "The Pacific", "The Indian Ocean", "The Mediterranean"],
+      "choices": [
+        "The Caribbean",
+        "The Pacific",
+        "The Indian Ocean",
+        "The Mediterranean"
+      ],
       "answer": 1,
       "explanation": "All three are Pacific island states, and all are among the countries most exposed to sea level rise — which is why they feature prominently in climate negotiations well out of proportion to their population."
     },
@@ -3277,7 +3423,12 @@
       "subtopic": "world_history_geography",
       "difficulty": 2,
       "stem": "Which desert is the largest hot desert in the world?",
-      "choices": ["The Gobi", "The Sahara", "The Kalahari", "The Atacama"],
+      "choices": [
+        "The Gobi",
+        "The Sahara",
+        "The Kalahari",
+        "The Atacama"
+      ],
       "answer": 1,
       "explanation": "The Sahara spans roughly nine million square kilometers across North Africa. Antarctica is technically the largest desert overall, being a cold desert — which is why the question specifies hot."
     },
@@ -3307,7 +3458,7 @@
         "Poland, Belarus, and Ukraine"
       ],
       "answer": 1,
-      "explanation": "The Rhine rises in the Swiss Alps, forms part of the Franco-German border, and reaches the North Sea through the Netherlands. The third option traces the Danube's course instead."
+      "explanation": "The Rhine rises in the Swiss Alps, forms part of the Franco-German border, and reaches the North Sea through the Netherlands. Option {{2}} traces the Danube's course instead."
     },
     {
       "id": "jk-whg-061",
@@ -3328,7 +3479,12 @@
       "subtopic": "world_history_geography",
       "difficulty": 2,
       "stem": "Which country was formerly known as Burma?",
-      "choices": ["Cambodia", "Myanmar", "Laos", "Thailand"],
+      "choices": [
+        "Cambodia",
+        "Myanmar",
+        "Laos",
+        "Thailand"
+      ],
       "answer": 1,
       "explanation": "The ruling military government renamed the country Myanmar in 1989. Usage of the two names has itself been politically significant, with some governments and opposition figures continuing to say Burma."
     },
@@ -3351,7 +3507,12 @@
       "subtopic": "world_history_geography",
       "difficulty": 2,
       "stem": "The Amazon River basin lies predominantly within which country?",
-      "choices": ["Peru", "Brazil", "Colombia", "Venezuela"],
+      "choices": [
+        "Peru",
+        "Brazil",
+        "Colombia",
+        "Venezuela"
+      ],
       "answer": 1,
       "explanation": "Roughly 60 percent of the Amazon basin is in Brazil, though the river's headwaters rise in the Peruvian Andes. The basin's other portions are shared among seven more South American states."
     },
@@ -3374,7 +3535,12 @@
       "subtopic": "world_history_geography",
       "difficulty": 2,
       "stem": "Which of these was NOT a member of the Axis powers in the Second World War?",
-      "choices": ["Germany", "Italy", "Japan", "The Soviet Union"],
+      "choices": [
+        "Germany",
+        "Italy",
+        "Japan",
+        "The Soviet Union"
+      ],
       "answer": 3,
       "explanation": "The Soviet Union fought with the Allies from June 1941. It had signed a nonaggression pact with Germany in 1939 and partitioned Poland under its secret protocol, which is what makes the distractor tempting — but it was never an Axis member."
     },
@@ -3397,7 +3563,12 @@
       "subtopic": "world_history_geography",
       "difficulty": 2,
       "stem": "Which organization's members are principally oil-exporting countries coordinating production?",
-      "choices": ["OECD", "OPEC", "OSCE", "ASEAN"],
+      "choices": [
+        "OECD",
+        "OPEC",
+        "OSCE",
+        "ASEAN"
+      ],
       "answer": 1,
       "explanation": "OPEC coordinates petroleum production among member states to influence prices. The OECD is a grouping of mostly high-income economies, and the OSCE is a European security organization — the acronym similarity is the trap."
     },
@@ -3420,11 +3591,15 @@
       "subtopic": "world_history_geography",
       "difficulty": 2,
       "stem": "Which continent contains the most independent countries?",
-      "choices": ["Asia", "Africa", "Europe", "South America"],
+      "choices": [
+        "Asia",
+        "Africa",
+        "Europe",
+        "South America"
+      ],
       "answer": 1,
       "explanation": "Africa has 54 recognized states, more than any other continent — a direct legacy of the colonial partition formalized at Berlin and the wave of independence that followed in the 1960s."
     },
-
     {
       "id": "jk-eco-037",
       "subtopic": "economics",
@@ -3649,13 +3824,17 @@
       "answer": 1,
       "explanation": "Adopting a foreign currency imports the anchor country's monetary policy entirely and forfeits seigniorage and lender-of-last-resort capacity. Ecuador and El Salvador are the standard examples; inflation typically falls sharply but is not eliminated."
     },
-
     {
       "id": "jk-mat-028",
       "subtopic": "math_statistics",
       "difficulty": 2,
       "stem": "If 40% of 250 applicants are approved, and 30% of those approved request expedited processing, how many request expedited processing?",
-      "choices": ["30", "75", "100", "12"],
+      "choices": [
+        "30",
+        "75",
+        "100",
+        "12"
+      ],
       "answer": 0,
       "explanation": "40% of 250 is 100 approved; 30% of 100 is 30. The 75 distractor comes from taking 30% of 250 directly, ignoring that the second percentage applies to the approved subset rather than the whole."
     },
@@ -3671,7 +3850,7 @@
         "The data are normally distributed"
       ],
       "answer": 1,
-      "explanation": "A standard deviation of zero means no dispersion, so every value equals the mean. The first option is a special case rather than a necessary one — a hundred identical values give the same result."
+      "explanation": "A standard deviation of zero means no dispersion, so every value equals the mean. Option {{0}} is a special case rather than a necessary one — a hundred identical values give the same result."
     },
     {
       "id": "jk-mat-030",
@@ -3706,7 +3885,12 @@
       "subtopic": "math_statistics",
       "difficulty": 2,
       "stem": "A post receives 60 cases on Monday, 45 on Tuesday, 75 on Wednesday, 30 on Thursday, and 40 on Friday. The median daily volume is:",
-      "choices": ["45", "50", "60", "40"],
+      "choices": [
+        "45",
+        "50",
+        "60",
+        "40"
+      ],
       "answer": 0,
       "explanation": "Sorted, the values are 30, 40, 45, 60, 75, and the middle value is 45. The 50 distractor is the mean, which is pulled upward by the 75-case Wednesday."
     },
@@ -3729,7 +3913,12 @@
       "subtopic": "math_statistics",
       "difficulty": 2,
       "stem": "If an embassy processes 15 cases per hour and operates 7 hours per day, how many working days are needed to clear a backlog of 1,575 cases?",
-      "choices": ["10", "15", "12", "21"],
+      "choices": [
+        "10",
+        "15",
+        "12",
+        "21"
+      ],
       "answer": 1,
       "explanation": "Daily capacity is 15 × 7 = 105 cases, and 1,575 ÷ 105 = 15 days. The 10-day answer results from dividing by 157.5, a decimal slip that is easy to make under time pressure."
     },
@@ -3738,7 +3927,12 @@
       "subtopic": "math_statistics",
       "difficulty": 3,
       "stem": "A sample of 100 gives a result with a margin of error of ±6 points. Roughly what sample size would be needed to halve the margin of error?",
-      "choices": ["200", "400", "150", "1,000"],
+      "choices": [
+        "200",
+        "400",
+        "150",
+        "1,000"
+      ],
       "answer": 1,
       "explanation": "Margin of error scales with the inverse square root of sample size, so halving it requires quadrupling the sample to 400. Assuming a doubling suffices is the standard error, and it substantially understates survey costs."
     },
@@ -3754,14 +3948,19 @@
         "Cannot be determined"
       ],
       "answer": 1,
-      "explanation": "Exports rose 4/20 = 20%; imports rose 6/50 = 12%. The first option is the trap the question is built on: a larger absolute increase on a larger base can still be the slower rate."
+      "explanation": "Exports rose 4/20 = 20%; imports rose 6/50 = 12%. Option {{0}} is the trap the question is built on: a larger absolute increase on a larger base can still be the slower rate."
     },
     {
       "id": "jk-mat-037",
       "subtopic": "math_statistics",
       "difficulty": 3,
       "stem": "In a country of 40 million with a GDP of $200 billion growing at 3% while population grows at 4%, GDP per capita is:",
-      "choices": ["Rising", "Falling", "Constant", "Indeterminate"],
+      "choices": [
+        "Rising",
+        "Falling",
+        "Constant",
+        "Indeterminate"
+      ],
       "answer": 1,
       "explanation": "When population grows faster than output, output per person falls — roughly 3% − 4% = −1% per year. This is why aggregate growth figures can conceal deteriorating living standards in high-fertility economies."
     },
@@ -3770,7 +3969,12 @@
       "subtopic": "math_statistics",
       "difficulty": 2,
       "stem": "Which measure is least affected by a single extreme outlier?",
-      "choices": ["The mean", "The median", "The range", "The standard deviation"],
+      "choices": [
+        "The mean",
+        "The median",
+        "The range",
+        "The standard deviation"
+      ],
       "answer": 1,
       "explanation": "The median depends only on the middle position and is unmoved by how extreme the tails are. The range is determined entirely by the extremes, and both the mean and standard deviation incorporate every value's magnitude."
     },
@@ -3793,7 +3997,12 @@
       "subtopic": "math_statistics",
       "difficulty": 2,
       "stem": "A currency trades at 0.8 euros per dollar. How many dollars does 200 euros buy?",
-      "choices": ["$160", "$250", "$200", "$125"],
+      "choices": [
+        "$160",
+        "$250",
+        "$200",
+        "$125"
+      ],
       "answer": 1,
       "explanation": "If one dollar buys 0.8 euros, then 200 ÷ 0.8 = $250. Multiplying instead of dividing gives the $160 distractor — the direction of an exchange rate conversion is the most common source of error in these calculations."
     },
@@ -3816,11 +4025,15 @@
       "subtopic": "math_statistics",
       "difficulty": 2,
       "stem": "If a project's cost is split among four agencies in the ratio 4:3:2:1 and the total is $600,000, the largest share is:",
-      "choices": ["$240,000", "$150,000", "$300,000", "$200,000"],
+      "choices": [
+        "$240,000",
+        "$150,000",
+        "$300,000",
+        "$200,000"
+      ],
       "answer": 0,
       "explanation": "The parts total 4+3+2+1 = 10, so one part is $60,000 and the largest share is 4 × $60,000 = $240,000. The $150,000 distractor comes from dividing evenly among four agencies, ignoring the ratio."
     },
-
     {
       "id": "jk-usg-125",
       "subtopic": "us_government_history_society",
@@ -3882,7 +4095,12 @@
       "subtopic": "us_government_history_society",
       "difficulty": 2,
       "stem": "The Marshall Plan, NATO, and the Truman Doctrine are all best understood as instruments of:",
-      "choices": ["Containment", "Rollback", "Détente", "Isolationism"],
+      "choices": [
+        "Containment",
+        "Rollback",
+        "Détente",
+        "Isolationism"
+      ],
       "answer": 0,
       "explanation": "All three implemented the strategy of preventing further Soviet expansion without direct confrontation. Rollback would have sought to reverse existing Soviet gains, and détente describes the later 1970s relaxation of tensions."
     },
@@ -4024,7 +4242,7 @@
         "The United States, Mexico, and Central America"
       ],
       "answer": 0,
-      "explanation": "NAFTA linked the three North American economies and was replaced by the USMCA in 2020. The fourth option describes CAFTA-DR, a separate agreement with Central America and the Dominican Republic."
+      "explanation": "NAFTA linked the three North American economies and was replaced by the USMCA in 2020. Option {{3}} describes CAFTA-DR, a separate agreement with Central America and the Dominican Republic."
     },
     {
       "id": "jk-usg-140",
@@ -4096,7 +4314,6 @@
       "answer": 0,
       "explanation": "Created after Vietnam, the dissent channel provides a protected route for policy disagreement that reaches senior leadership directly. Misconduct reporting runs through the Inspector General, a separate mechanism with different protections."
     },
-
     {
       "id": "jk-whg-071",
       "subtopic": "world_history_geography",
@@ -4130,7 +4347,12 @@
       "subtopic": "world_history_geography",
       "difficulty": 2,
       "stem": "Which is the world's longest river system?",
-      "choices": ["The Amazon", "The Nile", "The Yangtze", "The Mississippi"],
+      "choices": [
+        "The Amazon",
+        "The Nile",
+        "The Yangtze",
+        "The Mississippi"
+      ],
       "answer": 1,
       "explanation": "The Nile is conventionally listed as longest at roughly 6,650 km, though the Amazon carries far more water and some measurements place it longer depending on which headwaters are counted. The Amazon is unambiguously the largest by discharge."
     },
@@ -4153,7 +4375,12 @@
       "subtopic": "world_history_geography",
       "difficulty": 2,
       "stem": "Which country has the largest Muslim population?",
-      "choices": ["Saudi Arabia", "Indonesia", "Egypt", "Iran"],
+      "choices": [
+        "Saudi Arabia",
+        "Indonesia",
+        "Egypt",
+        "Iran"
+      ],
       "answer": 1,
       "explanation": "Indonesia has roughly 230 million Muslims, far more than any Arab state. The assumption that the Muslim world is centered on the Middle East is a persistent error — South and Southeast Asia together hold the majority."
     },
@@ -4204,7 +4431,12 @@
       "subtopic": "world_history_geography",
       "difficulty": 2,
       "stem": "Which country lies directly between Poland and Russia's Kaliningrad exclave and Belarus, forming the Suwałki Gap?",
-      "choices": ["Latvia", "Lithuania", "Estonia", "Ukraine"],
+      "choices": [
+        "Latvia",
+        "Lithuania",
+        "Estonia",
+        "Ukraine"
+      ],
       "answer": 1,
       "explanation": "The Suwałki Gap is the narrow Polish-Lithuanian border corridor between Kaliningrad and Belarus. It is treated as a critical vulnerability in NATO planning because it is the only land link to the Baltic states."
     },
@@ -4255,7 +4487,12 @@
       "subtopic": "world_history_geography",
       "difficulty": 2,
       "stem": "Which of these countries does NOT border the Mediterranean Sea?",
-      "choices": ["Algeria", "Portugal", "Lebanon", "Croatia"],
+      "choices": [
+        "Algeria",
+        "Portugal",
+        "Lebanon",
+        "Croatia"
+      ],
       "answer": 1,
       "explanation": "Portugal's coastline faces only the Atlantic. Spain sits between Portugal and the Mediterranean, which is what makes the distractor plausible for anyone picturing Iberia as a single Mediterranean unit."
     },
@@ -4278,7 +4515,12 @@
       "subtopic": "world_history_geography",
       "difficulty": 2,
       "stem": "Which mountain range runs along the western edge of South America?",
-      "choices": ["The Rockies", "The Andes", "The Atlas", "The Urals"],
+      "choices": [
+        "The Rockies",
+        "The Andes",
+        "The Atlas",
+        "The Urals"
+      ],
       "answer": 1,
       "explanation": "The Andes extend roughly 7,000 km along the Pacific coast, the longest continental mountain range in the world. The Atlas range is in northwest Africa and the Urals divide European from Asian Russia."
     },
@@ -4287,7 +4529,12 @@
       "subtopic": "world_history_geography",
       "difficulty": 3,
       "stem": "The Warsaw Pact was dissolved in:",
-      "choices": ["1989", "1991", "1993", "1985"],
+      "choices": [
+        "1989",
+        "1991",
+        "1993",
+        "1985"
+      ],
       "answer": 1,
       "explanation": "The Pact was formally dissolved in July 1991, months before the Soviet Union itself. 1989 saw the revolutions in Eastern Europe that made the alliance unsustainable, which is why that year is the common wrong answer."
     },
@@ -4324,7 +4571,12 @@
       "subtopic": "world_history_geography",
       "difficulty": 2,
       "stem": "Which body of water separates Australia from New Zealand?",
-      "choices": ["The Coral Sea", "The Tasman Sea", "The Timor Sea", "The Arafura Sea"],
+      "choices": [
+        "The Coral Sea",
+        "The Tasman Sea",
+        "The Timor Sea",
+        "The Arafura Sea"
+      ],
       "answer": 1,
       "explanation": "The Tasman Sea lies between the two, roughly 2,000 km wide. The Timor and Arafura Seas lie to Australia's north toward Indonesia, and the Coral Sea to its northeast."
     },
@@ -4342,7 +4594,6 @@
       "answer": 1,
       "explanation": "Alongside the public pledge not to invade Cuba, Kennedy privately agreed to remove the Turkish missiles — a concession kept secret for years so as not to appear to reward Soviet pressure. The embargo remained in place."
     },
-
     {
       "id": "jk-eco-053",
       "subtopic": "economics",
@@ -4376,7 +4627,12 @@
       "subtopic": "economics",
       "difficulty": 2,
       "stem": "A subsidy on domestic production has an effect on trade that is most similar to:",
-      "choices": ["A tariff on imports", "An export tax", "A floating exchange rate", "A capital control"],
+      "choices": [
+        "A tariff on imports",
+        "An export tax",
+        "A floating exchange rate",
+        "A capital control"
+      ],
       "answer": 0,
       "explanation": "Both advantage domestic producers over foreign competitors, though a subsidy is paid by taxpayers while a tariff is paid by purchasers. This equivalence is why trade agreements discipline subsidies alongside tariffs."
     },
@@ -4534,13 +4790,17 @@
       "answer": 1,
       "explanation": "A currency board issues domestic currency only against foreign reserves at a fixed rate, which buys credibility at the cost of a lender of last resort. Hong Kong is the durable example; Argentina's convertibility regime is the cautionary one."
     },
-
     {
       "id": "jk-mat-043",
       "subtopic": "math_statistics",
       "difficulty": 2,
       "stem": "A section's caseload rose 25% and then fell 20%. Compared with the start, the caseload is now:",
-      "choices": ["5% higher", "Unchanged", "5% lower", "45% higher"],
+      "choices": [
+        "5% higher",
+        "Unchanged",
+        "5% lower",
+        "45% higher"
+      ],
       "answer": 1,
       "explanation": "Starting at 100: 100 × 1.25 = 125, then 125 × 0.80 = 100. The increase and decrease happen to cancel exactly here because 0.8 is the reciprocal of 1.25 — which is not the general rule, as a 10% rise and 10% fall do not cancel."
     },
@@ -4563,7 +4823,12 @@
       "subtopic": "math_statistics",
       "difficulty": 2,
       "stem": "If a post's budget is $2.4 million and personnel costs are $1.5 million, personnel represents approximately what share?",
-      "choices": ["52%", "63%", "72%", "38%"],
+      "choices": [
+        "52%",
+        "63%",
+        "72%",
+        "38%"
+      ],
       "answer": 1,
       "explanation": "1.5 ÷ 2.4 = 0.625, or about 63%. The 38% distractor is the complement — the share represented by everything other than personnel."
     },
@@ -4586,7 +4851,12 @@
       "subtopic": "math_statistics",
       "difficulty": 2,
       "stem": "A visa section approves 3 of every 5 applications. Out of 850 applications, approximately how many are refused?",
-      "choices": ["340", "510", "170", "425"],
+      "choices": [
+        "340",
+        "510",
+        "170",
+        "425"
+      ],
       "answer": 0,
       "explanation": "Refusals are 2/5 of the total: 0.4 × 850 = 340. The 510 distractor is the number approved, and 425 is simply half — the trap for anyone who reads the ratio as roughly even."
     },
@@ -4616,14 +4886,19 @@
         "Balanced"
       ],
       "answer": 1,
-      "explanation": "Exports minus imports gives 45 − 52 = −$7 billion, a deficit. Adding the two figures, as the third option does, produces total trade volume rather than the balance."
+      "explanation": "Exports minus imports gives 45 − 52 = −$7 billion, a deficit. Adding the two figures, as option {{2}} does, produces total trade volume rather than the balance."
     },
     {
       "id": "jk-mat-050",
       "subtopic": "math_statistics",
       "difficulty": 3,
       "stem": "An index is set to 100 in the base year. If it reads 138 this year, prices have risen:",
-      "choices": ["138% since the base year", "38% since the base year", "1.38% since the base year", "Cannot be determined"],
+      "choices": [
+        "138% since the base year",
+        "38% since the base year",
+        "1.38% since the base year",
+        "Cannot be determined"
+      ],
       "answer": 1,
       "explanation": "An index of 138 means the level is 1.38 times the base, a 38% increase. Reading the index value itself as the percentage change is the standard error and overstates the rise dramatically."
     },
@@ -4632,7 +4907,12 @@
       "subtopic": "math_statistics",
       "difficulty": 2,
       "stem": "Of 500 surveyed, 300 support a measure, 150 oppose, and 50 are undecided. Among those with an opinion, what share support it?",
-      "choices": ["60%", "67%", "75%", "50%"],
+      "choices": [
+        "60%",
+        "67%",
+        "75%",
+        "50%"
+      ],
       "answer": 1,
       "explanation": "Excluding the undecided leaves 450 with an opinion, and 300/450 = 67%. The 60% figure uses all 500 as the denominator — the choice of denominator is exactly what makes poll results arguable."
     },

@@ -8,8 +8,26 @@ non-zero on any error so it can be used as a pre-commit gate.
 """
 import collections
 import json
+import re
 import sys
 from pathlib import Path
+
+# Choices are shuffled before display, so any reference to a choice by its
+# position or letter points at the wrong choice once shuffled. Bank text must
+# use a {{N}} token (N = original index), which the app resolves to the letter
+# that choice was actually displayed as. See resolveChoiceRefs in js/ui.js.
+_ORD = r"(?:first|second|third|fourth|last)"
+POSITIONAL = re.compile(
+    rf"\b{_ORD}\s+(?:option|choice|answer|distractor)s?\b"
+    r"|\boptions?\s+(?:one|two|three|four)\b"
+    r"|\b(?:option|choice|answer)\s+[A-D]\b"
+    r"|\bBoth\s+[A-D]\s+and\s+[A-D]\b"
+    r"|\b(?:all|none)\s+of\s+the\s+above\b",
+    re.I,
+)
+# A token is one index, or a comma-separated set of them: {{2}}, {{0,3}}, {{0,2,3}}.
+GOOD_TOKEN = r"[0-3](?:\s*,\s*[0-3])*"
+BAD_TOKEN = re.compile(rf"\{{\{{\s*(?!{GOOD_TOKEN}\s*\}}\}})([^}}]*)\}}\}}")
 
 ROOT = Path(__file__).resolve().parent.parent
 
@@ -107,6 +125,20 @@ for section, spec in BLUEPRINT.items():
         pid = q.get("passageId")
         if pid and pid not in passages:
             errors.append(f"{qid}: passageId {pid!r} not found")
+
+        # Order-dependent references survive shuffling only as {{N}} tokens.
+        for label, text in [("explanation", q.get("explanation", ""))] + [
+            (f"choice[{i}]", c) for i, c in enumerate(q.get("choices", []))
+        ]:
+            hit = POSITIONAL.search(text)
+            if hit:
+                errors.append(
+                    f"{qid}: {label} refers to a choice by position/letter "
+                    f"({hit.group(0)!r}); use a {{{{N}}}} token or describe it by content"
+                )
+            bad = BAD_TOKEN.search(text)
+            if bad:
+                errors.append(f"{qid}: {label} has malformed token {bad.group(0)!r} (expected {{{{0}}}}–{{{{3}}}})")
 
     # passageId is None for standalone questions, so sort on a string key.
     for (pid, stem), n in sorted(seen_content.items(), key=lambda kv: (kv[0][0] or "", kv[0][1])):

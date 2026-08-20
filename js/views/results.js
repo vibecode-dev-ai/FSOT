@@ -6,7 +6,15 @@ import { endSession } from '../engine.js';
 import { getAttempt } from '../storage.js';
 import { band, pct } from '../stats.js';
 import { formatDuration } from '../timer.js';
-import { barRow, esc, formatDateTime, on, paragraphs, setView } from '../ui.js';
+import {
+  barRow,
+  esc,
+  formatDateTime,
+  on,
+  paragraphs,
+  resolveChoiceRefs,
+  setView,
+} from '../ui.js';
 
 export async function renderResults(navigate, attemptId) {
   await loadBank();
@@ -166,12 +174,12 @@ function reviewHTML(attempt, filter) {
             const marker = isAnswer ? '✓' : isChosen ? '✗' : '&nbsp;';
             return `<div style="color:${color};font-weight:${weight};padding:.1rem 0">
               <span style="display:inline-block;width:1.2rem">${marker}</span>
-              ${CHOICE_LETTERS[ci]}. ${esc(c)}
+              ${CHOICE_LETTERS[ci]}. ${esc(resolveChoiceRefs(c, r.choiceOrder))}
             </div>`;
           }).join('')}
         </div>
 
-        ${q.explanation ? `<div class="explanation" style="margin-top:.75rem">${paragraphs(q.explanation)}</div>` : ''}
+        ${q.explanation ? `<div class="explanation" style="margin-top:.75rem">${paragraphs(resolveChoiceRefs(q.explanation, r.choiceOrder))}</div>` : ''}
       </div>`;
     })
     .join('');

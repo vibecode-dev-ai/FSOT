@@ -130,6 +130,10 @@ Requirements for every question:
 - "difficulty" is 1 (straightforward), 2 (typical), or 3 (hard).
 - "explanation" must say why the correct answer is right AND why the most tempting
   wrong answer is wrong. Never restate the answer as its own explanation.
+- Refer to a choice by its CONTENT, never by its position or letter. Choices are
+  shuffled before display, so "the first option" and "option B" point at the wrong
+  choice once shuffled. Write "the claim that sanctions always succeed" instead.
+  For the same reason, never write a choice like "Both A and B" or "All of the above".
 - "passage" is an empty string when the question needs no passage.
 
 Do not reproduce or closely paraphrase any of these existing questions:

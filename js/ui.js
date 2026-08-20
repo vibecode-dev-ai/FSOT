@@ -1,5 +1,41 @@
 // Small DOM helpers shared by every view. No framework, no build step.
 
+import { CHOICE_LETTERS } from './config.js';
+
+/**
+ * Resolve `{{N}}` choice references to the letter that choice is displayed as.
+ *
+ * Bank text refers to choices by their ORIGINAL stored index, but choices are
+ * shuffled per session, so "option {{0}}" has to render as whatever letter the
+ * first stored choice landed on.
+ *
+ * `choiceOrder[displayIndex] = originalIndex`, so the display position of an
+ * original index is its position in that array. When there is no order —
+ * shuffling turned off in Settings, or an attempt saved before the order was
+ * recorded — fall back to identity, which is exactly the stored order.
+ *
+ * `{{0,2}}` names a SET of choices and renders them as sorted, correctly joined
+ * letters ("B and D", "A, B, and D"). Sorting matters because the stored order
+ * carries no meaning once shuffled: writing the two tokens separately would
+ * produce "Both C and B", which is right but reads as though it were wrong.
+ */
+export function resolveChoiceRefs(text, choiceOrder) {
+  const letterFor = (original) => {
+    const display = Array.isArray(choiceOrder) ? choiceOrder.indexOf(original) : original;
+    return CHOICE_LETTERS[display] ?? CHOICE_LETTERS[original];
+  };
+
+  return String(text ?? '').replace(/\{\{([0-3](?:\s*,\s*[0-3])*)\}\}/g, (_, list) => {
+    const letters = list
+      .split(',')
+      .map((n) => letterFor(Number(n.trim())))
+      .sort();
+    if (letters.length === 1) return letters[0];
+    if (letters.length === 2) return `${letters[0]} and ${letters[1]}`;
+    return `${letters.slice(0, -1).join(', ')}, and ${letters[letters.length - 1]}`;
+  });
+}
+
 /** Escape text for safe interpolation into HTML. */
 export function esc(str) {
   return String(str ?? '')

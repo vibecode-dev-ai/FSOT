@@ -6,7 +6,7 @@ import { getPassage } from '../bank.js';
 import { endSession, getSession, startSession } from '../engine.js';
 import { formatClock } from '../timer.js';
 import { getSettings } from '../storage.js';
-import { confirmModal, esc, paragraphs, setView } from '../ui.js';
+import { confirmModal, esc, paragraphs, resolveChoiceRefs, setView } from '../ui.js';
 
 let keyHandler = null;
 let navigateFn = null;
@@ -110,7 +110,7 @@ function paint(session) {
           <button class="${classes.join(' ')}" data-choice="${i}" ${disabled ? 'disabled' : ''}
                   role="radio" aria-checked="${i === chosen}">
             <span class="letter">${CHOICE_LETTERS[i]}</span>
-            <span>${esc(choice)}</span>
+            <span>${esc(resolveChoiceRefs(choice, q._choiceOrder))}</span>
           </button>
         </li>`;
       }).join('')}
@@ -151,7 +151,12 @@ function explanationHTML(q, chosen) {
     <div class="verdict ${right ? 'right' : 'wrong'}">
       ${right ? '✓ Correct' : `✗ Incorrect — the answer is ${CHOICE_LETTERS[q.answer]}`}
     </div>
-    ${paragraphs(q.explanation || 'No explanation available for this question.')}
+    ${paragraphs(
+      resolveChoiceRefs(
+        q.explanation || 'No explanation available for this question.',
+        q._choiceOrder
+      )
+    )}
   </div>`;
 }
 
