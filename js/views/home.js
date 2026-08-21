@@ -49,6 +49,28 @@ export async function renderHome(navigate) {
     </button>`;
   }).join('');
 
+  // The drill ranks subtopics by accuracy, so it needs a few answers in one
+  // before it has anything to pull from. The card shows either way — seeing what
+  // it will do is part of what makes it worth unlocking — but stays inert until
+  // there is history, with the meta line saying what would unlock it.
+  const drillReady = weak.length > 0;
+  const drillMeta = drillReady
+    ? `${settings.drillCount} questions · untimed · instant feedback`
+    : stats.attemptCount === 0
+    ? 'Complete a practice session to unlock'
+    : 'Answer a few more questions in any one topic to unlock';
+
+  const drillInner = `
+    <h3>Drill My Weak Areas</h3>
+    <p>Questions pulled from your lowest-accuracy subtopics and anything you have missed before.</p>
+    <div class="meta">${drillMeta}</div>`;
+
+  // Locked, it is rendered as a plain element rather than a disabled button:
+  // there is then no control to click, focus, or reach by keyboard at all.
+  const drillCard = drillReady
+    ? `<button class="mode-card mode-card-drill" data-mode="drill">${drillInner}</button>`
+    : `<div class="mode-card mode-card-drill locked" aria-disabled="true">${drillInner}</div>`;
+
   setView(`
     <h1>Foreign Service Officer Test</h1>
     <p class="lede">
@@ -59,6 +81,7 @@ export async function renderHome(navigate) {
 
     ${stats.attemptCount > 0 ? `
       <div class="row small muted" style="margin-bottom:1.25rem">
+        <span class="progress-label">Progress:</span>
         <span><strong>${stats.attemptCount}</strong> session${stats.attemptCount === 1 ? '' : 's'}</span>
         <span class="dim">·</span>
         <span><strong>${stats.questionsAnswered}</strong> questions answered</span>
@@ -96,12 +119,7 @@ export async function renderHome(navigate) {
         </div>
       </div>
 
-      ${weak.length ? `
-      <button class="mode-card mode-card-drill" data-mode="drill">
-        <h3>Drill My Weak Areas</h3>
-        <p>Questions pulled from your lowest-accuracy subtopics and anything you have missed before.</p>
-        <div class="meta">${settings.drillCount} questions · untimed · instant feedback</div>
-      </button>` : ''}
+      ${drillCard}
     </div>
 
     <hr class="divider">

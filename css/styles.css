@@ -187,6 +187,13 @@ body.exam-mode .site-footer { display: none; }
 .spread  { display: flex; align-items: center; justify-content: space-between; gap: 1rem; flex-wrap: wrap; }
 .muted   { color: var(--text-2); }
 .dim     { color: var(--text-3); }
+
+/* Names the run of figures that follows it on the home page. */
+.progress-label {
+  font-weight: 600;
+  color: var(--text-3);
+  letter-spacing: .02em;
+}
 .small   { font-size: .875rem; }
 .tiny    { font-size: .78rem; }
 .center  { text-align: center; }
@@ -235,6 +242,21 @@ body.exam-mode .site-footer { display: none; }
 /* Weak-area drill is a different kind of session — mark it with its own accent. */
 .mode-card-drill { border-left-color: var(--warn); }
 .mode-card-drill:focus-visible { outline-color: var(--warn); }
+
+/* Shown before there is enough history to rank subtopics: same card, visibly
+   dormant. The dashed edge reads as "not filled in yet" rather than as an
+   error, and the hover lift is dropped so nothing invites a click. */
+.mode-card.locked {
+  cursor: default;
+  box-shadow: none;
+  background: var(--surface-2);
+  border-style: dashed;
+  border-left-style: solid;
+}
+.mode-card.locked:hover { transform: none; box-shadow: none; }
+.mode-card.locked h3 { color: var(--text-2); }
+.mode-card.locked p  { color: var(--text-3); }
+.mode-card.locked .meta { color: var(--warn); }
 
 /* ---------- single-section chooser ---------- */
 
