@@ -14,14 +14,18 @@ from pathlib import Path
 
 # Choices are shuffled before display, so any reference to a choice by its
 # position or letter points at the wrong choice once shuffled. Bank text must
-# use a {{N}} token (N = original index), which the app resolves to the letter
-# that choice was actually displayed as. See resolveChoiceRefs in js/ui.js.
+# either use a {{N}} token (N = original index), which the app resolves to the
+# letter that choice was actually displayed as, or describe the choice by its
+# content. See resolveChoiceRefs in js/ui.js.
+#
+# The letter half of the rule stays case-sensitive: "answer a stranger" and
+# "option b of the treaty" are ordinary prose, and only a capital is a label.
 _ORD = r"(?:first|second|third|fourth|last)"
 POSITIONAL = re.compile(
     rf"\b{_ORD}\s+(?:option|choice|answer|distractor)s?\b"
     r"|\boptions?\s+(?:one|two|three|four)\b"
-    r"|\b(?:option|choice|answer)\s+[A-D]\b"
-    r"|\bBoth\s+[A-D]\s+and\s+[A-D]\b"
+    r"|\b(?:option|choice|answer)\s+(?-i:[A-D])\b"
+    r"|\bBoth\s+(?-i:[A-D])\s+and\s+(?-i:[A-D])\b"
     r"|\b(?:all|none)\s+of\s+the\s+above\b",
     re.I,
 )
