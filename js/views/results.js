@@ -139,6 +139,12 @@ function reviewHTML(attempt, filter) {
         ? r.choiceOrder.map((orig) => q.choices[orig])
         : q.choices;
 
+      // That rebuild reads the CURRENT bank, so an edit that reorders a question's
+      // choices leaves the recorded indices pointing at the wrong text and would
+      // put the ✓ on the wrong line. The credited slot is the cheap tell: it must
+      // still hold the choice the bank credits.
+      const stale = displayChoices[r.answer] !== q.choices[q.answer];
+
       const statusClass = r.chosen === null ? 'skipped' : r.correct ? 'right' : 'wrong';
       const statusTag =
         r.chosen === null
@@ -166,20 +172,27 @@ function reviewHTML(attempt, filter) {
         <div style="font-family:var(--font-read);margin-bottom:.6rem">${esc(q.stem).replace(/\n/g, '<br>')}</div>
 
         <div class="small">
-          ${displayChoices.map((c, ci) => {
-            const isAnswer = ci === r.answer;
-            const isChosen = ci === r.chosen;
+          ${(stale ? q.choices : displayChoices).map((c, ci) => {
+            // When stale we can still say which choice is right, but not which one
+            // was picked, so show the bank's order and mark only the answer.
+            const isAnswer = ci === (stale ? q.answer : r.answer);
+            const isChosen = !stale && ci === r.chosen;
             const color = isAnswer ? 'var(--correct)' : isChosen ? 'var(--incorrect)' : 'var(--text-3)';
             const weight = isAnswer || isChosen ? '600' : '400';
             const marker = isAnswer ? '✓' : isChosen ? '✗' : '&nbsp;';
             return `<div style="color:${color};font-weight:${weight};padding:.1rem 0">
               <span style="display:inline-block;width:1.2rem">${marker}</span>
-              ${CHOICE_LETTERS[ci]}. ${esc(resolveChoiceRefs(c, r.choiceOrder))}
+              ${CHOICE_LETTERS[ci]}. ${esc(resolveChoiceRefs(c, stale ? null : r.choiceOrder))}
             </div>`;
           }).join('')}
         </div>
 
-        ${q.explanation ? `<div class="explanation" style="margin-top:.75rem">${paragraphs(resolveChoiceRefs(q.explanation, r.choiceOrder))}</div>` : ''}
+        ${stale ? `<p class="tiny dim" style="margin:.5rem 0 0">
+          This question's choices were revised after you answered it, so the choice you
+          picked can no longer be identified. Your score is unaffected.
+        </p>` : ''}
+
+        ${q.explanation ? `<div class="explanation" style="margin-top:.75rem">${paragraphs(resolveChoiceRefs(q.explanation, stale ? null : r.choiceOrder))}</div>` : ''}
       </div>`;
     })
     .join('');
