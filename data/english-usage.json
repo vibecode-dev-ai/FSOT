@@ -207,7 +207,7 @@
       "id": "euc-gra-013",
       "subtopic": "grammar",
       "difficulty": 2,
-      "stem": "The ministry announced that it would review ___ procedures for handling classified material.",
+      "stem": "The department announced that it would review ___ procedures for handling classified material.",
       "choices": [
         "it's",
         "its",
@@ -215,7 +215,7 @@
         "there"
       ],
       "answer": 1,
-      "explanation": "'Its' is the possessive pronoun; 'it's' is the contraction of 'it is.' Since the subject 'ministry' was already treated as singular ('it would review'), 'their' would break agreement."
+      "explanation": "'Its' is the possessive pronoun; 'it's' is the contraction of 'it is.' Since the subject 'department' was already treated as singular ('it would review'), 'their' would break agreement."
     },
     {
       "id": "euc-gra-014",
@@ -487,7 +487,7 @@
       "id": "euc-usa-007",
       "subtopic": "usage_diction",
       "difficulty": 2,
-      "stem": "The two ministries agreed to ___ their positions before the summit.",
+      "stem": "The two departments agreed to ___ their positions before the summit.",
       "choices": [
         "reconcile",
         "reconciliate",
@@ -937,10 +937,10 @@
       "difficulty": 3,
       "stem": "Which sentence correctly maintains pronoun reference?",
       "choices": [
-        "When the ministry contacted the embassy, they requested additional documentation.",
-        "When the ministry contacted the embassy, the embassy requested additional documentation.",
-        "When the ministry contacted the embassy, it requested additional documentation.",
-        "The ministry contacted the embassy and they requested documentation."
+        "When the department contacted the embassy, they requested additional documentation.",
+        "When the department contacted the embassy, the embassy requested additional documentation.",
+        "When the department contacted the embassy, it requested additional documentation.",
+        "The department contacted the embassy and they requested documentation."
       ],
       "answer": 1,
       "explanation": "With two singular institutional nouns in play, any pronoun is ambiguous — 'it' and 'they' could refer to either party. Repeating the noun is inelegant but is the only version that tells the reader who did the requesting."
@@ -1148,8 +1148,8 @@
       "stem": "In a paragraph explaining why a policy was reversed, which sentence is least relevant?",
       "choices": [
         "Implementation costs exceeded initial estimates by a factor of three.",
-        "The policy's principal advocate left the ministry in February.",
-        "The ministry's headquarters building was renovated last year.",
+        "The policy's principal advocate left the department in February.",
+        "The department's headquarters building was renovated last year.",
         "Two coalition partners threatened to withdraw support."
       ],
       "answer": 2,
@@ -3148,7 +3148,7 @@
       "id": "euc-usa-021",
       "subtopic": "usage_diction",
       "difficulty": 2,
-      "stem": "The ministry declined to comment, citing the ___ nature of the negotiations.",
+      "stem": "The department declined to comment, citing the ___ nature of the negotiations.",
       "choices": [
         "sensitive",
         "sensible",
@@ -3274,7 +3274,7 @@
       "id": "euc-org-015",
       "subtopic": "organization_clarity",
       "difficulty": 2,
-      "stem": "Which transition best fits? 'The pilot program met all of its stated targets. ___, the ministry declined to expand it.'",
+      "stem": "Which transition best fits? 'The pilot program met all of its stated targets. ___, the department declined to expand it.'",
       "choices": [
         "Accordingly",
         "Even so",
@@ -3512,7 +3512,7 @@
       "id": "euc-gra-046",
       "subtopic": "grammar",
       "difficulty": 2,
-      "stem": "Statistics on migration ___ published annually by the ministry.",
+      "stem": "Statistics on migration ___ published annually by the department.",
       "choices": [
         "is",
         "are",
@@ -3694,7 +3694,7 @@
       "id": "euc-gra-059",
       "subtopic": "grammar",
       "difficulty": 3,
-      "stem": "If the ministry ___ more transparent, public confidence might improve.",
+      "stem": "If the department ___ more transparent, public confidence might improve.",
       "choices": [
         "was",
         "were",
@@ -3764,7 +3764,7 @@
       "id": "euc-usa-026",
       "subtopic": "usage_diction",
       "difficulty": 2,
-      "stem": "The ministry's response had little ___ on the outcome of the talks.",
+      "stem": "The department's response had little ___ on the outcome of the talks.",
       "choices": [
         "affect",
         "effect",
@@ -3904,7 +3904,7 @@
       "id": "euc-usa-036",
       "subtopic": "usage_diction",
       "difficulty": 2,
-      "stem": "The two ministries operate under ___ mandates that occasionally overlap.",
+      "stem": "The two departments operate under ___ mandates that occasionally overlap.",
       "choices": [
         "discrete",
         "discreet",
@@ -4044,7 +4044,7 @@
       "id": "euc-usa-046",
       "subtopic": "usage_diction",
       "difficulty": 2,
-      "stem": "The ministry declined to ___ on the pending investigation.",
+      "stem": "The department declined to ___ on the pending investigation.",
       "choices": [
         "comment",
         "commend",
@@ -4228,13 +4228,13 @@
       "difficulty": 3,
       "stem": "Which sentence resolves the ambiguous pronoun reference?",
       "choices": [
-        "When the ministry briefed the embassy, it released a statement.",
-        "After briefing the embassy, the ministry released a statement.",
-        "When the ministry briefed the embassy, they released a statement.",
-        "The ministry briefed the embassy and it released a statement."
+        "When the department briefed the embassy, it released a statement.",
+        "After briefing the embassy, the department released a statement.",
+        "When the department briefed the embassy, they released a statement.",
+        "The department briefed the embassy and it released a statement."
       ],
       "answer": 1,
-      "explanation": "Recasting the first clause as a participial phrase eliminates the second noun entirely, so only the ministry can be the subject. Any version retaining both nouns leaves 'it' or 'they' genuinely ambiguous."
+      "explanation": "Recasting the first clause as a participial phrase eliminates the second noun entirely, so only the department can be the subject. Any version retaining both nouns leaves 'it' or 'they' genuinely ambiguous."
     },
     {
       "id": "euc-str-037",
@@ -4408,7 +4408,7 @@
       "id": "euc-org-020",
       "subtopic": "organization_clarity",
       "difficulty": 3,
-      "stem": "Four sentences form a paragraph. Which should come second? (1) The ministry has since issued revised guidance. (2) Officers at three posts applied the standard inconsistently. (3) An internal review found the original guidance ambiguous. (4) Applicants in similar circumstances received different outcomes.",
+      "stem": "Four sentences form a paragraph. Which should come second? (1) The department has since issued revised guidance. (2) Officers at three posts applied the standard inconsistently. (3) An internal review found the original guidance ambiguous. (4) Applicants in similar circumstances received different outcomes.",
       "choices": [
         "Sentence 1",
         "Sentence 2",
@@ -4506,7 +4506,7 @@
       "id": "euc-org-027",
       "subtopic": "organization_clarity",
       "difficulty": 2,
-      "stem": "Which transition best fits? 'The pilot reduced processing times at every participating post. ___, the ministry plans to extend it nationwide.'",
+      "stem": "Which transition best fits? 'The pilot reduced processing times at every participating post. ___, the department plans to extend it nationwide.'",
       "choices": [
         "Nevertheless",
         "Accordingly",

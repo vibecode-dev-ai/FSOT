@@ -1,7 +1,7 @@
 {
   "section": "logical_reasoning",
   "passages": {
-    "lr-001": "Countries that host large numbers of international conferences report higher levels of foreign direct investment than countries that host few. A ministry official has concluded that bidding aggressively to host international conferences is an effective strategy for attracting foreign investment.",
+    "lr-001": "Countries that host large numbers of international conferences report higher levels of foreign direct investment than countries that host few. A department official has concluded that bidding aggressively to host international conferences is an effective strategy for attracting foreign investment.",
     "lr-002": "The trade ministry's new export credit program was launched in January. Export volumes in the following six months were 12 percent higher than in the same period the previous year. The ministry has cited these figures as evidence that the program is working.",
     "lr-003": "Every country that has successfully reduced its infant mortality rate below 10 per thousand has achieved near-universal access to prenatal care. Country X has near-universal access to prenatal care.",
     "lr-004": "A development agency evaluated two literacy programs. Program A was implemented in twelve districts and produced an average gain of 8 percentage points in adult literacy. Program B was implemented in three districts and produced an average gain of 14 points. The agency's director has recommended discontinuing Program A in favor of expanding Program B nationwide.",
@@ -15,14 +15,14 @@
     "lr-012": "The commission's report states that no country has ever transitioned to democracy while experiencing hyperinflation. Country Y is currently experiencing hyperinflation.",
     "lr-013": "A policy adviser argues that increasing the size of the diplomatic service would improve the quality of reporting from overseas posts, because posts with more reporting officers currently produce cables that are rated more highly by Washington consumers.",
     "lr-014": "Two neighboring countries signed a border agreement in 1998. Border incidents between them fell by 80 percent over the following decade. A regional expert cites this as evidence that formal border agreements reduce interstate friction.",
-    "lr-015": "The ministry maintains that its anticorruption reforms have succeeded, pointing out that reported instances of official bribery have declined by 30 percent since the reforms took effect.",
+    "lr-015": "The department maintains that its anticorruption reforms have succeeded, pointing out that reported instances of official bribery have declined by 30 percent since the reforms took effect.",
     "lr-016": "Whenever the central bank has raised interest rates by more than two percentage points in a single year, the currency has appreciated against the dollar within six months. The central bank has just announced a rate increase of two and a half points.",
     "lr-017": "A researcher finds that countries with more independent judiciaries attract more foreign investment. She also finds that countries with more independent judiciaries tend to have higher per capita income. She concludes that judicial independence causes foreign investment.",
     "lr-018": "The director of a humanitarian organization argues that his agency should concentrate its resources in the three countries with the greatest measured need, since concentrating resources produces greater impact per dollar than spreading them across many countries.",
     "lr-019": "Officials at a border crossing report that smuggling attempts fell sharply after new scanning equipment was installed. Critics note that smuggling attempts at a nearby crossing without new equipment fell by a similar amount over the same period.",
     "lr-020": "A negotiator argues that his counterpart's refusal to discuss the fisheries annex demonstrates that the counterpart's government considers the fisheries issue unimportant.",
     "lr-021": "An economist observes that in every year since 2005, countries receiving the largest volumes of development assistance have had the lowest growth rates. He concludes that development assistance impedes economic growth.",
-    "lr-022": "The ministry claims its new expedited visa procedure has improved service, citing a 25 percent reduction in average processing time. A staff association responds that the reduction was achieved by reclassifying complex cases into a separate queue that is not counted in the average.",
+    "lr-022": "The department claims its new expedited visa procedure has improved service, citing a 25 percent reduction in average processing time. A staff association responds that the reduction was achieved by reclassifying complex cases into a separate queue that is not counted in the average.",
     "lr-023": "A political scientist argues that international organizations are ineffective, since member states routinely ignore their resolutions when compliance would be costly.",
     "lr-024": "Every senior officer in the mission who has served in the region previously supports the proposed initiative. Officer Chen supports the proposed initiative.",
     "lr-025": "A donor government requires that all funded projects demonstrate measurable outcomes within two years. An evaluator notes that projects addressing institutional reform typically show no measurable results for five to seven years.",
@@ -31,11 +31,11 @@
     "lr-028": "No treaty that lacks a dispute-resolution mechanism has been effectively enforced. The proposed convention includes a dispute-resolution mechanism.",
     "lr-029": "An official argues that because the early-warning system correctly identified each of the last three crises before they escalated, the system will identify the next crisis in time to permit preventive action.",
     "lr-030": "A regional analyst notes that the government's approval rating rose after it expelled the foreign ambassador, and concludes that the expulsion was motivated by domestic political calculation.",
-    "lr-031": "The ministry's report concludes that its new training program improved officer performance, citing the fact that officers who completed the program received higher performance ratings than officers who did not. Participation in the program was voluntary.",
+    "lr-031": "The department's report concludes that its new training program improved officer performance, citing the fact that officers who completed the program received higher performance ratings than officers who did not. Participation in the program was voluntary.",
     "lr-032": "A commentator argues that multilateral negotiations are inherently slower than bilateral ones, since each additional party introduces additional interests that must be accommodated.",
     "lr-033": "The energy minister argues that the country should invest in domestic production rather than rely on imports, because dependence on foreign suppliers creates strategic vulnerability. An economist responds that domestic producers have consistently operated at costs 40 percent above world prices.",
     "lr-034": "Historical records show that in the century after the Congress of Vienna, wars between European great powers were rare. During the same period, wars between European powers and non-European societies were frequent.",
-    "lr-035": "A ministry study found that officers rotated to a new post every two years produced reporting rated as less insightful than officers who remained at a post for four years. The study recommends lengthening standard tours.",
+    "lr-035": "A department study found that officers rotated to a new post every two years produced reporting rated as less insightful than officers who remained at a post for four years. The study recommends lengthening standard tours.",
     "lr-036": "The finance ministry argues that its debt is sustainable because the debt-to-GDP ratio has remained stable at 60 percent for five years.",
     "lr-037": "An observer notes that both parties to the dispute have accused the other of violating the ceasefire, and concludes that responsibility must be shared roughly equally.",
     "lr-038": "A program officer argues that a scholarship program is a poor use of funds because only 30 percent of recipients return to work in their home countries.",
@@ -43,11 +43,11 @@
     "lr-040": "A senior official argues that the department should adopt a policy of assigning officers to posts based solely on language qualification, since language ability is the strongest single predictor of effective reporting.",
     "lr-041": "An aid coordinator observes that villages receiving the water project reported improved health outcomes, while villages that did not receive it reported no change. The villages receiving the project were selected because they had the greatest existing capacity to maintain the infrastructure.",
     "lr-042": "A commentator argues that because the sanctions regime has not yet produced the desired policy change after eighteen months, it should be abandoned.",
-    "lr-043": "The ministry asserts that public support for the trade agreement is strong, citing a poll in which 62 percent of respondents said they favored 'expanding economic cooperation with our neighbors.'",
+    "lr-043": "The department asserts that public support for the trade agreement is strong, citing a poll in which 62 percent of respondents said they favored 'expanding economic cooperation with our neighbors.'",
     "lr-044": "An analyst notes that the two states have never fought a war despite sixty years of territorial dispute, and concludes that the dispute is not a serious risk to regional stability.",
     "lr-045": "A researcher argues that peacekeeping missions are ineffective, noting that countries hosting peacekeeping missions experience higher rates of political violence than countries that do not.",
     "lr-046": "All members of the trade bloc have eliminated tariffs on agricultural goods. Country M has eliminated tariffs on agricultural goods but is not a member of the trade bloc.",
-    "lr-047": "The ministry will fund a project only if it has been independently evaluated. The literacy project has been independently evaluated.",
+    "lr-047": "The department will fund a project only if it has been independently evaluated. The literacy project has been independently evaluated.",
     "lr-048": "No country that has ratified the protocol has been permitted to increase its emissions allocation. Country R has been permitted to increase its emissions allocation.",
     "lr-049": "A senior official argues that the department should require all officers to serve at least one tour in a hardship post, since officers who have served in hardship posts consistently report greater satisfaction with their careers.",
     "lr-050": "Whenever the ministry has published its inspection findings, compliance among regulated firms has improved within a year. The ministry published its inspection findings last month.",
@@ -58,7 +58,7 @@
     "lr-055": "An analyst argues that the country's new anticorruption agency is ineffective, since prosecutions have declined in each of the two years since it was established.",
     "lr-056": "A diplomat argues that the summit was a success because all parties signed the final communiqué. A colleague observes that the communiqué contains no commitments that any party had not already made publicly.",
     "lr-057": "Studies show that students who study abroad earn higher salaries a decade after graduation than students who do not. A university administrator concludes that expanding study-abroad opportunities would raise graduates' future earnings.",
-    "lr-058": "A ministry official argues that the department should stop funding small grants and concentrate on large ones, because administrative cost per dollar disbursed is lower for large grants.",
+    "lr-058": "An official argues that the department should stop funding small grants and concentrate on large ones, because administrative cost per dollar disbursed is lower for large grants.",
     "lr-059": "The security service maintains that its surveillance program is justified because it has disrupted four plots. A civil liberties group responds that the service has not shown that conventional investigative methods would have failed to disrupt those plots.",
     "lr-060": "A regional specialist observes that the two states began formal negotiations only after a change of government in one of them, and concludes that the previous government had been the obstacle.",
     "lr-061": "A donor evaluates two health clinics. Clinic A treats 400 patients per month with a 92 percent recovery rate. Clinic B treats 90 patients per month with a 97 percent recovery rate. The donor recommends redirecting funds from Clinic A to Clinic B.",
@@ -76,7 +76,7 @@
     "lr-073": "An official argues that since the department has never lost a case at the arbitration panel, its legal positions are sound.",
     "lr-074": "A study of consular decisions found that officers who had worked at a post for more than three years refused applications at a rate 6 points lower than newer officers. The study attributes the gap to local knowledge.",
     "lr-075": "A commentator argues that the trade agreement must be beneficial, since both governments negotiated it voluntarily and each is presumed to act in its own interest.",
-    "lr-076": "A ministry proposes to measure diplomatic effectiveness by counting the number of bilateral agreements each embassy concludes annually.",
+    "lr-076": "A department proposes to measure diplomatic effectiveness by counting the number of bilateral agreements each embassy concludes annually.",
     "lr-077": "The evaluation found that participating villages had better sanitation outcomes than non-participating villages. Participation required villages to contribute 20 percent of project costs from local funds.",
     "lr-078": "A political analyst argues that the opposition party will win the election, since it leads in every poll conducted among voters who used the party's own website to register their preferences.",
     "lr-079": "An official argues that the department's language training is sufficient, since 94 percent of officers in language-designated positions hold the required certification.",
@@ -84,10 +84,10 @@
     "lr-081": "A donor requires that all grantees submit audited financial statements. An evaluator observes that the smallest and most locally rooted organizations are least able to afford audits.",
     "lr-082": "A commentator argues that because the sanctions caused significant economic damage to the target country, they achieved their purpose.",
     "lr-083": "An officer argues that a colleague's assessment of the political situation should be discounted, since the colleague has family connections in the country concerned.",
-    "lr-084": "The ministry's report notes that public trust in the institution rose 9 points after a transparency initiative. The survey following the initiative was conducted by telephone; the earlier one was conducted in person.",
+    "lr-084": "The department's report notes that public trust in the institution rose 9 points after a transparency initiative. The survey following the initiative was conducted by telephone; the earlier one was conducted in person.",
     "lr-085": "A specialist argues that the regional organization has been effective, citing that member states have not fought a war with one another since its founding. The organization was founded after a decisive war that settled the principal territorial questions among its members.",
     "lr-086": "All states that have accepted the optional protocol permit individual complaints. State F does not permit individual complaints.",
-    "lr-087": "The ministry funds a project only if it addresses a priority sector. Some projects that address priority sectors are not funded.",
+    "lr-087": "The department funds a project only if it addresses a priority sector. Some projects that address priority sectors are not funded.",
     "lr-088": "Every officer promoted this cycle had completed a hardship tour. Some officers who completed hardship tours were not promoted.",
     "lr-089": "No agreement reached under time pressure has survived a change of government. The fisheries agreement was reached under time pressure.",
     "lr-090": "If the delegation receives new instructions, it will table a revised text. The delegation has not tabled a revised text.",
@@ -95,10 +95,10 @@
     "lr-092": "The report states that all effective early-warning systems combine technical monitoring with political analysis. The new system combines both.",
     "lr-093": "A donor will renew funding only for programs that meet their targets. The literacy program met its targets but was not renewed.",
     "lr-094": "Every treaty the Senate has rejected in the past fifty years lacked bipartisan sponsorship. The pending treaty has bipartisan sponsorship.",
-    "lr-095": "Some members of the working group are economists. All economists in the ministry have doctoral degrees.",
+    "lr-095": "Some members of the working group are economists. All economists in the department have doctoral degrees.",
     "lr-096": "The embassy's political section argues that the opposition will boycott the election, since it boycotted the two previous elections and has announced no change in strategy.",
     "lr-097": "An analyst maintains that the country's growth is export-driven, noting that exports have risen every year that GDP has risen.",
-    "lr-098": "A ministry official argues that language training should be shortened, since officers who complete the accelerated program reach the same proficiency level as those who complete the standard program.",
+    "lr-098": "A department official argues that language training should be shortened, since officers who complete the accelerated program reach the same proficiency level as those who complete the standard program.",
     "lr-099": "A researcher argues that international courts lack legitimacy because states comply with their rulings only when compliance is convenient.",
     "lr-100": "The security adviser argues that the new screening procedure is working, citing that no prohibited items have been detected since it was introduced.",
     "lr-101": "A delegation argues that its proposal is moderate because it falls between the positions of the two other parties to the negotiation.",
@@ -107,34 +107,34 @@
     "lr-104": "An official argues that since every alternative to the proposed policy has serious drawbacks, the proposed policy should be adopted.",
     "lr-105": "A study finds that embassies with larger public affairs budgets receive more favorable coverage in host-country media. The study recommends increasing public affairs budgets.",
     "lr-106": "A negotiator argues that the other delegation must be under domestic political pressure, since it has hardened its position without offering any new justification.",
-    "lr-107": "The ministry claims that its new case management system saves time, citing that officers report spending fewer hours on administrative tasks.",
+    "lr-107": "The department claims that its new case management system saves time, citing that officers report spending fewer hours on administrative tasks.",
     "lr-108": "A regional bureau argues that a post should be closed because it has produced fewer reporting cables than any other post in the region.",
     "lr-109": "An adviser argues that because the last three crises in the region began with currency instability, monitoring exchange rates is the most efficient way to anticipate the next one.",
     "lr-110": "A commentator argues that the peace agreement will hold because both signatories have described it as historic.",
     "lr-111": "An officer argues that a source is reliable because the information the source provided last year proved accurate.",
-    "lr-112": "The ministry argues that its scholarship program builds long-term goodwill, noting that alumni surveyed a decade later report favorable views of the sponsoring country.",
+    "lr-112": "The department argues that its scholarship program builds long-term goodwill, noting that alumni surveyed a decade later report favorable views of the sponsoring country.",
     "lr-113": "A policy paper argues that the country should not join the convention, since joining would require amending twelve domestic statutes.",
     "lr-114": "An analyst argues that the election was free and fair because international observers reported no irregularities at the polling stations they visited.",
-    "lr-115": "A ministry official argues that consular fees should be raised, since the current fee has not changed in fifteen years while costs have risen.",
+    "lr-115": "A department official argues that consular fees should be raised, since the current fee has not changed in fifteen years while costs have risen.",
     "lr-116": "A commentator argues that the country's foreign policy is incoherent because it supports self-determination in one region and territorial integrity in another.",
     "lr-117": "An economist argues that the currency is overvalued because a basket of identical goods costs 40 percent more in that country than in its principal trading partner.",
     "lr-118": "The evaluation notes that the training program's graduates report high confidence in their negotiating ability. It concludes the program improved their negotiating ability.",
     "lr-119": "A regional specialist argues that the two governments will not go to war because doing so would be economically ruinous for both.",
     "lr-120": "An official argues that the aid program should continue because terminating it would waste the investment already made.",
     "lr-121": "A researcher argues that press freedom improves governance, noting that countries ranked highest for press freedom also score highest on measures of government effectiveness.",
-    "lr-122": "The ministry argues that the visa interview requirement deters fraud, citing that fraudulent applications fell after interviews became mandatory. Application volume also fell by half.",
+    "lr-122": "The department argues that the visa interview requirement deters fraud, citing that fraudulent applications fell after interviews became mandatory. Application volume also fell by half.",
     "lr-123": "An adviser argues that the department should adopt the private sector's performance management practices, since private firms operate more efficiently than government agencies.",
     "lr-124": "A commentator argues that a treaty is unnecessary because the parties already comply with the standards it would establish.",
     "lr-125": "An analyst notes that every peace agreement in the region that included a power-sharing provision collapsed within five years, and concludes that power-sharing provisions cause agreements to fail.",
-    "lr-126": "A ministry argues that its anticorruption training is effective because participants score higher on an ethics assessment after completing it than before.",
+    "lr-126": "A department argues that its anticorruption training is effective because participants score higher on an ethics assessment after completing it than before.",
     "lr-127": "An officer argues that the host government's denial should be discounted because governments routinely deny such allegations.",
     "lr-128": "A specialist argues that the sanctions relief should be granted because the target government has met three of the five conditions specified.",
-    "lr-129": "The ministry projects that digitizing applications will cut processing time by 40 percent, based on results at a pilot post that serves a highly connected urban population.",
+    "lr-129": "The department projects that digitizing applications will cut processing time by 40 percent, based on results at a pilot post that serves a highly connected urban population.",
     "lr-130": "An analyst argues that the coalition will collapse, since coalitions in that parliamentary system have historically lasted an average of eighteen months and this one has governed for twenty.",
     "lr-131": "A commentator argues that because the summit produced no communiqué, it must have failed.",
     "lr-132": "An official argues that a policy is justified because a large majority of the public supports it.",
     "lr-133": "A researcher finds that villages nearer to a new road have higher incomes than villages farther away, and concludes the road raised incomes.",
-    "lr-134": "The ministry states that no officer has ever been disciplined under the new conduct standard, and cites this as evidence that the standard is being observed.",
+    "lr-134": "The department states that no officer has ever been disciplined under the new conduct standard, and cites this as evidence that the standard is being observed.",
     "lr-135": "An adviser argues that because the intelligence assessment was wrong on the previous occasion, the current assessment should be disregarded.",
     "lr-136": "A delegation argues that the draft text is acceptable because no party has formally objected to it during three rounds of consultation.",
     "lr-137": "An economist argues that the country's debt is manageable because interest payments consume only 8 percent of government revenue.",
@@ -358,7 +358,7 @@
       "subtopic": "identify_flaw",
       "difficulty": 3,
       "passageId": "lr-015",
-      "stem": "The ministry's argument overlooks the possibility that:",
+      "stem": "The department's argument overlooks the possibility that:",
       "choices": [
         "Bribery may have declined for reasons unrelated to the reforms",
         "The reforms may have reduced reporting of bribery rather than bribery itself",
@@ -463,7 +463,7 @@
       "subtopic": "identify_flaw",
       "difficulty": 2,
       "passageId": "lr-022",
-      "stem": "If the staff association's claim is accurate, the ministry's evidence is flawed because:",
+      "stem": "If the staff association's claim is accurate, the department's evidence is flawed because:",
       "choices": [
         "The reduction reflects a change in what is measured rather than in service delivery",
         "Processing time is not a good measure of service quality",
@@ -778,7 +778,7 @@
       "subtopic": "identify_flaw",
       "difficulty": 3,
       "passageId": "lr-043",
-      "stem": "The ministry's use of the poll is problematic because:",
+      "stem": "The department's use of the poll is problematic because:",
       "choices": [
         "The question asked about a broad sentiment rather than the specific agreement",
         "Sixty-two percent is not a supermajority",
@@ -786,7 +786,7 @@
         "Polls are unreliable predictors of behavior"
       ],
       "answer": 0,
-      "explanation": "Almost everyone favors 'expanding economic cooperation' in the abstract; support for a particular agreement with particular concessions is a different and usually lower number. Inferring specific support from a favorably worded general question is the substitution the ministry has made."
+      "explanation": "Almost everyone favors 'expanding economic cooperation' in the abstract; support for a particular agreement with particular concessions is a different and usually lower number. Inferring specific support from a favorably worded general question is the substitution the department has made."
     },
     {
       "id": "lr-inf-044",
@@ -973,10 +973,10 @@
       "subtopic": "inference",
       "difficulty": 2,
       "passageId": "lr-022",
-      "stem": "If both the ministry's figure and the staff association's claim are accurate, which is best supported?",
+      "stem": "If both the department's figure and the staff association's claim are accurate, which is best supported?",
       "choices": [
         "Average processing time for the cases still counted has fallen, while overall performance is unknown",
-        "The ministry has deliberately misled the public",
+        "The department has deliberately misled the public",
         "Complex cases now take longer than before",
         "Service quality has declined"
       ],
@@ -1033,7 +1033,7 @@
       "subtopic": "identify_assumption",
       "difficulty": 3,
       "passageId": "lr-043",
-      "stem": "The ministry's argument assumes that:",
+      "stem": "The department's argument assumes that:",
       "choices": [
         "Support for 'expanding economic cooperation' translates into support for this specific agreement",
         "The poll used a representative sample",
@@ -1098,7 +1098,7 @@
         "Addressing a priority sector guarantees funding",
         "Addressing a priority sector is necessary but not sufficient for funding",
         "No projects in priority sectors are funded",
-        "The ministry's criteria are inconsistently applied"
+        "The department's criteria are inconsistently applied"
       ],
       "answer": 1,
       "explanation": "'Only if' establishes necessity, and the second premise shows the condition can be met without funding following, which rules out sufficiency. Option {{3}} imputes inconsistency where the stimulus describes a rule with additional unstated criteria."
@@ -1221,7 +1221,7 @@
         "All economists are members of the working group"
       ],
       "answer": 1,
-      "explanation": "The second premise covers economists in the ministry, and nothing establishes that the working group's economists are ministry economists. Without that link, the syllogism does not close — which is exactly what the question tests."
+      "explanation": "The second premise covers economists in the department, and nothing establishes that the working group's economists are department economists. Without that link, the syllogism does not close — which is exactly what the question tests."
     },
     {
       "id": "lr-inf-121",
@@ -1393,7 +1393,7 @@
       "subtopic": "identify_flaw",
       "difficulty": 2,
       "passageId": "lr-107",
-      "stem": "The ministry's evidence is weak primarily because:",
+      "stem": "The department's evidence is weak primarily because:",
       "choices": [
         "Self-reported time estimates may not reflect actual time spent",
         "Officers may dislike the new system",
@@ -1468,7 +1468,7 @@
       "subtopic": "identify_flaw",
       "difficulty": 3,
       "passageId": "lr-112",
-      "stem": "The ministry's evidence is weakest because:",
+      "stem": "The department's evidence is weakest because:",
       "choices": [
         "Alumni who accepted scholarships may have held favorable views beforehand",
         "A decade is too short to assess goodwill",
@@ -1618,7 +1618,7 @@
       "subtopic": "strengthen_weaken",
       "difficulty": 3,
       "passageId": "lr-122",
-      "stem": "The information about application volume weakens the ministry's claim by suggesting that:",
+      "stem": "The information about application volume weakens the department's claim by suggesting that:",
       "choices": [
         "The fraud decline may reflect fewer applications rather than deterrence",
         "The interview requirement was unpopular",
@@ -1626,7 +1626,7 @@
         "Interviews are expensive to conduct"
       ],
       "answer": 0,
-      "explanation": "If applications halved, a fall in fraudulent applications is partly arithmetic. The relevant figure is the fraud rate per application, which the ministry has not reported."
+      "explanation": "If applications halved, a fall in fraudulent applications is partly arithmetic. The relevant figure is the fraud rate per application, which the department has not reported."
     },
     {
       "id": "lr-inf-148",
@@ -1678,7 +1678,7 @@
       "subtopic": "identify_flaw",
       "difficulty": 2,
       "passageId": "lr-126",
-      "stem": "The ministry's evidence is weak because:",
+      "stem": "The department's evidence is weak because:",
       "choices": [
         "Knowing the right answer on an assessment differs from behaving accordingly",
         "The assessment may be too easy",
@@ -1798,7 +1798,7 @@
       "subtopic": "identify_flaw",
       "difficulty": 3,
       "passageId": "lr-134",
-      "stem": "The ministry's inference is questionable because:",
+      "stem": "The department's inference is questionable because:",
       "choices": [
         "An absence of discipline may reflect weak enforcement rather than good compliance",
         "The standard may be new",
@@ -2038,7 +2038,7 @@
       "subtopic": "justify_conclusion",
       "difficulty": 3,
       "passageId": "lr-129",
-      "stem": "Which principle, if accepted, would most undermine the ministry's projection?",
+      "stem": "Which principle, if accepted, would most undermine the department's projection?",
       "choices": [
         "Pilot results may be generalized only to populations resembling the pilot population",
         "Digital systems should be introduced gradually",
@@ -2083,7 +2083,7 @@
       "subtopic": "strengthen_weaken",
       "difficulty": 3,
       "passageId": "lr-112",
-      "stem": "Which of the following, if true, most strengthens the ministry's claim?",
+      "stem": "Which of the following, if true, most strengthens the department's claim?",
       "choices": [
         "Applicants rejected for the scholarship report substantially less favorable views a decade later",
         "The program has operated for thirty years",
@@ -2143,7 +2143,7 @@
       "subtopic": "strengthen_weaken",
       "difficulty": 2,
       "passageId": "lr-107",
-      "stem": "Which of the following, if true, most strengthens the ministry's claim?",
+      "stem": "Which of the following, if true, most strengthens the department's claim?",
       "choices": [
         "System logs show average time per case fell by a third after the change",
         "Officers rated the system highly in a satisfaction survey",
@@ -2158,7 +2158,7 @@
       "subtopic": "strengthen_weaken",
       "difficulty": 3,
       "passageId": "lr-122",
-      "stem": "Which of the following, if true, most strengthens the ministry's claim?",
+      "stem": "Which of the following, if true, most strengthens the department's claim?",
       "choices": [
         "The share of applications found fraudulent fell by half as well",
         "Interview waiting times increased",
@@ -2383,12 +2383,12 @@
       "subtopic": "identify_assumption",
       "difficulty": 2,
       "passageId": "lr-126",
-      "stem": "The ministry's argument assumes that:",
+      "stem": "The department's argument assumes that:",
       "choices": [
         "Assessment scores predict conduct",
         "Participants took the assessment seriously",
         "The assessment was administered fairly",
-        "Corruption is a serious problem in the ministry"
+        "Corruption is a serious problem in the department"
       ],
       "answer": 0,
       "explanation": "Effectiveness means changed behavior, so the score must stand in for conduct. Fair administration and serious participation would make the scores accurate measures of knowledge without connecting knowledge to behavior."
@@ -2443,7 +2443,7 @@
       "subtopic": "identify_assumption",
       "difficulty": 3,
       "passageId": "lr-129",
-      "stem": "The ministry's projection assumes that:",
+      "stem": "The department's projection assumes that:",
       "choices": [
         "Applicants elsewhere will adopt the digital system at rates comparable to the pilot population",
         "The system will not require maintenance",
@@ -2490,13 +2490,13 @@
       "passageId": "lr-095",
       "stem": "Which additional premise would allow the conclusion that some working group members have doctoral degrees?",
       "choices": [
-        "The working group's economists are ministry economists",
-        "All ministry staff have doctoral degrees",
+        "The working group's economists are department economists",
+        "All department staff have doctoral degrees",
         "Some economists lack doctoral degrees",
         "The working group includes non-economists"
       ],
       "answer": 0,
-      "explanation": "The gap is that the second premise covers ministry economists while the first covers working group economists; identifying the two closes it. Option {{1}} would work too but is far stronger than needed, and a correct answer should be the minimal bridging premise."
+      "explanation": "The gap is that the second premise covers department economists while the first covers working group economists; identifying the two closes it. Option {{1}} would work too but is far stronger than needed, and a correct answer should be the minimal bridging premise."
     },
     {
       "id": "lr-inf-206",
@@ -2638,7 +2638,7 @@
       "subtopic": "justify_conclusion",
       "difficulty": 3,
       "passageId": "lr-134",
-      "stem": "Which principle, if accepted, would most undermine the ministry's inference?",
+      "stem": "Which principle, if accepted, would most undermine the department's inference?",
       "choices": [
         "A compliance record is informative only where a functioning detection mechanism exists",
         "Conduct standards should be reviewed periodically",
@@ -2646,7 +2646,7 @@
         "Officers should be trained on new standards"
       ],
       "answer": 0,
-      "explanation": "The principle conditions the record's evidentiary value on detection, which the ministry never establishes. The other options concern how standards should be administered rather than what a null record shows."
+      "explanation": "The principle conditions the record's evidentiary value on detection, which the department never establishes. The other options concern how standards should be administered rather than what a null record shows."
     },
     {
       "id": "lr-inf-216",
@@ -2745,10 +2745,10 @@
       "passageId": "lr-047",
       "stem": "Which of the following can be properly concluded?",
       "choices": [
-        "The ministry will fund the literacy project",
+        "The department will fund the literacy project",
         "The literacy project has satisfied a necessary condition for funding",
         "The literacy project is more likely to be funded than unevaluated projects",
-        "The ministry funds all evaluated projects"
+        "The department funds all evaluated projects"
       ],
       "answer": 1,
       "explanation": "'Only if' marks evaluation as necessary, not sufficient, so meeting it establishes eligibility and nothing more. Option {{0}} affirms the consequent; the third makes a probabilistic claim that a statement of logical necessity does not support."
